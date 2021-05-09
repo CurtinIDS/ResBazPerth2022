@@ -115,7 +115,7 @@ venueTitle: "ResBaz 2019 @ the Clocktower!"
 venueFeatures: ["Recently refurbished lecture rooms.", "Free catering provided daily.", "Bean bags and areas for socializing!"]
 
 # Tweets Feed Block
-tweetsFeedImage: "The_Perth_skyline_in_January_2016.jpg"
+tweetsFeedImage: "perth.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "ResBazPerth"
 twitterFeed: "https://twitter.com/ResBazPerth"
