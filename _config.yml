@@ -11,7 +11,7 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "ResBaz Auckland"
+title: "ResBaz Perth"
 email: "researchdata@auckland.ac.nz"
 description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
 baseurl: "/resbaz"
@@ -58,27 +58,27 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "ResBaz : <typeout>"
 eventDate: ""
-typeoutTextValues: '"Auckland"'
-typeoutFallback: "Auckland"
+typeoutTextValues: '"Perth"'
+typeoutFallback: "Perth"
 heroButtons:
- - {link: "", text: "Next ResBaz: Mid 2020"}
+ - {link: "", text: "28 June - 2 July 2021"}
 
 # About Block
-aboutTitle: "About ResBaz Auckland"
+aboutTitle: "About ResBaz Perth"
 aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. Throughout 2019, events will be held at a number of university campuses around the globe.</p>
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research.</p>
 
-<p>Hosted by the University of Auckland, the 2019 Auckland Research Bazaar is a (free-of-charge) 3-day intensive conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Hosted online in 2021, Perth Research Bazaar is a low cost 5-day intensive conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to apply. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
+ - {count: "70", specialCharacter: "+", info: "attendees", detail: ""}
  - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallel streams", detail: ""}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "2", specialCharacter: "", info: "parallel streams", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -115,15 +115,15 @@ venueTitle: "ResBaz 2019 @ the Clocktower!"
 venueFeatures: ["Recently refurbished lecture rooms.", "Free catering provided daily.", "Bean bags and areas for socializing!"]
 
 # Tweets Feed Block
-tweetsFeedImage: "auckland.jpg"
+tweetsFeedImage: "The_Perth_skyline_in_January_2016.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ResBaz"
-twitterFeed: "https://twitter.com/search?q=%23ResBaz&src=typd"
+twitterHashTag: "ResBazPerth"
+twitterFeed: "https://twitter.com/ResBazPerth"
 
 # Partners Block
 organizersTitle: "Organisers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "See you next year!"
+partnersC4sponsorsButton: "Become a supporter"
 partnersLink: ""
 
 # Subscribe Block
@@ -176,18 +176,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/eResearchUoA?lang=en", icon: "twitter"}
- - {link: "https://eresearch.auckland.ac.nz", icon: "site"}
- - {link: "mailto:researchdata@auckland.ac.nz", icon: "email"}
+ - {link: "https://twitter.com/ResBazPerth", icon: "twitter"}
+ - {link: "https://resbaz.github.io/resbaz2021/perth/", icon: "site"}
+ - {link: "mailto:perth@resbaz.edu.au", icon: "email"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://eresearch.auckland.ac.nz", text: "Centre for eResearch"}
+   - {link: "https://www.curtin.edu.au", text: "Curtin University"}
+   - {link: "https://www.ecu.edu.au", text: "Edith Cowan University"}
+   - {link: "https://www.uwa.edu.au", text: "The University of Western Australia"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:researchdata@auckland.ac.nz", text: "researchdata@auckland.ac.nz"}
+   - {link: "mailto:perth@resbaz.edu.au", text: "perth@resbaz.edu.au"}
  -
   title: "FAQ"
   links:
