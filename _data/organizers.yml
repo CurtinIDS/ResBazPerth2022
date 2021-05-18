@@ -1,18 +1,20 @@
-#- 
-#  group: "Main organiser"
-#  elements: 
-#    - {name: "Centre for eResearch", description: "The University of Auckland Centre for eResearch", link: "https://eresearch.auckland.ac.nz"}
 - 
-#  group: "Co-organisers"
+  group: "Host"
   elements: 
-    - {name: "Curtin University", description: "Curtin University", link: "https://www.curtin.edu.au"}
-    - {name: "Edith Cowan University", description: "Edith Cowan University", link: "https://www.ecu.edu.au"}
-    - {name: "The University of Western Australia", description: "The University of Western Australia", link: "https://www.uwa.edu.au"}
-#-
-#  group: "Sponsors"
-#  elements: 
-#    - {name: "Faculty of Science", description: "Faculty of Science", link: "https://www.auckland.ac.nz/en/science.html"}
-#    - {name: "Digital Services", description: "Digital Services", link: "https://www.staff.auckland.ac.nz/en/central-services/digital-services.html"}
-#- 
+    - {name: "Curtin University", description: "Curtin University is proud to host Perth ResBaz 2021", link: "https://curtin.edu.au"}
+- 
+  group: "Co-organisers"
+  elements: 
+    - {name: "Curtin Insitute for Computation", description: "Curtin Insitute for Computation", link: "https://computation.curtin.edu.au"}
+    - {name: "Pawsey Supercomputing Centre", description: "Pawsey Supercomputing Centre", link: "https://pawsey.org.au/"}
+-
+  group: "Sponsors"
+  elements: 
+    - {name: "Edith Cowan University", description: "Edith Cowan University", link: "https://ecu.edu.au"}
+    - {name: "Murdoch University", description: "Murdoch University", link: "https://murdoch.edu.au"}
+    - {name: "University of Western Australia", description: "University of Western Australia", link: "https://www.uwa.edu.au/home"}
+    - {name: "University of Notre Dame Australia", description: "University of Notre Dame Australia", link: "https://notredame.edu.au/"}
+-
+
 #  elements:
 #    - {name: "REANNZ", description: "REANNZ", link: "https://reannz.co.nz"}
