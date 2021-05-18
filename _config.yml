@@ -32,9 +32,9 @@ organizerLogo: "/img/seo/organizer-logo.png"
 # Head
 metaKeywords: "event, resbaz, research, bazaar, resbas, rezbaz, curtin, eresearch"
 twitterAccount: "@ResBazPerth"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "mailto:perthresbaz@gmail.com"
@@ -44,7 +44,7 @@ c4pUrl: "mailto:perthresbaz@gmail.com"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
@@ -56,7 +56,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "ResBaz : <typeout>"
+heroTitle: "ResBaz : <typeout> "
 eventDate: ""
 typeoutTextValues: '"Perth"'
 typeoutFallback: "Perth"
@@ -78,7 +78,7 @@ statisticBlock:
 # - {count: "70", specialCharacter: "+", info: "attendees", detail: ""}
  - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
  - {count: "15", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "2", specialCharacter: "", info: "parallel streams", detail: ""}
+ - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -106,13 +106,14 @@ eventEndTime: "2021-07-02T17:00"
 #mapMobileCenterCoordinates: "-36.850223, 174.76922"
 
 # Venue Block
-venueBlockTitle: "Past Events"
-venueBigImage: "cam_beanbags.jpg"
-venueSmallImage2: "publishing_tabletop.jpg"
-venueSmallImage1: "sam_on_the_wall.jpg"
-venueSmallImage3: "speaker_beanbags.jpg"
-venueTitle: "ResBaz 2019 @ the Clocktower!"
-venueFeatures: ["Recently refurbished lecture rooms.", "Free catering provided daily.", "Bean bags and areas for socializing!"]
+# venueBlockTitle: "Past Events"
+# venueBigImage: "cam_beanbags.jpg"
+# venueSmallImage2: "publishing_tabletop.jpg"
+# venueSmallImage1: "sam_on_the_wall.jpg"
+# venueSmallImage3: "speaker_beanbags.jpg"
+
+# venueTitle: "ResBaz Perth 2019"
+# venueFeatures: ["Recently refurbished lecture rooms.", "Free catering provided daily.", "Bean bags and areas for socializing!"]
 
 # Tweets Feed Block
 tweetsFeedImage: "perth.jpg"
