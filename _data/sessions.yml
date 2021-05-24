@@ -3,7 +3,7 @@
   title: "Introduction to python"
   description: "This is a virtual Data Carpentry Workshop offering a hands on introduction to the coding language Python. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research. REGISTRATION IS COMING SOON!"
   subtype: workshop
-  speakers:
+  speakers: [3, 4]
   complexity: "Beginner"
   hidden: false
 -
@@ -11,7 +11,7 @@
   title: "Introduction to R"
   description: "This is a virtual Data Carpentry Workshop offering a hands on introduction to the coding language R. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research. REGISTRATION IS COMING SOON!"
   subtype: workshop
-  speakers: 
+  speakers: [2]
   complexity: "Beginner" 
  
 -
@@ -19,7 +19,7 @@
   title: "MATLAB/Simulink resources for Research – Information session"
   description: "Join MATLAB/Simulink resources for Research – Information session to enhance your research skills. MathWorks offers many online services, online resources, documentation, solutions and training (free of charge) along with MATLAB/Simulink for research. You will learn how to navigate MathWorks resources to find a solution to your specific research domain. REGISTRATION IS COMING SOON!"
   subtype: webinar
-  speakers:
+  speakers: [5]
   complexity: "Beginner" 
   
 -
@@ -27,21 +27,21 @@
   title: "Computational skills with MATLAB for Research"
   description: "Are you ready for your research with Computational skills with MATLAB? You will enjoy developing your new skills or extending your computational skills with MATLAB during your research. Join this session to discover how you can get started with MATLAB if you are new to MATLAB. REGISTRATION IS COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [5]
   complexity: "Beginner" 
 -
   id: 105
   title: "Introduction to GADI"
   description: "REGISTRATION COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [16]
   complexity: "Beginner" 
 -
   id: 106
   title: "Introduction to NCI data collections"
   description: "REGISTRATION COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [17, 18, 19]
   complexity: "Beginner" 
   registration: 
 -
@@ -49,33 +49,33 @@
   title: "NVivo Part 1"
   subtype: webinar
   description: "This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications. REGISTRATION IS COMING SOON!"
-  speakers: 
+  speakers: [7]
   complexity: "Beginner" 
 -
   id: 202                                    
   title: "Using Nimbus Research Cloud"
   subtype: webinar
   description: "REGISTRATION COMING SOON!"
-  speakers: 
+  speakers: [12, 13, 14]
 -
   id: 203                                    
   title: "A brief introduction to Qualtrics"
   subtype: webinar
   description: "Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS. REGISTRATION IS COMING SOON!"
-  speakers: 
+  speakers: [19]
 -
   id: 301                                   
   title: "Introduction to git and bash"
   subtype: workshop
   description: "This is a virtual Software Carpentry Workshop offering a hands on introduction to the coding language bash and version control with git. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research. REGISTRATION IS COMING SOON!"
-  speakers: 
+  speakers: [4]
   complexity: "Beginner" 
 -
   id: 302                                   
   title: "Introduction to Julia"
   subtype: webinar
   description: "REGISTRATION COMING SOON!"
-  speakers: 
+  speakers: [22]
   complexity: "Beginner" 
 -
   id: 303                                   
@@ -89,42 +89,42 @@
   title: "Introduction to BCCVL"
   subtype: webinar
   description: "REGISTRATION COMING SOON!"
-  speakers: 
+  speakers: [21]
   complexity: "Beginner" 
 -
   id: 305                                   
   title: "Cloudstor"
   subtype: webinar
   description: "REGISTRATION COMING SOON!"
-  speakers: 
+  speakers: [20]
   complexity: "Beginner" 
 -
   id: 401
   title: "R Markdown"
   description: "During this session you’ll get a brief introduction to R Markdown. We’ll cover the basic building blocks of an R Markdown file and learn how to knit reports from an R Notebook using RStudio. The only prerequisite is having R and RStudio installed on your computer. The relevant R Markdown packages are installed with RStudio by default. You don’t even need to know much R! REGISTRATION IS COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [2]
   complexity: "Beginner" 
 -
   id: 402
   title: "Fully reproducible R projects using workflowR"
   description: "Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account. REGISTRATION IS COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [3]
   complexity: "Intermediate" 
 -
   id: 403
   title: "Lunch and learn- teaching online"
   description: "REGISTRATION COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [8]
   complexity: "Beginner" 
 -
   id: 408
   title: "Is your science causing your laptop to burn?"
   description: "REGISTRATION COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [8, 9, 10, 11]
   complexity: "Beginner" 
 -
   id: 405
@@ -138,26 +138,26 @@
   title: "Jupyter notebooks for absolute beginners"
   description: "REGISTRATION COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [20]
   complexity: "Beginner" 
 -
   id: 407
   title: "NVivo Part 2"
   description: "This workshop provides an introduction to coding and searching in the qualitative software NVivo. In particular it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and at how to conduct searches and create graphs (including by making use of attributes of case and file classifications). REGISTRATION IS COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [7]
   complexity: "Beginner" 
 -
   id: 501
   title: "Clarivate"
   description: "REGISTRATION COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [15]
   complexity: "Beginner" 
 -
   id: 502
   title: "Parallel computing with MATLAB and AWS"
   description: "Are you tired with having your MATLAB code run slow?  Do you need to scale out to the cloud to access big data?  Then this presentation is for you as we’ll cover the tips and tricks to maximise the performance of your code first but then how to scale to leverage the full power of your computer and beyond into the cloud.  Specifically, we’ll touch on multi-core and multi-thread computations, cloud scale to unlimited CPUs as well as working with data that is too large for the RAM on your machines to handle. Pre-requisites: no hard prereqs but some experience with MATLAB or Simulink is suggested. REGISTRATION IS COMING SOON!"
   subtype: webinar
-  speakers: 
+  speakers: [6]
   complexity: "Intermediate" 
