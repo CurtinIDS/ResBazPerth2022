@@ -69,13 +69,13 @@ aboutTitle: "About ResBaz Perth"
 aboutSubtitle: "Conference"
 aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research.</p>
 
-<p>Hosted online in 2021, the Perth Research Bazaar is a FREE cost 5-day virtual 'pick and mix' conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Hosted online in 2021, the Perth Research Bazaar is a <b>FREE</b> 5-day virtual 'pick and mix' conference where researchers come together to up-skill in next generation digital research tools and skills. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to attend. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
 
 <p>Please note, registration is required for each of the individual workshops. You may attend as many workshops and presentations as you like! Some of the computational training workshops do have capacity limits, and we will endeavour to make recordings of these sessions available on the website where possible.</p>
 
-<p> Registrations will soon be available for many of the sessions, please check the SESSSIONS and SCHEDULE pages shortly!</p>"
+<p>Registrations are now open for all the sessions, please check the SESSIONS and SCHEDULE pages.</p>"
 
 
 # Statistic Block
@@ -87,7 +87,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 # rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -141,7 +141,7 @@ teamText: "<p>We'd like to thank the dedicated volunteers who have organised Res
 <p> Kathryn Napier, Curtin Institute for Computation, Curtin University | Tania Lerch, Curtin University | Shih Ching Fu, Curtin University | 
 Matthias Liffers, Australian Research Data Commons | Nichola Burton, Australian Research Data Commons | Ann Backhaus, Pawsey Supercomputing Centre | 
 Chandra Salgado Kent, Edith Cowan University | Rebecca Lange, Curtin Institute for Computation, Curtin University | Luke Edwards, Pawsey Supercomputing Centre | Katina Toufexis, University of Western Australia | 
-Alyce Russell, Edith Cowan University | Rick Tankard, Murdoch University</p>"
+Alyce Russell, Edith Cowan University | Rick Tankard</p>"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
