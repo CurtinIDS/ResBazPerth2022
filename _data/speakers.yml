@@ -14,7 +14,7 @@
   name: "Shih Ching"
   surname: "Fu"
   company: "Curtin University"
-  title: "Consultant statistician and data scientist"
+  title: "Research Data Analyst"
   bio: 
   thumbnailUrl: "scfu.jpeg"   
   rockstar: false
@@ -251,6 +251,18 @@
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+- 
+  id: 23
+  name: "Rebecca"
+  surname: "Lange"
+  company: "Curtin University"
+  title: "Research Fellow, Curtin Institute for Computation"
+  bio: 
+  thumbnailUrl: "rlange.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+
 
 
 
