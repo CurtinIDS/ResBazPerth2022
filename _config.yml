@@ -65,7 +65,7 @@ heroButtons:
  - {link: "", text: "28 June - 2 July 2021"}
 
 # About Block
-aboutTitle: "About ResBaz Perth"
+aboutTitle: "About ResBaz Perth 2021: 'Pick and Mix' Edition"
 aboutSubtitle: "Conference"
 aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research.</p>
 
@@ -73,21 +73,21 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to attend. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
 
-<p>Please note, registration is required for each of the individual workshops. You may attend as many workshops and presentations as you like! Some of the computational training workshops do have capacity limits, and we will endeavour to make recordings of these sessions available on the website where possible.</p>
+<p>Please note, <b>registration is required for each of the individual workshops</b>. You may attend as many workshops and presentations as you like! Some of the computational training workshops do have capacity limits, and we will endeavour to make recordings of these sessions available on the website where possible.</p>
 
-<p> Registrations will soon be available for many of the sessions, please check the SESSSIONS and SCHEDULE pages shortly!</p>"
+<p>Registrations are now open for the majority of the sessions, please check the <ab href=\"https://curtinic.github.io/ResBazPerth2021/schedule/\">SCHEDULE</ab> and <ab href=\"https://curtinic.github.io/ResBazPerth2021/sessions/\">SESSIONS</ab> pages.</p>"
 
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
-# - {count: "70", specialCharacter: "+", info: "attendees", detail: ""}
- - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
- - {count: "15", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "20", specialCharacter: "+", info: "helpers", detail: ""}
+ - {count: "40", specialCharacter: "+", info: "hours", detail: ""}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: ""}
  - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 # rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -125,7 +125,7 @@ eventEndTime: "2021-07-02T17:00"
 tweetsFeedImage: "pertheq.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "ResBazPerth"
-twitterFeed: "https://twitter.com/ResBazPerth"
+twitterFeed: "https://twitter.com/ResBaz"
 
 # Partners Block
 organizersTitle: "Organisers"
@@ -134,14 +134,27 @@ organizersTitle: "Organisers"
 # partnersLink: ""
 
 # Team Block
-teamBlockTitle: "ResBaz Perth 2020/2021 Program Organising Committee"
-teamSubtitle: "Volunteers"
-teamText: "<p>We'd like to thank the dedicated volunteers who have organised ResBaz Perth 2021!</p>
+teamBlockTitle: "Volunteers"
+teamSubtitle: "We'd like to thank the dedicated volunteers behind ResBaz Perth 2021!"
+teamText: "<p><b>ResBaz Perth 2020/2021 Program Organising Committee</p></b>
 
-<p> Kathryn Napier, Curtin Institute for Computation, Curtin University | Tania Lerch, Curtin University | Shih Ching Fu, Curtin University | 
-Matthias Liffers, Australian Research Data Commons | Nichola Burton, Australian Research Data Commons | Ann Backhaus, Pawsey Supercomputing Centre | 
-Chandra Salgado Kent, Edith Cowan University | Rebecca Lange, Curtin Institute for Computation, Curtin University | Luke Edwards, Pawsey Supercomputing Centre | Katina Toufexis, University of Western Australia | 
-Alyce Russell, Edith Cowan University | Rick Tankard, Murdoch University</p>"
+<p> Curtin Institute for Computation, Curtin University | Kathryn Napier, Rebecca Lange <br>
+Curtin University | Shih Ching Fu, Tania Lerch <br>
+Australian Research Data Commons | Matthias Liffers, Nichola Burton <br>
+Pawsey Supercomputing Centre | Ann Backhaus, Luke Edwards <br>
+Edith Cowan University | Chandra Salgado Kent <br>
+University of Western Australia | Katina Toufexis <br>
+Edith Cowan University | Alyce Russell <br>
+Rick Tankard</p>
+
+<p><b> ResBaz Perth 2021 Helpers </p></b>
+<p> Curtin Institute for Computation, Curtin University | Foad Farivar, Rebecca Lange, Dan Marrable, Kathryn Napier, Nancy Tippaya, Leigh Tyers<br>
+Curtin University | Janice Chan, Shih Ching Fu, Tania Lerch, Valerie Maxwell, Andrew Rohl, Ranjodh Singh, Michael Wilson <br>
+Edith Cowan University | Alyce Russell<br>
+Harry Perkins Institute | Sara Beecroft, Joakim Karlsson<br>
+Murdoch University | Siobhan Egan<br>
+The University of Western Australia | Philipp Bayer, Brady Johnston, Lyron Winderbaum</p>"
+
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -193,12 +206,12 @@ Alyce Russell, Edith Cowan University | Rick Tankard, Murdoch University</p>"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/ResBazPerth", icon: "twitter"}
+ - {link: "https://twitter.com/ResBaz", icon: "twitter"}
 # - {link: "https://resbaz.github.io/resbaz2021/perth/", icon: "site"}
  - {link: "mailto:perthresbaz@gmail.com", icon: "email"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Host"
   links:
    - {link: "https://www.curtin.edu.au", text: "Curtin University"}
   #  - {link: "https://www.ecu.edu.au", text: "Edith Cowan University"}

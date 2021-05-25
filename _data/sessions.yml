@@ -1,45 +1,88 @@
 -
   id: 101
-  title: "Introduction to python"
-  description: "This is a virtual Data Carpentry Workshop offering a hands on introduction to the coding language Python. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research. REGISTRATION IS COMING SOON!"
+  title: "Introduction to Data Analysis and Visualisation in Python"
+  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the Python programming language. The course is aimed at postgraduate students and researchers who want to learn more about automation and improve the reproducibility of their research.</p>
+
+  <p>NB: Session runs parallel with Introduction to R.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-data-analysis-and-visualisation-in-python-tickets-156449377299\">here</a>.</p>"
   subtype: workshop
   speakers: [3, 4]
   complexity: "Beginner"
   hidden: false
 -
-  id: 102
-  title: "Introduction to R"
-  description: "This is a virtual Data Carpentry Workshop offering a hands on introduction to the coding language R. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research. REGISTRATION IS COMING SOON!"
+  id: 101b
+  title: "Introduction to Data Analysis and Visualisation in Python continued"
+  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the Python programming language. The course is aimed at postgraduate students and researchers who want to learn more about automation and improve the reproducibility of their research.</p>
+
+  <p>NB: Session runs parallel with Introduction to R.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-data-analysis-and-visualisation-in-python-tickets-156449377299\">here</a>.</p>"
   subtype: workshop
-  speakers: [2]
+  speakers: [3, 4]
+  complexity: "Beginner"
+  hidden: true
+-
+  id: 102
+  title: "Introduction to Data Analysis and Visualisation in R"
+  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
+  
+  <p>NB: Session runs parallel with Introduction to Python.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-data-analysis-and-visualisation-in-r-tickets-156445846739\">here</a>.</p>"
+  subtype: workshop
+  speakers: [2, 24]
   complexity: "Beginner" 
- 
+-
+  id: 102b
+  title: "Introduction to Data Analysis and Visualisation in R continued"
+  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
+  
+  <p>NB: Session runs parallel with Introduction to Python.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-data-analysis-and-visualisation-in-r-tickets-156445846739\">here</a>.</p>"
+  subtype: workshop
+  speakers: [2, 24]
+  complexity: "Beginner"  
+  hidden: true
 -
   id: 103
-  title: "MATLAB/Simulink resources for Research – Information session"
-  description: "Join MATLAB/Simulink resources for Research – Information session to enhance your research skills. MathWorks offers many online services, online resources, documentation, solutions and training (free of charge) along with MATLAB/Simulink for research. You will learn how to navigate MathWorks resources to find a solution to your specific research domain. REGISTRATION IS COMING SOON!"
+  title: "MATLAB/Simulink Resources for Research – Information Session"
+  description: "<p>MathWorks offers many online services, online resources, documentation, solutions and training (free of charge) along with MATLAB/Simulink for research. You will learn how to navigate MathWorks resources to find a solution to your specific research domain.</p>
+  
+  <p>NB: Session time overlaps with Introduction to GADI.</p>
+
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-computational-skills-with-matlab-for-research-tickets-155917969845\">here</a>.</p>"
   subtype: webinar
   speakers: [5]
   complexity: "Beginner" 
   
 -
   id: 104
-  title: "Computational skills with MATLAB for Research"
-  description: "Are you ready for your research with Computational skills with MATLAB? You will enjoy developing your new skills or extending your computational skills with MATLAB during your research. Join this session to discover how you can get started with MATLAB if you are new to MATLAB. REGISTRATION IS COMING SOON!"
+  title: "Computational Skills with MATLAB for Research"
+  description: "<p>Develop new skills or extend your computational skills with MATLAB during your research. Join this session to discover how you can get started with MATLAB if you are new to MATLAB.</p>
+  
+  <p>NB: Session time overlaps Introduction to GADI and Introduction to NCI Data Collections.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-computational-skills-with-matlab-for-research-tickets-155917969845\">here</a>.</p>"
   subtype: webinar
   speakers: [5]
   complexity: "Beginner" 
 -
   id: 105
   title: "Introduction to GADI"
-  description: "REGISTRATION COMING SOON!"
+  description: "<p>NB: Session time overlaps with MATLAB/Simulink Resources for Research and Computational Skills with MATLAB for Research.</p>
+  
+  <p>Register <a href=\"https://anu.zoom.us/meeting/register/tZMpf--grz4vHdx0JOqDUEa9-8r4asvzE-2d?_x_zm_rtaid=560FPxYiSmGv5n0ANzskJQ.1621294852446.8d9ab0dfa45c1e8009e1ca068a510a54&_x_zm_rhtaid=787\">here</a>.</p>"
   subtype: webinar
   speakers: [16]
   complexity: "Beginner" 
 -
   id: 106
-  title: "Introduction to NCI data collections"
-  description: "REGISTRATION COMING SOON!"
+  title: "Introduction to high performance data "
+  description: "<p>NB: Session time overlaps with Computational Skills with MATLAB for Research.</p>
+  
+  <p>Register <a href=\"https://anu.zoom.us/meeting/register/tZAkfuyqpzsiE9AY7zFsu9cdkl6i2NKLQmWU?_x_zm_rtaid=560FPxYiSmGv5n0ANzskJQ.1621294852446.8d9ab0dfa45c1e8009e1ca068a510a54&_x_zm_rhtaid=787\">here</a>.</p>"
   subtype: webinar
   speakers: [17, 18, 23]
   complexity: "Beginner" 
@@ -48,116 +91,165 @@
   id: 201                                     
   title: "NVivo Part 1"
   subtype: webinar
-  description: "This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications. REGISTRATION IS COMING SOON!"
+  description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications.</p>
+  
+  <p>NB: Session time overlaps with Using Nimbus Research Cloud and A Brief Introduction to Qualtrics.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-nvivo-part-1-tickets-155947145109\">here</a>.</p>"
   speakers: [7]
   complexity: "Beginner" 
 -
   id: 202                                    
   title: "Using Nimbus Research Cloud"
   subtype: webinar
-  description: "REGISTRATION COMING SOON!"
+  description: "<p>NB: Session time overlaps with NVivo Part 1 and A Brief Introduction to Qualtrics.</p>
+  
+  <p>Registration opening soon.</p>"
   speakers: [12, 13, 14]
 -
   id: 203                                    
-  title: "A brief introduction to Qualtrics"
+  title: "A Brief Introduction to Qualtrics"
   subtype: webinar
-  description: "Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS. REGISTRATION IS COMING SOON!"
+  description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>
+  
+  <p>NB: Session time overlaps with NVivo Part 1 and Using Nimbus Research Cloud.</p>
+
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/perth-resbaz-2021-a-brief-introduction-to-qualtrics-tickets-153761525863\">here</a>.</p>"
   speakers: [19]
 -
   id: 301                                   
   title: "Introduction to git and bash"
   subtype: workshop
-  description: "This is a virtual Software Carpentry Workshop offering a hands on introduction to the coding language bash and version control with git. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research. REGISTRATION IS COMING SOON!"
+  description: "<p>This is a virtual Software Carpentry Workshop offering a hands on introduction to the coding language bash and version control with git. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research.</p>
+  
+  <p>NB: Session time overlaps with Introduction to BCCVL and Cloudstor.</p> 
+  
+  <p>Registration opening soon.</p>"
   speakers: [4]
   complexity: "Beginner" 
 -
   id: 302                                   
   title: "Introduction to Julia"
   subtype: webinar
-  description: "REGISTRATION COMING SOON!"
+  description: "<p>Registration opening soon.</p>"
   speakers: [22]
   complexity: "Beginner" 
 -
   id: 303                                   
   title: "Make your Data FAIR"
   subtype: webinar
-  description: "What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR. REGISTRATION IS COMING SOON!"
+  description: "<p>What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/perth-resbaz-2021-make-your-data-fair-tickets-154646573063\">here</a>.</p>"
   speakers: [1]
   complexity: "Beginner" 
 -
   id: 304                                   
   title: "Introduction to BCCVL"
   subtype: webinar
-  description: "REGISTRATION COMING SOON!"
+  description: "<p>NB: Session time overlaps with Introduction to git and bash.</p>
+  
+  <p>Registration opening soon.</p>"
   speakers: [21]
   complexity: "Beginner" 
 -
   id: 305                                   
   title: "Cloudstor"
   subtype: webinar
-  description: "REGISTRATION COMING SOON!"
+  description: "<p>NB: Session time overlaps with Introduction to git and bash.</p>
+  
+  <p>Registration opening soon.</p>"
   speakers: [20]
   complexity: "Beginner" 
 -
   id: 401
   title: "R Markdown"
-  description: "During this session you’ll get a brief introduction to R Markdown. We’ll cover the basic building blocks of an R Markdown file and learn how to knit reports from an R Notebook using RStudio. The only prerequisite is having R and RStudio installed on your computer. The relevant R Markdown packages are installed with RStudio by default. You don’t even need to know much R! REGISTRATION IS COMING SOON!"
+  description: "<p>During this session you'll get a brief introduction to R Markdown. We'll cover the basic building blocks of an R Markdown file and learn how to knit reports from an R Notebook using RStudio. The only prerequisite is having R and RStudio installed on your computer. The relevant R Markdown packages are installed with RStudio by default. You don't even need to know much R!</p>
+
+  <p>NB: Session time overlaps with Academic Career Planning.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-r-markdown-tickets-155949427937\">here</a>.</p>"
   subtype: webinar
   speakers: [2]
   complexity: "Beginner" 
 -
   id: 402
   title: "Fully reproducible R projects using workflowR"
-  description: "Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account. REGISTRATION IS COMING SOON!"
+  description: "<p>Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account.</p>
+
+  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-fully-reproducible-r-projects-using-workflowr-tickets-155950505159\">here</a>.</p>"
   subtype: webinar
   speakers: [3]
   complexity: "Intermediate" 
 -
   id: 403
-  title: "Lunch and learn- teaching online"
-  description: "REGISTRATION COMING SOON!"
+  title: "Lunch and Learn - Teaching Online"
+  description: "<p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners</p>
+  
+  <p>Registration opening soon.</p>"
   subtype: webinar
   speakers: [8]
   complexity: "Beginner" 
 -
   id: 408
   title: "Is your science causing your laptop to burn?"
-  description: "REGISTRATION COMING SOON!"
+  description: "<p>NB: Session time overlaps with NVivo Part 2.</p>
+  
+  <p>Registration opening soon."
   subtype: webinar
   speakers: [8, 9, 10, 11]
   complexity: "Beginner" 
 -
   id: 405
   title: "Academic Career Planning"
-  description: "REGISTRATION COMING SOON!"
+  description: "<p>NB: Session time overlaps with Introduction to R Markdown.</p>
+  
+  <p>Registration opening soon.</p>"
   subtype: webinar
   speakers: 
   complexity: "Beginner" 
 -
   id: 406
-  title: "Jupyter notebooks for absolute beginners"
-  description: "REGISTRATION COMING SOON!"
+  title: "Jupyter Notebooks for Absolute Beginners"
+  description: "<p>NB: Session time overlaps with Fully Reproducible R Projects using workflowR and Lunch and Learn - Teaching Online.</p>
+  
+  <p>Registration opening soon.</p>"
   subtype: webinar
   speakers: [20]
   complexity: "Beginner" 
 -
   id: 407
   title: "NVivo Part 2"
-  description: "This workshop provides an introduction to coding and searching in the qualitative software NVivo. In particular it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and at how to conduct searches and create graphs (including by making use of attributes of case and file classifications). REGISTRATION IS COMING SOON!"
+  description: "<p>This workshop provides an introduction to coding and searching in the qualitative software NVivo. In particular it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and at how to conduct searches and create graphs (including by making use of attributes of case and file classifications).</p>
+  
+  <p>NB: Session time overlaps with Is your science causing your laptop to burn?</p>
+
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-nvivo-part-2-tickets-155948294547\">here</a>.</p>"
   subtype: webinar
   speakers: [7]
   complexity: "Beginner" 
 -
   id: 501
-  title: "Clarivate"
-  description: "REGISTRATION COMING SOON!"
+  title: "Product Tool Box: Web of Science"
+  description: "<p>This webinar will showcase the Web of Science platform and cover aspects of the tools in Web of Science, EndNote, ResesearcherID, and ORCID.  
+Following the session participants should be able to easily navigate the Web of Science platform.</p>
+
+  <p>Session time overlaps with Parallel Computing with MATLAB and AWS.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-product-tool-box-web-of-science-tickets-155953805029\">here</a>.</p>"
   subtype: webinar
   speakers: [15]
   complexity: "Beginner" 
 -
   id: 502
   title: "Parallel computing with MATLAB and AWS"
-  description: "Are you tired with having your MATLAB code run slow?  Do you need to scale out to the cloud to access big data?  Then this presentation is for you as we’ll cover the tips and tricks to maximise the performance of your code first but then how to scale to leverage the full power of your computer and beyond into the cloud.  Specifically, we’ll touch on multi-core and multi-thread computations, cloud scale to unlimited CPUs as well as working with data that is too large for the RAM on your machines to handle. Pre-requisites: no hard prereqs but some experience with MATLAB or Simulink is suggested. REGISTRATION IS COMING SOON!"
+  description: "<p>Are you tired with having your MATLAB code run slow?  Do you need to scale out to the cloud to access big data?  Then this presentation is for you as we’ll cover the tips and tricks to maximise the performance of your code first but then how to scale to leverage the full power of your computer and beyond into the cloud.  Specifically, we’ll touch on multi-core and multi-thread computations, cloud scale to unlimited CPUs as well as working with data that is too large for the RAM on your machines to handle. Pre-requisites: no hard prereqs but some experience with MATLAB or Simulink is suggested.</p>
+  
+  <p>NB: Session time overlaps with Product Tool Box: Web of Science.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-parallel-computing-with-matlab-and-aws-tickets-155942230409\">here</a>.</p>"
   subtype: webinar
   speakers: [6]
   complexity: "Intermediate" 

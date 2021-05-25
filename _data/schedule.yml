@@ -1,6 +1,6 @@
 - 
   date: "2021-06-28"  
-  dateReadable: "June 28"
+  dateReadable: "June 28 (all session times in AWST)"
   tracks: 
     - {title: "1", color: "#90be4e"}
     - {title: "2", color: "#e91e63"}
@@ -41,7 +41,7 @@
     - {
       startTime: "09:00",
       endTime: "12:30",
-      sessionIds: [101, 102, 404]
+      sessionIds: [101b, 102b, 404]
     }
     - {
       startTime: "13:00",
