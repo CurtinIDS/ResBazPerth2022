@@ -262,6 +262,17 @@
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+- 
+  id: 25
+  name: "Emilia"
+  surname: "Decker"
+  company: "EcoCommons Australia"
+  title: "Support and Training Officer"
+  bio: 
+  thumbnailUrl: "edecker.jpg"
+  rockstar: false
+  ribbon:
+    - {abbr: "EC", title: "EcoCommons", url: "https://ecocommons.org.au/"}
 
 
 
