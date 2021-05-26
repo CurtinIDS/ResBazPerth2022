@@ -122,12 +122,11 @@
   subtype: workshop
   description: "<p>This is a virtual Software Carpentry Workshop offering a hands on introduction to the coding language bash and version control with git. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research.</p>
   
-  <p>NB: Session time overlaps with Introduction to BCCVL and Cloudstor.</p> 
-  
+  <p>NB: Session time overlaps with Using the BCCVL to solve environmental problems and Cloudstor.</p> 
+
   <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-introduction-to-bash-and-version-control-git-tickets-156803885643\">here</a>.</p>"
   speakers: [4]
   complexity: "Beginner" 
-  hidden: false
 -
   id: 302                                   
   title: "Introduction to Julia"
@@ -148,11 +147,12 @@
   id: 304                                   
   title: "Using the BCCVL to solve environmental problems"
   subtype: webinar
-  description: "<p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>
-  <p> Species Distribution Models (SDM) can be used to understand the potential distribution of a species or the environmental suitability of habitat based on a set of environmental conditions as well as species occurrence data. In this workshop we address the fundamental aspects of SDMs, the type of data needed for these models, different types of algorithms and evaluation of models as well as an understanding of Climate Change projections to investigate how species distributions might change in the future under a certain carbon emission scenario. </p>
+  description: "<p> Species Distribution Models (SDM) can be used to understand the potential distribution of a species or the environmental suitability of habitat based on a set of environmental conditions as well as species occurrence data. In this workshop we address the fundamental aspects of SDMs, the type of data needed for these models, different types of algorithms and evaluation of models as well as an understanding of Climate Change projections to investigate how species distributions might change in the future under a certain carbon emission scenario. </p>
   <p> We then introduce the workshop participants to the Biodiversity and Climate Change Virtual Laboratory (BCCVL), a freely available tool that supports researchers, students and decision-makers through easy access to pre-processed and curated data on global biodiversity, climate and environmental datasets integrated with a suite of analytical tools. BCCVL is a point-and-click online platform for modelling species responses to environmental conditions, which provides an easy introduction into the scientific concepts of models without the need for the user to understand the code behind the models.</p>
   <p>The BCCVL encourages a high standard of species distribution modelling whilst removing the technical barriers that often come with running models. This approach allows researchers, decision makers and students to focus on conducting meaningful science and producing high impact results, instead of focussing too much on the technical side of things.</p>
   <p>By the end of the workshop participants will have an overview on what SDMs are and how to use BCCVL in their own time to solve their specific environmental problem.</p>
+  
+  <p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>
 
   <p>Registration opening soon.</p>"
   speakers: [21, 25]
