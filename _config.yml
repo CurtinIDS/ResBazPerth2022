@@ -31,7 +31,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 
 # Head
 metaKeywords: "event, resbaz, research, bazaar, resbas, rezbaz, curtin, eresearch"
-twitterAccount: "@ResBazPerth"
+twitterAccount: "@ResBaz"
 #socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 #socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -124,7 +124,7 @@ eventEndTime: "2021-07-02T17:00"
 # Tweets Feed Block
 tweetsFeedImage: "pertheq.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ResBazPerth"
+twitterHashTag: "PerthResBaz"
 twitterFeed: "https://twitter.com/ResBaz"
 
 # Partners Block
