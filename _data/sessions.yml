@@ -127,6 +127,7 @@
   <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-introduction-to-bash-and-version-control-git-tickets-156803885643\">here</a>.</p>"
   speakers: [4]
   complexity: "Beginner" 
+  hidden: false
 -
   id: 302                                   
   title: "Introduction to Julia"
