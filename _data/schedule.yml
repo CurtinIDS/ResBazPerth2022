@@ -115,22 +115,22 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [404, 406]
+      sessionIds: [406, 404]
     }
     - {
-      startTime: "12:00",
-      endTime: "13:00",
+      startTime: "12:30",
+      endTime: "13:30",
       sessionIds: [403, 404]
-    }
-    - {
-      startTime: "13:30",
-      endTime: "14:30",
-      sessionIds: [408, 404]
     }
     - {
       startTime: "13:00",
       endTime: "15:00",
       sessionIds: [404, 407]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:30",
+      sessionIds: [408, 404]
     }
 - 
   date: "2021-07-02"
