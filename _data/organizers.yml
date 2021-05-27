@@ -5,7 +5,7 @@
 - 
   group: "Co-organisers"
   elements: 
-    - {name: "Curtin Insitute for Computation", description: "Curtin Insitute for Computation", link: "https://computation.curtin.edu.au"}
+    - {name: "Curtin Institute for Computation", description: "Curtin Institute for Computation", link: "https://computation.curtin.edu.au"}
     - {name: "Pawsey Supercomputing Centre", description: "Pawsey Supercomputing Centre", link: "https://pawsey.org.au/"}
     - {name: "Australian Research Data Commons", description: "ARDC", link: "https://ardc.edu.au/"}
 -
