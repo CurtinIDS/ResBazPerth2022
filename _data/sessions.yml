@@ -191,9 +191,7 @@
 -
   id: 403
   title: "Lunch and Learn - Teaching Online"
-  description: "<p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners</p>
-  
-  <p>Registration opening soon.</p>"
+  description: "<p>Registration opening soon.</p>"
   subtype: webinar
   speakers: [8]
   complexity: "Beginner" 
