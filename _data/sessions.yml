@@ -48,8 +48,10 @@
 -
   id: 103
   title: "MATLAB/Simulink Resources for Research – Information Session"
-  description: "<p>MathWorks offers many online services, online resources, documentation, solutions and training (free of charge) along with MATLAB/Simulink for research. You will learn how to navigate MathWorks resources to find a solution to your specific research domain.</p>
-  
+  description: "<p>MathWorks offers many online services, online resources, documentation, solutions and training (free of charge) along with MATLAB/Simulink for research. You will learn how to navigate MathWorks resources to find a solution to your specific research domain.
+  You will know how you can acquire new research skills for tackling your research problems. MATLAB/Simulink will empower you with research outcomes and innovation.</p>
+  <p>Pre-requisites: Make your MathWorks Account with your university email address <a href=\"https://www.mathworks.com/mwaccount/\">here</a></p>
+
   <p>NB: Session time overlaps with Introduction to GADI.</p>
 
   <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-computational-skills-with-matlab-for-research-tickets-155917969845\">here</a>.</p>"
@@ -61,6 +63,12 @@
   id: 104
   title: "Computational Skills with MATLAB for Research"
   description: "<p>Develop new skills or extend your computational skills with MATLAB during your research. Join this session to discover how you can get started with MATLAB if you are new to MATLAB.</p>
+
+  <p> We will begin with data loading and visualisation and discuss various data types of MATLAB since data management is a key to the success of research outcomes and impacts. You will discover features of Tasks and APPs, which can generate a MATLAB code for you. Tasks and APPs make it easy to learn new computational skills. 
+  If you are a MATLAB Expert, check out new MATLAB features, such as Tasks, APPs and others, to accelerate the pace of research. 
+  Do not miss out on this session since we will take a quick introduction to APPs on Deep learning and Machine Learning as well. </p>
+  
+  <p>Pre-requisites: Make your MathWorks Account with your university email address <a href=\"https://www.mathworks.com/mwaccount/\">here</a></p>
   
   <p>NB: Session time overlaps Introduction to GADI and Introduction to NCI Data Collections.</p>
   
