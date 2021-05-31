@@ -3,7 +3,7 @@ layout: post
 title:  "The Website is Live!"
 date:   2020-05-15 12:00:00
 isStaticPost: false
-image: perth.jpg
+image: pertheq.jpg
 ---
 
 Yay! The website for ResBaz Perth 2021 is now live!
