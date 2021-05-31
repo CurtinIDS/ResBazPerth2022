@@ -76,8 +76,8 @@
       sessionIds: [404, 304]
     }
     - {
-      startTime: "11:00",
-      endTime: "12:30",
+      startTime: "11:30",
+      endTime: "13:00",
       sessionIds: [404, 305]
     }
     - {
