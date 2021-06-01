@@ -197,8 +197,6 @@
   id: 402
   title: "Fully reproducible R projects using workflowR"
   description: "<p>Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account.</p>
-
-  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners.</p>
   
   <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-fully-reproducible-r-projects-using-workflowr-tickets-155950505159\">here</a>.</p>"
   subtype: webinar
