@@ -108,7 +108,7 @@
   <p>NB: Session time overlaps with Getting Started with Using the (Nimbus Research) Cloud and A Brief Introduction to Qualtrics.</p>
   
   <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-nvivo-part-1-tickets-155947145109\">here</a>.</p>"
-  speakers: [7]
+  speakers: [7, 27]
   complexity: "Beginner" 
 -
   id: 202                                    
@@ -264,7 +264,7 @@
 
   <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-nvivo-part-2-tickets-155948294547\">here</a>.</p>"
   subtype: webinar
-  speakers: [7]
+  speakers: [7, 27]
   complexity: "Beginner" 
 -
   id: 501

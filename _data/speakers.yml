@@ -273,13 +273,24 @@
   rockstar: false
   ribbon:
     - {abbr: "EC", title: "EcoCommons", url: "https://ecocommons.org.au/"}
+- 
+  id: 26
+  name: "Jayanthi"
+  surname: "Joseph"
+  company: "Curtin University"
+  title: "Librarian, Library Learning, Research, Engagement and Global"
+  bio: 
+  thumbnailUrl:  
+  rockstar: false
+  ribbon:
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 
 
 
 
 
 
-
+ 
 
 
 
