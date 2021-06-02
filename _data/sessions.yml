@@ -79,7 +79,9 @@
 -
   id: 105
   title: "Introduction to GADI"
-  description: "<p>NB: Session time overlaps with MATLAB/Simulink Resources for Research and Computational Skills with MATLAB for Research.</p>
+  description: "<p>Gadi is Australia’s most powerful supercomputer, a highly parallel cluster comprising more than 150,000 processor cores on ten different types of compute nodes. Gadi accommodates a wide range of tasks, from running climate models to genome sequencing, from designing molecules to astrophysical modelling. Introduction to Gadi is designed for new users, or users that want a refresher on the basics of Gadi.</p>
+  
+  <p>NB: Session time overlaps with MATLAB/Simulink Resources for Research and Computational Skills with MATLAB for Research.</p>
   
   <p>Register <a href=\"https://anu.zoom.us/meeting/register/tZMpf--grz4vHdx0JOqDUEa9-8r4asvzE-2d?_x_zm_rtaid=560FPxYiSmGv5n0ANzskJQ.1621294852446.8d9ab0dfa45c1e8009e1ca068a510a54&_x_zm_rhtaid=787\">here</a>.</p>"
   subtype: webinar
@@ -88,7 +90,9 @@
 -
   id: 106
   title: "Introduction to high performance data "
-  description: "<p>NB: Session time overlaps with Computational Skills with MATLAB for Research.</p>
+  description: "<p>Introduction to High Performance Data is designed for new users, or users that want a refresher on the basics of accessing and using high-performance scientific data at NCI. NCI is Australia’s premier supercomputing and big data facility, with over 10 Petabytes of nationally significant research data collections. We make analysis tools and virtual research environments for users to be able to interact with and manipulate their scientific data effectively.</p>
+ 
+  <p>NB: Session time overlaps with Computational Skills with MATLAB for Research.</p>
   
   <p>Register <a href=\"https://anu.zoom.us/meeting/register/tZAkfuyqpzsiE9AY7zFsu9cdkl6i2NKLQmWU?_x_zm_rtaid=560FPxYiSmGv5n0ANzskJQ.1621294852446.8d9ab0dfa45c1e8009e1ca068a510a54&_x_zm_rhtaid=787\">here</a>.</p>"
   subtype: webinar
