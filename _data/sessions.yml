@@ -235,11 +235,13 @@
 -
   id: 405
   title: "Academic Career Planning"
-  description: "<p>NB: Session time overlaps with Introduction to R Markdown.</p>
+  description: "<p>This workshop helps you to explore the elements you need to consider in establishing a career strategy when pursuing an academic career. Designing your career is a process, not something that will happen two weeks after submitting your thesis or completing your higher degree … so it is important you start thinking about this earlier and developing your job search strategy.</p>
+
+ <p> NB: Session time overlaps with Introduction to R Markdown.</p>
   
-  <p>Registration opening soon.</p>"
+ <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-academic-career-planning-tickets-157904848653\">here</a>.</p>"
   subtype: webinar
-  speakers: 
+  speakers: [27]
   complexity: "Beginner" 
 -
   id: 406

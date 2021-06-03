@@ -284,6 +284,17 @@
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+- 
+  id: 27
+  name: "Kathleen"
+  surname: "Franklyn"
+  company: "Curtin University"
+  title: "Career Development consultant, Student Success"
+  bio: 
+  thumbnailUrl: "kfranklyn.jpeg"
+  rockstar: false
+  ribbon:
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 
 
 
