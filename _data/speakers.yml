@@ -154,15 +154,15 @@
     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
 - 
   id: 15
-  name: "Anthony"
-  surname: "Dona"
+  name: "Geeho"
+  surname: "Liu"
   company: "Clarivate"
-  title: "Solution Consultant"
+  title: "Director, Solution Consulting"
   bio: 
-  thumbnailUrl: "adona.jpeg" 
+  thumbnailUrl:  
   rockstar: false
   ribbon:
-    - {abbr: "C", title: "Clarivate", url: "https://www.clarivate.com/"}
+    - {abbr: "Clarivate", title: "Clarivate", url: "https://www.clarivate.com/"}
 - 
   id: 16
   name: "Roger"
