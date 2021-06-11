@@ -291,3 +291,12 @@ Following the session participants should be able to easily navigate the Web of 
   subtype: webinar
   speakers: [6]
   complexity: "Intermediate" 
+-
+  id: 503
+  title: "Celebration Lunch"
+  description: "<p>It is the last event for ResBaz Perth 2021, come meet your new RezBaz buddies in-person over a delicious free lunch at Curtin University!</p>
+  
+  <p>You've met the Perth ResBaz community online, now meet them in person! What better way to celebrate all your new knowledge learned at ResBaz then to share in a delicious lunch and finally share your experiences in person. 
+  Lunch will be provided by Aroma Cafe and will offer an assortment of italian feast treats and sandwiches and pastries. If you have dietary requirements just tell us in your registration.</p>
+  
+  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-celebration-lunch-tickets-158840986667\">here</a>.</p>"

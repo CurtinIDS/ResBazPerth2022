@@ -150,3 +150,8 @@
       endTime: "10:00",
       sessionIds: [404, 502]
     }
+    - {
+      startTime: "12:30",
+      endTime: "14:00",
+      sessionIds: [503]
+    }
