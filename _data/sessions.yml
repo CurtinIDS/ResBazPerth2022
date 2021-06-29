@@ -4,10 +4,12 @@
   description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the Python programming language. The course is aimed at postgraduate students and researchers who want to learn more about automation and improve the reproducibility of their research.</p>
 
   <p>NB: Session runs parallel with Introduction to R.</p>
-  
+  <p> Day 1 recordings: </p>
   <p>View part 1 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/WFM6JkPZT506vOT\">recording here</a>.</p>
   <p>View part 2 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/U4q3gcJHPcfeBKJ\">recording here</a>.</p>
-  <p>View part 3 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/tUUwVCTDDsmrudJ\">recording here</a>.</p>"
+  <p>View part 3 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/tUUwVCTDDsmrudJ\">recording here</a>.</p>
+  <p> Day 2 recording: </p>
+  <p>View part 4 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/rgeNMCp5TB31WgA\">recording here</a>.</p>"
 
   subtype: workshop
   speakers: [3, 4]
@@ -20,7 +22,9 @@
 
   <p>NB: Session runs parallel with Introduction to R.</p>
   
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-data-analysis-and-visualisation-in-python-tickets-156449377299\">here</a>.</p>"
+  <p> Day 2 recording: </p>
+  <p>View part 4 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/rgeNMCp5TB31WgA\">recording here</a>.</p>"
+  
   subtype: workshop
   speakers: [3, 4]
   complexity: "Beginner"
@@ -32,7 +36,9 @@
   
   <p>NB: Session runs parallel with Introduction to Python.</p>
   
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/YOlqDqGgnTmtYR3\">recording here</a>.</p>"
+  <p>View Day 1 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/YOlqDqGgnTmtYR3\">recording here</a>.</p>
+  <p>View Day 2 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/i83NH46dzQVoOCq\">recording here</a>.</p>"
+
   subtype: workshop
   speakers: [2, 24]
   complexity: "Beginner" 
@@ -43,7 +49,8 @@
   
   <p>NB: Session runs parallel with Introduction to Python.</p>
   
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-data-analysis-and-visualisation-in-r-tickets-156445846739\">here</a>.</p>"
+  <p>View Day 2 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/i83NH46dzQVoOCq\">recording here</a>.</p>"
+  
   subtype: workshop
   speakers: [2, 24]
   complexity: "Beginner"  
@@ -57,6 +64,7 @@
 
   <p>NB: Session time overlaps with Introduction to GADI.</p>
 
+  <p>View the session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/NykmMdfJqyKUnLQ\"> slides here</a>.</p>
   <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/8nxJcMV7Jnv4ulI\">recording here</a>.</p>"
   subtype: webinar
   speakers: [5]
@@ -74,7 +82,7 @@
   <p>Pre-requisites: Make your MathWorks Account with your university email address <a href=\"https://www.mathworks.com/mwaccount/\">here</a></p>
   
   <p>NB: Session time overlaps Introduction to GADI and Introduction to NCI Data Collections.</p>
-  
+  <p>View the session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/Ziu5tzyoS1kOhvz\"> resources here</a>.</p>
   <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/AZCum38x0h9HqSb\">recording here</a>.</p>"
   subtype: webinar
   speakers: [5]
@@ -84,9 +92,8 @@
   title: "Introduction to GADI"
   description: "<p>Gadi is Australia’s most powerful supercomputer, a highly parallel cluster comprising more than 150,000 processor cores on ten different types of compute nodes. Gadi accommodates a wide range of tasks, from running climate models to genome sequencing, from designing molecules to astrophysical modelling. Introduction to Gadi is designed for new users, or users that want a refresher on the basics of Gadi.</p>
   
-  <p>NB: Session time overlaps with MATLAB/Simulink Resources for Research and Computational Skills with MATLAB for Research.</p>
+  <p>NB: Session time overlaps with MATLAB/Simulink Resources for Research and Computational Skills with MATLAB for Research.</p>"
   
-  <p>Register <a href=\"https://anu.zoom.us/meeting/register/tZMpf--grz4vHdx0JOqDUEa9-8r4asvzE-2d?_x_zm_rtaid=560FPxYiSmGv5n0ANzskJQ.1621294852446.8d9ab0dfa45c1e8009e1ca068a510a54&_x_zm_rhtaid=787\">here</a>.</p>"
   subtype: webinar
   speakers: [16]
   complexity: "Beginner" 
@@ -95,9 +102,8 @@
   title: "Introduction to high performance data "
   description: "<p>Introduction to High Performance Data is designed for new users, or users that want a refresher on the basics of accessing and using high-performance scientific data at NCI. NCI is Australia’s premier supercomputing and big data facility, with over 10 Petabytes of nationally significant research data collections. We make analysis tools and virtual research environments for users to be able to interact with and manipulate their scientific data effectively.</p>
  
-  <p>NB: Session time overlaps with Computational Skills with MATLAB for Research.</p>
+  <p>NB: Session time overlaps with Computational Skills with MATLAB for Research.</p>"
   
-  <p>Register <a href=\"https://anu.zoom.us/meeting/register/tZAkfuyqpzsiE9AY7zFsu9cdkl6i2NKLQmWU?_x_zm_rtaid=560FPxYiSmGv5n0ANzskJQ.1621294852446.8d9ab0dfa45c1e8009e1ca068a510a54&_x_zm_rhtaid=787\">here</a>.</p>"
   subtype: webinar
   speakers: [17, 18, 23]
   complexity: "Beginner" 
@@ -108,9 +114,8 @@
   subtype: webinar
   description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications.</p>
   
-  <p>NB: Session time overlaps with Getting Started with Using the (Nimbus Research) Cloud and A Brief Introduction to Qualtrics.</p>
+  <p>NB: Session time overlaps with Getting Started with Using the (Nimbus Research) Cloud and A Brief Introduction to Qualtrics.</p>"
   
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-nvivo-part-1-tickets-155947145109\">here</a>.</p>"
   speakers: [7, 26]
   complexity: "Beginner" 
 -
@@ -120,8 +125,7 @@
   description: "<p>In this 90-minute webinar we introduce cloud computing and detail the Pawsey Supercomputing Centre’s cloud computing resource called the “Nimbus Research Cloud”.</p>
   <p>You will have ample time for questions and if you’re interested, you can also access a test environment to experiment with what you can do with cloud computing.</p>
   
-  <p>NB: Session time overlaps with NVivo Part 1 and A Brief Introduction to Qualtrics.</p>
-  <p>Register <a href=\"https://pawsey.org.au/event/resbaz2021-nimbus-2/\">here</a>.</p>"
+  <p>NB: Session time overlaps with NVivo Part 1 and A Brief Introduction to Qualtrics.</p>"
   speakers: [12, 13, 14]
 -
   id: 203                                    
@@ -130,8 +134,10 @@
   description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>
   
   <p>NB: Session time overlaps with NVivo Part 1 and Getting Started with Using the (Nimbus Research) Cloud.</p>
+  
+  <p>View the <a href=\"https://cloudstor.aarnet.edu.au/plus/s/gVki3DWB0QuAe89\">Intro to Qualtrics manual here</a>.</p>
 
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/perth-resbaz-2021-a-brief-introduction-to-qualtrics-tickets-153761525863\">here</a>.</p>"
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/IKqJvJYXGdQO1XT\">recording here</a>.</p>"
   speakers: [19]
 -
   id: 301                                   
