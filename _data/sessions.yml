@@ -114,8 +114,9 @@
   subtype: webinar
   description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications.</p>
   
-  <p>NB: Session time overlaps with Getting Started with Using the (Nimbus Research) Cloud and A Brief Introduction to Qualtrics.</p>"
-  
+  <p>NB: Session time overlaps with Getting Started with Using the (Nimbus Research) Cloud and A Brief Introduction to Qualtrics.</p>
+  <p> View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/81GZNNSBQx4rn0g\">recording here</a>.</p>"
+
   speakers: [7, 26]
   complexity: "Beginner" 
 -
