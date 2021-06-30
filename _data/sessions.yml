@@ -147,8 +147,7 @@
   description: "<p>This is a virtual Software Carpentry Workshop offering a hands on introduction to the coding language bash and version control with git. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research.</p>
   
   <p>NB: Session time overlaps with Using the BCCVL to solve environmental problems and Active Data Management with CloudStor.</p> 
-
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-introduction-to-bash-and-version-control-git-tickets-156803885643\">here</a>.</p>"
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/jA6UiWCgND1aLUq\">recording here</a>.</p>"
   speakers: [4]
   complexity: "Beginner" 
 -
@@ -156,8 +155,9 @@
   title: "Introduction to Julia"
   subtype: webinar
   description: "<p>Learning a new programming language can be a substantial time investment. Given the emergence of different programming languages, it is often difficult to decide if learning a new language is worth the time investment. The aim of this talk is to share my experience in learning and using Julia for research from a practical perspective. The talk will cover some of the useful features and annoyances of Julia as well as their relations to other languages such as Python and R.</p>
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/Xo1ahDQYUd2FImd\">recording here</a>.</p>"
+
   
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-introduction-to-julia-tickets-157427735595\">here</a>.</p>"
   speakers: [22]
   complexity: "Beginner" 
 -
@@ -165,8 +165,8 @@
   title: "Make your Data FAIR"
   subtype: webinar
   description: "<p>What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR.</p>
-  
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/perth-resbaz-2021-make-your-data-fair-tickets-154646573063\">here</a>.</p>"
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/RPuhRpe7aYgDjJ5\">recording here</a>.</p>"
+
   speakers: [1]
   complexity: "Beginner" 
 -
@@ -179,8 +179,9 @@
   <p>By the end of the workshop participants will have an overview on what SDMs are and how to use BCCVL in their own time to solve their specific environmental problem.</p>
   
   <p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/CZ48q4jJRfv2sEO\">recording here</a>.</p>"
 
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-using-the-bccvl-to-solve-environmental-problems-tickets-156613040821\">here</a>.</p>"
+
   speakers: [21, 25]
   complexity: "Beginner" 
 -
@@ -191,9 +192,8 @@
   <p>Topics such as cloud storage, collaborative editing, versioning and data sharing will be discussed and demonstrated. You will learn how to set up an automatic way to move your data to the cloud so that your data is safe and secure. You can also ensure that you are sharing your data securely by knowing what tools are best for this operation.</p>
   <p>This is a hands-on workshop using CloudStor, AARNet’s file sync, share and storage service.  Please check that you have access to cloudstor.aarnet.edu.au. If you do not have CloudStor access you can still attend, just advise the organiser beforehand so arrangements can be made: Sara.King@aarnet.edu.au.</p>
   
-  <p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>
+  <p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>"
   
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-active-data-management-with-cloudstor-tickets-157444945069\">here</a>.</p>"
   speakers: [20]
   complexity: "Beginner" 
 -
