@@ -207,7 +207,9 @@
   title: "R Markdown"
   description: "<p>During this session you'll get a brief introduction to R Markdown. We'll cover the basic building blocks of an R Markdown file and learn how to knit reports from an R Notebook using RStudio. The only prerequisite is having R and RStudio installed on your computer. The relevant R Markdown packages are installed with RStudio by default. You don't even need to know much R!</p>
 
-  <p>NB: Session time overlaps with Academic Career Planning.</p>"
+  <p>NB: Session time overlaps with Academic Career Planning.</p>
+  
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/eCoozfYpBfriLWA\">recording here</a>.</p>"
   
   subtype: webinar
   speakers: [2]
@@ -215,7 +217,11 @@
 -
   id: 402
   title: "Fully reproducible R projects using workflowR"
-  description: "<p>Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account.</p>"
+  description: "<p>Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account.</p>
+  
+  <p>View session <a href=\" https://cloudstor.aarnet.edu.au/plus/s/c1FIF6jLYWLlDGA\">recording here</a>.</p>"
+
+ 
   subtype: webinar
   speakers: [3]
   complexity: "Intermediate" 
@@ -248,7 +254,8 @@
   description: "<p>This workshop helps you to explore the elements you need to consider in establishing a career strategy when pursuing an academic career. Designing your career is a process, not something that will happen two weeks after submitting your thesis or completing your higher degree … so it is important you start thinking about this earlier and developing your job search strategy.</p>
 
  <p> NB: Session time overlaps with Introduction to R Markdown.</p>
- <p>View session <a href=\" https://cloudstor.aarnet.edu.au/plus/s/yuVulMeUJ3BWiXb\">recording here</a>.</p>"
+ <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/RlkYqyKG0kIP7Ik\">recording here</a>.</p>
+ <p>View slides <a href=\"https://cloudstor.aarnet.edu.au/plus/s/qF02s5AVRREH2mH\">here</a>.</p>"
 
   subtype: webinar
   speakers: [27]
@@ -270,7 +277,8 @@
   title: "NVivo Part 2"
   description: "<p>This workshop provides an introduction to coding and searching in the qualitative software NVivo. In particular it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and at how to conduct searches and create graphs (including by making use of attributes of case and file classifications).</p>
   
-  <p>NB: Session time overlaps with Is your science causing your laptop to burn? and Jupyter Notebooks for Absolute Beginners</p>"
+  <p>NB: Session time overlaps with Is your science causing your laptop to burn? and Jupyter Notebooks for Absolute Beginners</p>
+   <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/U6SRpKQqETkLIXm\">recording here</a>.</p>"
 
   subtype: webinar
   speakers: [7, 26]
