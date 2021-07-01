@@ -155,9 +155,10 @@
   title: "Introduction to Julia"
   subtype: webinar
   description: "<p>Learning a new programming language can be a substantial time investment. Given the emergence of different programming languages, it is often difficult to decide if learning a new language is worth the time investment. The aim of this talk is to share my experience in learning and using Julia for research from a practical perspective. The talk will cover some of the useful features and annoyances of Julia as well as their relations to other languages such as Python and R.</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/Xo1ahDQYUd2FImd\">recording here</a>.</p>"
-
-  
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/Xo1ahDQYUd2FImd\">recording here</a>.</p>
+  <p>View slides <a href=\"https://chansta.gitlab.io/resbaz2021julia/ResBaz2021-Julia.slides.html#\">here</a>.<p>
+  <p>View github repo <a href=\"https://gitlab.com/chansta/resbaz2021julia\">here</a>.<p>
+  <p> Automatic Python to Julia converter <a href=\"https://github.com/adsharma/py2many\">here</a>.<p>"
   speakers: [22]
   complexity: "Beginner" 
 -
@@ -165,7 +166,11 @@
   title: "Make your Data FAIR"
   subtype: webinar
   description: "<p>What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR.</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/RPuhRpe7aYgDjJ5\">recording here</a>.</p>"
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/RPuhRpe7aYgDjJ5\">recording here</a>.</p>
+  <p>View ARDC self-assessment tool <a href=\"https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool\">here</a>.</p>
+  <p> View Top 10 FAIR Data and Software Things <a href=\"https://librarycarpentry.org/Top-10-FAIR/\">here</a>.</p>
+  <p> View Curtin Research Data Management Guide <a href=\"http://libguides.library.curtin.edu.au/research-data-management\">here</a>.</p>  
+  <p> Find a subject repository – Registry of research data repositories <a href=\"https://www.re3data.org/\">here</a>.</p>"
 
   speakers: [1]
   complexity: "Beginner" 
@@ -179,8 +184,9 @@
   <p>By the end of the workshop participants will have an overview on what SDMs are and how to use BCCVL in their own time to solve their specific environmental problem.</p>
   
   <p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/CZ48q4jJRfv2sEO\">recording here</a>.</p>"
-
+  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/CZ48q4jJRfv2sEO\">recording here</a>.</p>
+  <p>View the video <a href=\"https://www.youtube.com/watch?v=ACj6BsLoMXo\">BCCVL animation here</a>.<p>
+  <p> Visit bccvl (and then login or register) <a href=\"https://app.bccvl.org.au/login\">here</a>.<p>"
 
   speakers: [21, 25]
   complexity: "Beginner" 
@@ -201,18 +207,15 @@
   title: "R Markdown"
   description: "<p>During this session you'll get a brief introduction to R Markdown. We'll cover the basic building blocks of an R Markdown file and learn how to knit reports from an R Notebook using RStudio. The only prerequisite is having R and RStudio installed on your computer. The relevant R Markdown packages are installed with RStudio by default. You don't even need to know much R!</p>
 
-  <p>NB: Session time overlaps with Academic Career Planning.</p>
+  <p>NB: Session time overlaps with Academic Career Planning.</p>"
   
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-r-markdown-tickets-155949427937\">here</a>.</p>"
   subtype: webinar
   speakers: [2]
   complexity: "Beginner" 
 -
   id: 402
   title: "Fully reproducible R projects using workflowR"
-  description: "<p>Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account.</p>
-  
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-fully-reproducible-r-projects-using-workflowr-tickets-155950505159\">here</a>.</p>"
+  description: "<p>Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account.</p>"
   subtype: webinar
   speakers: [3]
   complexity: "Intermediate" 
@@ -220,9 +223,7 @@
   id: 403
   title: "Lunch and Learn - Teaching Online"
   description: "</p>In this 60-minute interactive session, we’ll share tips, tricks and gotcha’s. Whether you’re new at teaching online or have a seasoned online ‘presence’, join us. Together we’ll create a list of good practices that you can refer to over and over again, and that you can continue to build upon.</p>
-  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners and NVivo Part 2.</p>
-
-  <p>Register <a href=\"https://pawsey.org.au/event/lunch-n-learn-teaching-online/\">here</a>.</p>"
+  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners and NVivo Part 2.</p>"
 
   subtype: webinar
   speakers: [8]
@@ -236,9 +237,8 @@
   
   <p>During this interactive session, we will seek to answer these and associated questions. We’ll hear real stories from individuals who have had to navigate these same questions and who will be on hand to facilitate discussion, based on years of experience working with early, mid and late career researchers.</p>
   
-  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners and NVivo Part 2.</p>
+  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners and NVivo Part 2.</p>"
 
-  <p>Register <a href=\"https://pawsey.org.au/event/is-your-science-causing-your-laptop-to-burn-identifying-when-to-scale-your-research/\">here</a>.</p>"
   subtype: webinar
   speakers: [8, 9, 10, 11]
   complexity: "Beginner" 
@@ -248,8 +248,8 @@
   description: "<p>This workshop helps you to explore the elements you need to consider in establishing a career strategy when pursuing an academic career. Designing your career is a process, not something that will happen two weeks after submitting your thesis or completing your higher degree … so it is important you start thinking about this earlier and developing your job search strategy.</p>
 
  <p> NB: Session time overlaps with Introduction to R Markdown.</p>
-  
- <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-academic-career-planning-tickets-157904848653\">here</a>.</p>"
+ <p>View session <a href=\" https://cloudstor.aarnet.edu.au/plus/s/yuVulMeUJ3BWiXb\">recording here</a>.</p>"
+
   subtype: webinar
   speakers: [27]
   complexity: "Beginner" 
@@ -260,10 +260,8 @@
   
   <p>This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming. Please check that you have access to cloudstor.aarnet.edu.au . If  you do not have Cloudstor access you can still attend, just advise the trainer beforehand so arrangements can be made: Sara.King@aarnet.edu.au.</p>
   
-  <p>NB: Session time overlaps with Lunch and Learn - Teaching Online, Is your science causing your laptop to burn? and NVivo Part 2.</p>
+  <p>NB: Session time overlaps with Lunch and Learn - Teaching Online, Is your science causing your laptop to burn? and NVivo Part 2.</p>"
   
-  <p>Register <a href=\" https://www.eventbrite.com.au/e/resbaz-perth-2021-jupyter-notebooks-for-absolute-beginners-tickets-157432273167\">here</a>.</p>"
-
   subtype: webinar
   speakers: [20]
   complexity: "Beginner" 
@@ -272,9 +270,8 @@
   title: "NVivo Part 2"
   description: "<p>This workshop provides an introduction to coding and searching in the qualitative software NVivo. In particular it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and at how to conduct searches and create graphs (including by making use of attributes of case and file classifications).</p>
   
-  <p>NB: Session time overlaps with Is your science causing your laptop to burn? and Jupyter Notebooks for Absolute Beginners</p>
+  <p>NB: Session time overlaps with Is your science causing your laptop to burn? and Jupyter Notebooks for Absolute Beginners</p>"
 
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-nvivo-part-2-tickets-155948294547\">here</a>.</p>"
   subtype: webinar
   speakers: [7, 26]
   complexity: "Beginner" 
