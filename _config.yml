@@ -85,7 +85,7 @@ statisticBlock:
  - {count: "40", specialCharacter: "+", info: "hours", detail: ""}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
  - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
- - {count: "800+", specialCharacter: "", info: "registrations", detail: ""}
+ - {count: "800", specialCharacter: "+", info: "registrations", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest News"
