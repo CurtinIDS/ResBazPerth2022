@@ -8,7 +8,7 @@ image: pertheq.jpg
 
 And that's a wrap on ResBaz Perth 2021!!
 
-Thank you to our amazing volunteers, presenters, helpers and organisers!
+Thank you to our amazing volunteers, presenters, helpers, organisers and participants!
 
 We had 25+ speakers 20+ helpers deliver over 40 hours of content this past week, with over 650 registrations from over 250 individuals!
 
