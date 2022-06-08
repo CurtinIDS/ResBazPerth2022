@@ -46,8 +46,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
+ #- {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "mailto:perthresbaz@gmail.com", text: "Contact us"}
@@ -73,17 +73,17 @@ aboutText: "<p>The Research Bazaar (ResBaz) is a worldwide festival promoting th
 <p>Perth ResBaz 2022 is a combination of computational training workshops (choosing from version control, introduction to R, introduction to python, or bioinformatics), electives (shorter 45 to 90 minute tutorials), and community events. Networking and social sessions form an important component of ResBaz, bringing together all participants to meet and network and to hear from keynote speakers and panelists.</p>
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to attend. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
 
-<p>Registrations will open in July 2022 and are limited to 100 people. <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSco97dodkcNEHcpITX4U6-uY0vKj_ygUCh67h0-AwTJy47VtQ/viewform?fbzx=3552297580201525183\"> Sign up here and stay updated </a>. Please check the <a href=\"https://curtinic.github.io/ResBazPerth2022/schedule/\">SCHEDULE</a> and <a href=\"https://curtinic.github.io/ResBazPerth2022/sessions/\">SESSIONS</a> pages  for the latest information on computational training, electives, and community events.</p>"
+<p>Registrations will open in July 2022 and are limited to 100 people.<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSco97dodkcNEHcpITX4U6-uY0vKj_ygUCh67h0-AwTJy47VtQ/viewform?fbzx=3552297580201525183\">Sign up here and stay updated</a>. Please check the <a href=\"https://curtinic.github.io/ResBazPerth2022/schedule/\">SCHEDULE</a> and <a href=\"https://curtinic.github.io/ResBazPerth2022/sessions/\">SESSIONS</a> pages  for the latest information on computational training, electives, and community events.</p>"
 
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "20", specialCharacter: "+", info: "helpers", detail: ""}
- - {count: "40", specialCharacter: "+", info: "hours", detail: ""}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "10", specialCharacter: "+", info: "electives", detail: ""}
+ #- {count: "40", specialCharacter: "+", info: "hours", detail: ""}
+ #- {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
  - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
- - {count: "800", specialCharacter: "+", info: "registrations", detail: ""}
+ - {count: "3", specialCharacter: "", info: "networking events", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest News"
@@ -144,7 +144,7 @@ Murdoch University | Andrew Walsh <br>
 Pawsey Supercomputing Centre | Ann Backhaus, Luke Edwards <br>
 University of Western Australia | Dave Edwards, James Ward <br>
 WA Data Science Innovation Hub | Shannon Hansen <br>
-</p>
+</p>"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
