@@ -14,4 +14,4 @@ Look for the recording links on the session of interest, but please note that re
 
 Thanks!
 
-ResBaz Perth 2021 Organising Committee 
+ResBaz Perth 2022 Organising Committee 
