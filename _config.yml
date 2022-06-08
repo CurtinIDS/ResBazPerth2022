@@ -14,7 +14,7 @@ future: true # Enable future posts (date > current date)
 title: "ResBaz Perth"
 email: "perthresbaz@gmail.com"
 description: "The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research."
-baseurl: "/ResBazPerth2021"
+baseurl: "/ResBazPerth2022"
 url: "https://curtinic.github.io/"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
