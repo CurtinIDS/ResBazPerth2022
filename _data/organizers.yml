@@ -1,20 +1,23 @@
 - 
   group: "Host"
   elements: 
-    - {name: "Curtin University", description: "Curtin University is proud to host Perth ResBaz 2021", link: "https://curtin.edu.au"}
+    - {name: "WA Data Science Innovation Hub", description: "WADSIH is proud to co-host Perth ResBaz 2022 with Curtin University", link: "https://wadsih.org.au/"}
+    - {name: "Curtin University", description: "Curtin University", link: "https://curtin.edu.au"}
 - 
   group: "Co-organisers"
   elements: 
     - {name: "Curtin Institute for Computation", description: "Curtin Institute for Computation", link: "https://computation.curtin.edu.au"}
     - {name: "Pawsey Supercomputing Centre", description: "Pawsey Supercomputing Centre", link: "https://pawsey.org.au/"}
-    - {name: "Australian Research Data Commons", description: "ARDC", link: "https://ardc.edu.au/"}
 -
   group: "Sponsors"
-  elements: 
+  elements:
+    - {name: "Curtin University", description: "Curtin University", link: "https://curtin.edu.au"} 
+    - {name: "Dell Technologies", description: "Dell Technologies", link: "http://www.delltechnologies.com"}
     - {name: "Edith Cowan University", description: "Edith Cowan University", link: "https://ecu.edu.au"}
     - {name: "Murdoch University", description: "Murdoch University", link: "https://murdoch.edu.au"}
     - {name: "University of Western Australia", description: "University of Western Australia", link: "https://www.uwa.edu.au/home"}
     - {name: "University of Notre Dame Australia", description: "University of Notre Dame Australia", link: "https://notredame.edu.au/"}
+    - {name: "WA Data Science Innovation Hub", description: "WA Data Science Innovation Hub", link: "https://wadsih.org.au/"}
 -
 
 #  elements:

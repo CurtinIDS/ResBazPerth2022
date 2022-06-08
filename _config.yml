@@ -24,7 +24,7 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "Curtin University"
 #organizerAlternateName: "Centre for eResearch"
-organizerDescription: "Curtin University is proud to host ResBaz Perth 2021"
+organizerDescription: "Curtin University is proud to host ResBaz Perth 2022"
 #organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
 #organizerLink: "https://www.eresearch.auckland.ac.nz"
@@ -62,20 +62,18 @@ heroTitle: "ResBaz : Perth "
 typeoutTextValues: '"Perth"'
 typeoutFallback: "Perth"
 heroButtons:
- - {link: "", text: "28 June - 2 July 2021"}
+ - {link: "", text: "6 - 8 September 2022"}
 
 # About Block
-aboutTitle: "About ResBaz Perth 2021: 'Pick and Mix' Edition"
-aboutSubtitle: "Conference"
-aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research.</p>
+aboutTitle: "About ResBaz Perth 2022"
+aboutSubtitle: "Community, Conference and Campaign"
+aboutText: "<p>The Research Bazaar (ResBaz) is a worldwide festival promoting the digital literacy emerging at the center of modern research.</p>
 
-<p>Hosted online in 2021, the Perth Research Bazaar is a <b>FREE</b> 5-day virtual 'pick and mix' conference where researchers come together to up-skill in ‘next generation digital research tools and skills’. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
-
+<p>Hosted in-person at Curtin University in 2022 by the WA Data Science Innovation Hub, the Perth Research Bazaar is <b>a low-cost 3-day</b> conference where researchers come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Peth ResBaz 2022 is a combination of computational training workshops (choosing from version control, introduction to R, introduction to python, or bioinformatics), electives (shorter 45 to 90 minute tutorials), and community events. Networking and social sessions form an important component of ResBaz, bringing together all participants to meet and network and to hear from keynote speakers and panelists.</p>
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to attend. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
 
-<p>Please note, <b>registration is required for each of the individual workshops</b>. You may attend as many workshops and presentations as you like! Some of the computational training workshops do have capacity limits, and we will endeavour to make recordings of these sessions available on the website where possible.</p>
-
-<p>Registrations are now open for the majority of the sessions, please check the <a href=\"https://curtinic.github.io/ResBazPerth2021/schedule/\">SCHEDULE</a> and <a href=\"https://curtinic.github.io/ResBazPerth2021/sessions/\">SESSIONS</a> pages.</p>"
+<p>Registrations will open in July 2022 and are limited to 100 people. Please check the <a href=\"https://curtinic.github.io/ResBazPerth2022/schedule/\">SCHEDULE</a> and <a href=\"https://curtinic.github.io/ResBazPerth2022/sessions/\">SESSIONS</a> pages  for the latest information on computational training, electives, and community events.</p>"
 
 
 # Statistic Block
@@ -98,19 +96,19 @@ latestNewsTitle: "Latest News"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Virtual event, hosted by Curtin University"
+eventLocationName: "In-person event, hosted by WA Data Science Innovation Hub"
 #eventLocationLink: "https://www.auckland.ac.nz/en/on-campus/our-campuses/landmarks-facilities/the-clocktower.html"
 eventStreetAddress: "Kent St"
 eventAddressLocality: "Bentley"
 eventAddressLocalityRegion: "Perth"
 eventPostalCode: "6102"
 eventAddressCountry: "Australia"
-eventStartTime: "2021-06-28T09:00"
+eventStartTime: "2022-09-06T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2021-07-02T17:00"
-#eventPlaceCoordinates: "-36.850223, 174.76922"
-#mapCenterCoordinates: "-36.850223, 174.76922"
-#mapMobileCenterCoordinates: "-36.850223, 174.76922"
+eventEndTime: "2022-09-08T17:00"
+eventPlaceCoordinates: "-32.00167, 115.89334"
+mapCenterCoordinates: "-32.00167, 115.89334"
+mapMobileCenterCoordinates: "-32.00167, 115.89334"
 
 # Venue Block
 # venueBlockTitle: "Past Events"
@@ -136,19 +134,19 @@ organizersTitle: "Organisers"
 
 # Team Block
 teamBlockTitle: "Volunteers"
-teamSubtitle: "We'd like to thank the dedicated volunteers behind ResBaz Perth 2021!"
-teamText: "<p><b>ResBaz Perth 2020/2021 Program Organising Committee</p></b>
+teamSubtitle: "We'd like to thank the dedicated volunteers behind ResBaz Perth 2022!"
+teamText: "<p><b>ResBaz Perth 2021/2022 Program Organising Committee</p></b>
 
-<p> Curtin Institute for Computation, Curtin University | Kathryn Napier, Rebecca Lange <br>
+<p> Curtin Institute for Computation, Curtin University | Jamiu Ekundayo, Kathryn Barker, Kathryn Napier <br>
 Curtin University | Shih Ching Fu, Tania Lerch <br>
-Australian Research Data Commons | Matthias Liffers, Nichola Burton <br>
+Edith Cowan University |  <br>
+Murdoch University | Andrew Walsh <br>
 Pawsey Supercomputing Centre | Ann Backhaus, Luke Edwards <br>
-Edith Cowan University | Chandra Salgado Kent <br>
-University of Western Australia | Katina Toufexis <br>
-Edith Cowan University | Alyce Russell <br>
-Rick Tankard</p>
+University of Western Australia | Dave Edwards, James Ward <br>
+WA Data Science Innovation Hub | Shannon Hansen <br>
+</p>
 
-<p><b> ResBaz Perth 2021 Helpers </p></b>
+<p><b> ResBaz Perth 2022 Helpers </p></b>
 <p> 
 Australian Space Data Analysis Facility (ASDAF) | Mortaza Rezae <br>
 Curtin Institute for Computation, Curtin University | Foad Farivar, Rebecca Lange, Dan Marrable, Kathryn Napier, Nancy Tippaya, Leigh Tyers <br>
@@ -211,16 +209,24 @@ The University of Western Australia | Philipp Bayer, Somayra Mamsa, Lyron Winder
 # Footer
 socialLinks:
  - {link: "https://twitter.com/ResBaz", icon: "twitter"}
-# - {link: "https://resbaz.github.io/resbaz2021/perth/", icon: "site"}
+# - {link: "https://resbaz.github.io/resbaz2022/perth/", icon: "site"}
  - {link: "mailto:perthresbaz@gmail.com", icon: "email"}
 footerBlocks:
+
  -
   title: "Host"
   links:
    - {link: "https://www.curtin.edu.au", text: "Curtin University"}
-  #  - {link: "https://www.ecu.edu.au", text: "Edith Cowan University"}
-  #  - {link: "https://www.uwa.edu.au", text: "The University of Western Australia"}
-  #  - {link: "https://www.notredame.edu.au/", text: "The University of Notre Dame Australia"}
+   - {link: "https://wadsih.org.au/", text: "WA Data Science Innovation Hub"}
+ -
+  title: "Sponsors"
+  links:
+   - {link: "https://www.curtin.edu.au", text: "Curtin University"}
+   - {link: "http://www.delltechnologies.com", text: "Dell Technologies"}
+   - {link: "https://murdoch.edu.au/", text: "Murdoch University"}
+   - {link: "https://www.uwa.edu.au", text: "The University of Western Australia"}
+   - {link: "https://www.notredame.edu.au/", text: "The University of Notre Dame Australia"}
+   - {link: "https://wadsih.org.au/", text: "WA Data Science Innovation Hub"}
  -
   title: "Contacts"
   links:
