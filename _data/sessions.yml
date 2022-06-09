@@ -1,320 +1,341 @@
 -
+  id: 100
+  title: "Welcome to Country and Official Opening"
+  subtitle: "Room: 410.201"
+  description: "<p>This is the welcome to country and official opening of the ResBaz 2022 </p>"
+
+  subtype: ""
+  speakers: []
+  complexity: #"Beginner"
+  hidden: false
+-
   id: 101
-  title: "Introduction to Data Analysis and Visualisation in Python"
-  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the Python programming language. The course is aimed at postgraduate students and researchers who want to learn more about automation and improve the reproducibility of their research.</p>
+  title: "Tea break / software install help desk"
+  subtitle: "Room: 410 undercover"
+  description: "<p> Come down for morning/afternoon tea and/or to get help with installations</p>"
 
-  <p>NB: Session runs parallel with Introduction to R.</p>
-  <p> Day 1 recordings: </p>
-  <p>View part 1 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/WFM6JkPZT506vOT\">recording here</a>.</p>
-  <p>View part 2 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/U4q3gcJHPcfeBKJ\">recording here</a>.</p>
-  <p>View part 3 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/tUUwVCTDDsmrudJ\">recording here</a>.</p>
-  <p> Day 2 recording: </p>
-  <p>View part 4 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/rgeNMCp5TB31WgA\">recording here</a>.</p>"
-
-  subtype: workshop
-  speakers: [3, 4]
-  complexity: "Beginner"
+  subtype: ""
+  speakers: []
+  complexity: #"Beginner"
   hidden: false
 -
   id: 101b
-  title: "Introduction to Data Analysis and Visualisation in Python continued"
-  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the Python programming language. The course is aimed at postgraduate students and researchers who want to learn more about automation and improve the reproducibility of their research.</p>
+  title: "Lunch"
+  subtitle: "Room: 410 undercover"
+  description: "<p> </p>"
 
-  <p>NB: Session runs parallel with Introduction to R.</p>
-  
-  <p> Day 2 recording: </p>
-  <p>View part 4 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/rgeNMCp5TB31WgA\">recording here</a>.</p>"
-  
-  subtype: workshop
-  speakers: [3, 4]
-  complexity: "Beginner"
-  hidden: true
+  subtype: ""
+  speakers: []
+  complexity: #"Beginner"
+  hidden: false
 -
   id: 102
-  title: "Introduction to Data Analysis and Visualisation in R"
-  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
-  
-  <p>NB: Session runs parallel with Introduction to Python.</p>
-  
-  <p>View Day 1 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/YOlqDqGgnTmtYR3\">recording here</a>.</p>
-  <p>View Day 2 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/i83NH46dzQVoOCq\">recording here</a>.</p>"
+  title: "Intro to bash and git - group 1"
+  subtitle: "Room: 410.201"
+  description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and git. The course is aimed at postgraduate students and researchers who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
-  subtype: workshop
-  speakers: [2, 24]
-  complexity: "Beginner" 
+  <p>NB: Session runs parallel with Intro to bash and git - group 2.</p>"
+
+  subtype: training
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
   id: 102b
-  title: "Introduction to Data Analysis and Visualisation in R continued"
-  description: "<p>This is a virtual Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
-  
-  <p>NB: Session runs parallel with Introduction to Python.</p>
-  
-  <p>View Day 2 session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/i83NH46dzQVoOCq\">recording here</a>.</p>"
-  
-  subtype: workshop
-  speakers: [2, 24]
-  complexity: "Beginner"  
-  hidden: true
+  title: "Intro to bash and git - group 2"
+  subtitle: "Room: 410.201"
+  description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and git. The course is aimed at postgraduate students and researchers who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
+
+  <p>NB: Session runs parallel with Intro to bash and git - group 1.</p>"
+
+  subtype: training
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
   id: 103
-  title: "MATLAB/Simulink Resources for Research – Information Session"
-  description: "<p>MathWorks offers many online services, online resources, documentation, solutions and training (free of charge) along with MATLAB/Simulink for research. You will learn how to navigate MathWorks resources to find a solution to your specific research domain.
-  You will know how you can acquire new research skills for tackling your research problems. MATLAB/Simulink will empower you with research outcomes and innovation.</p>
-  <p>Pre-requisites: Make your MathWorks Account with your university email address <a href=\"https://www.mathworks.com/mwaccount/\">here</a></p>
+  title: "Meet Pawsey & Pawsey-Curtin Researchers"
+  subtitle: "Room: 407.208"
+  description: "<p>More details later</p>"
 
-  <p>NB: Session time overlaps with Introduction to GADI.</p>
+  subtype: ""
+  speakers: [] #[3, 4]
+  complexity: #"Beginner"
+  hidden: false
+-
+  id: 103b
+  title: "TBA"
+  subtitle: "Room: 410.209/407.208"
+  description: "<p>More details later</p>"
 
-  <p>View the session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/NykmMdfJqyKUnLQ\"> slides here</a>.</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/8nxJcMV7Jnv4ulI\">recording here</a>.</p>"
-  subtype: webinar
-  speakers: [5]
-  complexity: "Beginner" 
-  
+  subtype: ""
+  speakers: [] #[3, 4]
+  complexity: #"Beginner"
+  hidden: false       
 -
   id: 104
-  title: "Computational Skills with MATLAB for Research"
-  description: "<p>Develop new skills or extend your computational skills with MATLAB during your research. Join this session to discover how you can get started with MATLAB if you are new to MATLAB.</p>
-
-  <p> We will begin with data loading and visualisation and discuss various data types of MATLAB since data management is a key to the success of research outcomes and impacts. You will discover features of Tasks and APPs, which can generate a MATLAB code for you. Tasks and APPs make it easy to learn new computational skills. 
-  If you are a MATLAB Expert, check out new MATLAB features, such as Tasks, APPs and others, to accelerate the pace of research. 
-  Do not miss out on this session since we will take a quick introduction to APPs on Deep learning and Machine Learning as well. </p>
+  title: "COMMUNITY EVENT SPONSORED BY DELL - POSTER SESSION"
+  subtitle: "Room: 410.101"
+  description: "<p> Showcase your analytics research through a poster presentation. This is a community event sponsored by Dell Technologies.</p>"
   
-  <p>Pre-requisites: Make your MathWorks Account with your university email address <a href=\"https://www.mathworks.com/mwaccount/\">here</a></p>
-  
-  <p>NB: Session time overlaps Introduction to GADI and Introduction to NCI Data Collections.</p>
-  <p>View the session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/Ziu5tzyoS1kOhvz\"> resources here</a>.</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/AZCum38x0h9HqSb\">recording here</a>.</p>"
-  subtype: webinar
-  speakers: [5]
-  complexity: "Beginner" 
+  subtype: event
+  speakers: #[3, 4]
+  complexity: #"Beginner"
+  hidden: false
 -
   id: 105
-  title: "Introduction to GADI"
-  description: "<p>Gadi is Australia’s most powerful supercomputer, a highly parallel cluster comprising more than 150,000 processor cores on ten different types of compute nodes. Gadi accommodates a wide range of tasks, from running climate models to genome sequencing, from designing molecules to astrophysical modelling. Introduction to Gadi is designed for new users, or users that want a refresher on the basics of Gadi.</p>
+  title: "Introduction to Data Analysis and Visualisation in Python"
+  subtitle: "Room: 410.101"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at postgraduate students and researchers who want to learn more about using Python for their research.</p>
   
-  <p>NB: Session time overlaps with MATLAB/Simulink Resources for Research and Computational Skills with MATLAB for Research.</p>"
+  <p>NB: Session runs parallel with Introduction to R & Bioinformatics.</p>"
+
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Beginner"
+  hidden: false 
+-
+  id: 105b
+  title: "Introduction to Data Analysis and Visualisation in Python continued"
+  subtitle: "Room: 410.101"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at postgraduate students and researchers who want to learn more about using Python for their research.</p>
   
-  subtype: webinar
-  speakers: [16]
-  complexity: "Beginner" 
+  <p>NB: Session runs parallel with Introduction to R & Bioinformatics.</p>"
+  
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Intermediate"  
+  hidden: true
+-
+  id: 105c
+  title: "Introduction to Data Analysis and Visualisation in Python continued"
+  subtitle: "Room: 407.305 CT"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at postgraduate students and researchers who want to learn more about using Python for their research.</p>
+  
+  <p>NB: Session runs parallel with Introduction to R & Bioinformatics.</p>"
+  
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Intermediate"  
+  hidden: true
 -
   id: 106
-  title: "Introduction to high performance data "
-  description: "<p>Introduction to High Performance Data is designed for new users, or users that want a refresher on the basics of accessing and using high-performance scientific data at NCI. NCI is Australia’s premier supercomputing and big data facility, with over 10 Petabytes of nationally significant research data collections. We make analysis tools and virtual research environments for users to be able to interact with and manipulate their scientific data effectively.</p>
- 
-  <p>NB: Session time overlaps with Computational Skills with MATLAB for Research.</p>"
+  title: "Introduction to Data Analysis and Visualisation in R"
+  subtitle: "Room: 410.209"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
   
-  subtype: webinar
-  speakers: [17, 18, 23]
-  complexity: "Beginner" 
-  registration: 
--
-  id: 201                                     
-  title: "NVivo Part 1"
-  subtype: webinar
-  description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications.</p>
-  
-  <p>NB: Session time overlaps with Getting Started with Using the (Nimbus Research) Cloud and A Brief Introduction to Qualtrics.</p>
-  <p> View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/81GZNNSBQx4rn0g\">recording here</a>.</p>"
+  <p>NB: Session runs parallel with Introduction to Python & Bioinformatics.</p>"
 
-  speakers: [7, 26]
-  complexity: "Beginner" 
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Beginner"
+  hidden: false
 -
-  id: 202                                    
-  title: "Getting Started with Using the (Nimbus Research) Cloud"
-  subtype: webinar
-  description: "<p>In this 90-minute webinar we introduce cloud computing and detail the Pawsey Supercomputing Centre’s cloud computing resource called the “Nimbus Research Cloud”.</p>
-  <p>You will have ample time for questions and if you’re interested, you can also access a test environment to experiment with what you can do with cloud computing.</p>
+  id: 106b
+  title: "Introduction to Data Analysis and Visualisation in R continued"
+  subtitle: "Room: 410.209"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
   
-  <p>NB: Session time overlaps with NVivo Part 1 and A Brief Introduction to Qualtrics.</p>"
-  speakers: [12, 13, 14]
+  <p>NB: Session runs parallel with Introduction to Python & Bioinformatics.</p>"
+  
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Intermediate"  
+  hidden: true 
 -
-  id: 203                                    
-  title: "A Brief Introduction to Qualtrics"
-  subtype: webinar
-  description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>
+  id: 106c
+  title: "Introduction to Data Analysis and Visualisation in R continued"
+  subtitle: "Room: 407.208"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
   
-  <p>NB: Session time overlaps with NVivo Part 1 and Getting Started with Using the (Nimbus Research) Cloud.</p>
+  <p>NB: Session runs parallel with Introduction to Python & Bioinformatics.</p>"
   
-  <p>View the <a href=\"https://cloudstor.aarnet.edu.au/plus/s/gVki3DWB0QuAe89\">Intro to Qualtrics manual here</a>.</p>
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Intermediate"  
+  hidden: true
+-
+  id: 107
+  title: "Bioinformatics"
+  subtitle: "Room: 407.208"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on Bioinformatics. The course is aimed at postgraduate students and researchers who want to learn more about using Bioinformatics.</p>
+  
+  <p>NB: Session runs parallel with Introduction to Python & R.</p>"
 
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/IKqJvJYXGdQO1XT\">recording here</a>.</p>"
-  speakers: [19]
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Intermediate"
+  hidden: false 
 -
-  id: 301                                   
-  title: "Introduction to the command line (bash) and version control (git)"
-  subtype: workshop
-  description: "<p>This is a virtual Software Carpentry Workshop offering a hands on introduction to the coding language bash and version control with git. The course is aimed at postgraduate students and researchers who want to learn more about automation and reproducibility of their research.</p>
+  id: 107b
+  title: "Bioinformatics continued"
+  subtitle: "Room: 407.208"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on Bioinformatics. The course is aimed at postgraduate students and researchers who want to learn more about using Bioinformatics.</p>
   
-  <p>NB: Session time overlaps with Using the BCCVL to solve environmental problems and Active Data Management with CloudStor.</p> 
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/jA6UiWCgND1aLUq\">recording here</a>.</p>"
-  speakers: [4]
-  complexity: "Beginner" 
+  <p>NB: Session runs parallel with Introduction to Python & R.</p>"
+  
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Intermediate"  
+  hidden: true
 -
-  id: 302                                   
-  title: "Introduction to Julia"
-  subtype: webinar
-  description: "<p>Learning a new programming language can be a substantial time investment. Given the emergence of different programming languages, it is often difficult to decide if learning a new language is worth the time investment. The aim of this talk is to share my experience in learning and using Julia for research from a practical perspective. The talk will cover some of the useful features and annoyances of Julia as well as their relations to other languages such as Python and R.</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/Xo1ahDQYUd2FImd\">recording here</a>.</p>
-  <p>View slides <a href=\"https://chansta.gitlab.io/resbaz2021julia/ResBaz2021-Julia.slides.html#\">here</a>.<p>
-  <p>View github repo <a href=\"https://gitlab.com/chansta/resbaz2021julia\">here</a>.<p>
-  <p> Automatic Python to Julia converter <a href=\"https://github.com/adsharma/py2many\">here</a>.<p>"
-  speakers: [22]
-  complexity: "Beginner" 
+  id: 107c
+  title: "Bioinformatics continued"
+  subtitle: "Room: 410.209"
+  description: "<p>This is a Data Carpentry Workshop offering a hands on Bioinformatics. The course is aimed at postgraduate students and researchers who want to learn more about using Bioinformatics.</p>
+  
+  <p>NB: Session runs parallel with Introduction to Python & R.</p>"
+  
+  subtype: training
+  speakers: [] #[2, 24]
+  complexity: "Intermediate"  
+  hidden: true
 -
-  id: 303                                   
+  id: 108
+  title: "Help! My laptop is burning! Deciding when to move off of your laptop."
+  subtitle: "Room: 410.209"
+  description: "<p>How do you know when your dataset becomes “too big”? How do you know when your laptop can no longer do what you need it to do for your research? When is it best to use cloud resources? When is it best to use supercomputing resources? When do I need both (or neither)?</p>
+  
+  <p>The answers to these questions are project-dependent, and each project is different… but there are guidelines and best practices to help you decide.</p>
+  
+  <p>During this interactive session, we will seek to answer these and associated questions. We'll hear real stories from individuals who have had to navigate these same questions and who will be on hand to facilitate discussion, based on years of experience working with early, mid and late career researchers.</p>"
+
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: #"Beginner"
+  hidden: false
+-
+  id: 109
+  title: "TBA"
+  subtitle: "Room: 407.208" #hold for Sara King
+  description: "<p>More details later</p>"
+
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: #"Beginner"
+  hidden: false
+-
+  id: 110
+  title: "Nvivo - Part 1"
+  subtitle: "Room: 407.305"
+  description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications</p>"
+
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
+-
+  id: 110b
+  title: "Nvivo - Part 2"
+  subtitle: "Room: 407.305"
+  description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications</p>"
+
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
+-
+  id: 111
   title: "Make your Data FAIR"
-  subtype: webinar
+  subtitle: "Room: 407:205"
+  
   description: "<p>What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR.</p>
   <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/RPuhRpe7aYgDjJ5\">recording here</a>.</p>
   <p>View ARDC self-assessment tool <a href=\"https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool\">here</a>.</p>
   <p> View Top 10 FAIR Data and Software Things <a href=\"https://librarycarpentry.org/Top-10-FAIR/\">here</a>.</p>
   <p> View Curtin Research Data Management Guide <a href=\"http://libguides.library.curtin.edu.au/research-data-management\">here</a>.</p>  
-  <p> Find a subject repository – Registry of research data repositories <a href=\"https://www.re3data.org/\">here</a>.</p>"
+  <p> Find a subject repository - Registry of research data repositories <a href=\"https://www.re3data.org/\">here</a>.</p>"
+  
+  subtype: elective
+  speakers: []
+  complexity: "Beginner"
+-
+  id: 112
+  title: "TBA"
+  subtitle: "Room: 407.209" #hold for Sara King
+  description: "<p>More details later</p>"
 
-  speakers: [1]
-  complexity: "Beginner" 
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: #"Beginner"
+  hidden: false
 -
-  id: 304                                   
-  title: "Using the BCCVL to solve environmental problems"
-  subtype: webinar
-  description: "<p> Species Distribution Models (SDM) can be used to understand the potential distribution of a species or the environmental suitability of habitat based on a set of environmental conditions as well as species occurrence data. In this workshop we address the fundamental aspects of SDMs, the type of data needed for these models, different types of algorithms and evaluation of models as well as an understanding of Climate Change projections to investigate how species distributions might change in the future under a certain carbon emission scenario. </p>
-  <p> We then introduce the workshop participants to the Biodiversity and Climate Change Virtual Laboratory (BCCVL), a freely available tool that supports researchers, students and decision-makers through easy access to pre-processed and curated data on global biodiversity, climate and environmental datasets integrated with a suite of analytical tools. BCCVL is a point-and-click online platform for modelling species responses to environmental conditions, which provides an easy introduction into the scientific concepts of models without the need for the user to understand the code behind the models.</p>
-  <p>The BCCVL encourages a high standard of species distribution modelling whilst removing the technical barriers that often come with running models. This approach allows researchers, decision makers and students to focus on conducting meaningful science and producing high impact results, instead of focussing too much on the technical side of things.</p>
-  <p>By the end of the workshop participants will have an overview on what SDMs are and how to use BCCVL in their own time to solve their specific environmental problem.</p>
-  
-  <p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/CZ48q4jJRfv2sEO\">recording here</a>.</p>
-  <p>View the video <a href=\"https://www.youtube.com/watch?v=ACj6BsLoMXo\">BCCVL animation here</a>.<p>
-  <p> Visit bccvl (and then login or register) <a href=\"https://app.bccvl.org.au/login\">here</a>.<p>"
+  id: 113
+  title: "Introduction to Qualtrics"
+  subtitle: "Room: 407.208"
+  description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>"
 
-  speakers: [21, 25]
-  complexity: "Beginner" 
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
-  id: 305                                   
-  title: "Active Data Management with CloudStor"
-  subtype: webinar
-  description: "<p>In this workshop we will be exploring and discussing methods for active data management. Participants will become familiar with the CloudStor interface and its associated tools and services for managing active research data. Learn how to organise, maintain, store and analyse active data, and understand safe and secure ways of sharing and storing data.</p>
-  <p>Topics such as cloud storage, collaborative editing, versioning and data sharing will be discussed and demonstrated. You will learn how to set up an automatic way to move your data to the cloud so that your data is safe and secure. You can also ensure that you are sharing your data securely by knowing what tools are best for this operation.</p>
-  <p>This is a hands-on workshop using CloudStor, AARNet’s file sync, share and storage service.  Please check that you have access to cloudstor.aarnet.edu.au. If you do not have CloudStor access you can still attend, just advise the organiser beforehand so arrangements can be made: Sara.King@aarnet.edu.au.</p>
-  
-  <p>NB: Session time overlaps with Introduction to the command line (bash) and version control (git).</p>"
-  
-  speakers: [20]
-  complexity: "Beginner" 
--
-  id: 401
-  title: "R Markdown"
-  description: "<p>During this session you'll get a brief introduction to R Markdown. We'll cover the basic building blocks of an R Markdown file and learn how to knit reports from an R Notebook using RStudio. The only prerequisite is having R and RStudio installed on your computer. The relevant R Markdown packages are installed with RStudio by default. You don't even need to know much R!</p>
+  id: 114
+  title: "Using video or field observations in your project? An introduction to data quantification using the CAT© Tool"
+  subtitle: "Room: 407.205"
+  description: "<p>More details later</p>"
 
-  <p>NB: Session time overlaps with Academic Career Planning.</p>
-  
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/eCoozfYpBfriLWA\">recording here</a>.</p>"
-  
-  subtype: webinar
-  speakers: [2]
-  complexity: "Beginner" 
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
-  id: 402
-  title: "Fully reproducible R projects using workflowR"
-  description: "<p>Have you started your reproducibility journey in R, and have made nicely reproducible markdown documents? Do you feel like you could go further? Then let me introduce workflowR for you, an R package that handles reproducibility for you. WorkflowR builds project structures for you into which you add markdown documents. With every build-step, workflowR will compile your markdown documents in a fresh environment, and will then build a website on Github or GitLab containing the entire analysis and past iterations of that analysis. All your results will be in one place, guaranteed to be reproducible by future you. In this workshop I walk you through the basics of the package and we’ll build a project website together. Recommended for people with a little bit of experience in git and R, ideally with a Github or GitLab account.</p>
-  
-  <p>View session <a href=\" https://cloudstor.aarnet.edu.au/plus/s/c1FIF6jLYWLlDGA\">recording here</a>.</p>"
+  id: 115
+  title: "Intro to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)"
+  subtitle: "Room: 407.305 CT"
+  description: "<p>More details later</p>"
 
- 
-  subtype: webinar
-  speakers: [3]
-  complexity: "Intermediate" 
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
-  id: 403
-  title: "Lunch and Learn - Teaching Online"
-  description: "</p>In this 60-minute interactive session, we’ll share tips, tricks and gotcha’s. Whether you’re new at teaching online or have a seasoned online ‘presence’, join us. Together we’ll create a list of good practices that you can refer to over and over again, and that you can continue to build upon.</p>
-  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners and NVivo Part 2.</p>"
+  id: 116
+  title: "TBA" #Introduction to Julia - Felix Chan
+  subtitle: "Room: 407.208"
+  description: "<p>More details later</p>"
 
-  subtype: webinar
-  speakers: [8]
-  complexity: "Beginner" 
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
-  id: 408
-  title: "Is your science causing your laptop to burn? Identifying when to scale your research"
-  description: "<p>How do you know when your dataset becomes “too big”? How do you know when your laptop can no longer do what you need it to do for your research? When is it best to use cloud resources? When is it best to use supercomputing resources? When do I need both (or neither)?</p>
-  
-  <p>The answers to these questions are project-dependent, and each project is different… but there are guidelines and best practices to help you decide.</p>
-  
-  <p>During this interactive session, we will seek to answer these and associated questions. We’ll hear real stories from individuals who have had to navigate these same questions and who will be on hand to facilitate discussion, based on years of experience working with early, mid and late career researchers.</p>
-  
-  <p>NB: Session time overlaps with Jupyter Notebooks for Absolute Beginners and NVivo Part 2.</p>"
+  id: 117
+  title: "TBA" #Patrick Dunlop FOWI
+  subtitle: "Room: 410.209"
+  description: "<p>More details later</p>"
 
-  subtype: webinar
-  speakers: [8, 9, 10, 11]
-  complexity: "Beginner" 
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
-  id: 405
-  title: "Academic Career Planning"
-  description: "<p>This workshop helps you to explore the elements you need to consider in establishing a career strategy when pursuing an academic career. Designing your career is a process, not something that will happen two weeks after submitting your thesis or completing your higher degree … so it is important you start thinking about this earlier and developing your job search strategy.</p>
+  id: 118
+  title: "TBA" #build your brand (or CV)
+  subtitle: "Room: 410.201"
+  description: "<p>More details later</p>"
 
- <p> NB: Session time overlaps with Introduction to R Markdown.</p>
- <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/RlkYqyKG0kIP7Ik\">recording here</a>.</p>
- <p>View slides <a href=\"https://cloudstor.aarnet.edu.au/plus/s/qF02s5AVRREH2mH\">here</a>.</p>"
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
+-
+  id: 119
+  title: "TBA" #Meet Pawsey & Pawsey-Curtin Researchers (3:30-4pm)
+  subtitle: "Room: 410.201"
+  description: "<p>More details later</p>"
 
-  subtype: webinar
-  speakers: [27]
-  complexity: "Beginner" 
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
 -
-  id: 406
-  title: "Jupyter Notebooks for Absolute Beginners"
-  description: "<p>This will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data. You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures!</p>
-  
-  <p>This workshop is targeted at those who are absolute beginners or ‘tech-curious’. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming. Please check that you have access to cloudstor.aarnet.edu.au . If  you do not have Cloudstor access you can still attend, just advise the trainer beforehand so arrangements can be made: Sara.King@aarnet.edu.au.</p>
-  
-  <p>NB: Session time overlaps with Lunch and Learn - Teaching Online, Is your science causing your laptop to burn? and NVivo Part 2.</p>"
-  
-  subtype: webinar
-  speakers: [20]
-  complexity: "Beginner" 
--
-  id: 407
-  title: "NVivo Part 2"
-  description: "<p>This workshop provides an introduction to coding and searching in the qualitative software NVivo. In particular it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and at how to conduct searches and create graphs (including by making use of attributes of case and file classifications).</p>
-  
-  <p>NB: Session time overlaps with Is your science causing your laptop to burn? and Jupyter Notebooks for Absolute Beginners</p>
-   <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/U6SRpKQqETkLIXm\">recording here</a>.</p>"
+  id: 120
+  title: "TBA" #POTENTIAL PANEL EVENT? 4-5pm (Mindaroo; Kathleen Franklyn + 2 more)
+  subtitle: "Room: 410.201"
+  description: "<p>More details later</p>"
 
-  subtype: webinar
-  speakers: [7, 26]
-  complexity: "Beginner" 
--
-  id: 501
-  title: "Product Tool Box: Web of Science"
-  description: "<p>This webinar will showcase the Web of Science platform and cover aspects of the tools in Web of Science, EndNote, ResesearcherID, and ORCID.  
-Following the session participants should be able to easily navigate the Web of Science platform.</p>
-
-  <p>Session time overlaps with Parallel Computing with MATLAB and AWS.</p>
-  
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/NVuVBVt0NhcKPFC\">recording here</a>.</p>"
-  subtype: webinar
-  speakers: [15]
-  complexity: "Beginner" 
--
-  id: 502
-  title: "Parallel computing with MATLAB and AWS"
-  description: "<p>Are you tired with having your MATLAB code run slow?  Do you need to scale out to the cloud to access big data?  Then this presentation is for you as we’ll cover the tips and tricks to maximise the performance of your code first but then how to scale to leverage the full power of your computer and beyond into the cloud.  Specifically, we’ll touch on multi-core and multi-thread computations, cloud scale to unlimited CPUs as well as working with data that is too large for the RAM on your machines to handle. Pre-requisites: no hard prereqs but some experience with MATLAB or Simulink is suggested.</p>
-  
-  <p>NB: Session time overlaps with Product Tool Box: Web of Science.</p>
-  
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/dW8SZNpU7PuM7WU\">recording here</a>.</p>
-  <p>View session <a href=\"https://cloudstor.aarnet.edu.au/plus/s/PZSdkOe5Wtytyzu\">slides here</a>.</p>
-  "
-  subtype: webinar
-  speakers: [6]
-  complexity: "Intermediate" 
--
-  id: 503
-  title: "Celebration Lunch"
-  description: "<p>It is the last event for ResBaz Perth 2021, come meet your new RezBaz buddies in-person over a delicious free lunch at Curtin University!</p>
-  
-  <p>You've met the Perth ResBaz community online, now meet them in person! What better way to celebrate all your new knowledge learned at ResBaz then to share in a delicious lunch and finally share your experiences in person. 
-  Lunch will be provided by Aroma Cafe and will offer an assortment of italian feast treats and sandwiches and pastries. If you have dietary requirements just tell us in your registration.</p>
-  
-  <p>Register <a href=\"https://www.eventbrite.com.au/e/resbaz-perth-2021-celebration-lunch-tickets-158840986667\">here</a>.</p>"
-  hidden: true
+  subtype: elective
+  speakers: [] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
