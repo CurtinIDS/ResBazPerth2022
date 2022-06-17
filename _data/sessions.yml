@@ -54,7 +54,7 @@
   hidden: false
 -
   id: 103
-  title: "Meet Pawsey & Pawsey-Curtin Researchers"
+  title: "TBA" #- Data ethics/Governance Ramon (Minderoo)
   subtitle: "Room: 407.208"
   description: "<p>More details later</p>"
 
@@ -64,8 +64,8 @@
   hidden: false
 -
   id: 103b
-  title: "TBA"
-  subtitle: "Room: 410.209/407.208"
+  title: "TBA" # or hold for Sara King?
+  subtitle: "Room: 410.209"
   description: "<p>More details later</p>"
 
   subtype: ""
@@ -251,8 +251,8 @@
   complexity: "Beginner"
 -
   id: 112
-  title: "TBA"
-  subtitle: "Room: 407.209" #hold for Sara King
+  title: "TBA" #TBC: Meet Pawsey & Pawsey-Curtin Researchers?
+  subtitle: "Room: 407.209" 
   description: "<p>More details later</p>"
 
   subtype: elective
@@ -291,7 +291,7 @@
   hidden: false
 -
   id: 116
-  title: "TBA" #Introduction to Julia - Felix Chan
+  title: "Introduction to Julia"
   subtitle: "Room: 407.208"
   description: "<p>More details later</p>"
 
@@ -311,7 +311,7 @@
   hidden: false
 -
   id: 118
-  title: "TBA" #build your brand (or CV)
+  title: "Build your brand" #build your brand (or CV)
   subtitle: "Room: 410.201"
   description: "<p>More details later</p>"
 
@@ -321,18 +321,7 @@
   hidden: false
 -
   id: 119
-  title: "TBA" #Meet Pawsey & Pawsey-Curtin Researchers (3:30-4pm)
-  subtitle: "Room: 410.201"
-  description: "<p>More details later</p>"
-
-  subtype: elective
-  speakers: [] #[3, 4]
-  complexity: "Beginner"
-  hidden: false
--
-  id: 120
-  title: "TBA" #POTENTIAL PANEL EVENT? 4-5pm (Mindaroo; Kathleen Franklyn + 2 more)
-  subtitle: "Room: 410.201"
+  title: "PANEL EVENT - career focus" 
   description: "<p>More details later</p>"
 
   subtype: elective

@@ -111,11 +111,11 @@ mapCenterCoordinates: "-32.00167, 115.89334"
 mapMobileCenterCoordinates: "-32.00167, 115.89334"
 
 # Venue Block
-# venueBlockTitle: "Past Events"
-# venueBigImage: "cam_beanbags.jpg"
-# venueSmallImage2: "publishing_tabletop.jpg"
-# venueSmallImage1: "sam_on_the_wall.jpg"
-# venueSmallImage3: "speaker_beanbags.jpg"
+venueBlockTitle: "Past Events"
+venueBigImage: "cam_beanbags.jpg"
+venueSmallImage2: "publishing_tabletop.jpg"
+venueSmallImage1: "sam_on_the_wall.jpg"
+venueSmallImage3: "speaker_beanbags.jpg"
 
 # venueTitle: "ResBaz Perth 2019"
 # venueFeatures: ["Recently refurbished lecture rooms.", "Free catering provided daily.", "Bean bags and areas for socializing!"]
@@ -135,11 +135,11 @@ organizersTitle: "Organisers"
 # Team Block
 teamBlockTitle: "Volunteers"
 teamSubtitle: "We'd like to thank the dedicated volunteers behind ResBaz Perth 2022!"
-teamText: "<p><b>ResBaz Perth 2021/2022 Program Organising Committee</p></b>
+teamText: "<p><b>ResBaz Perth 2022 Program Organising Committee</p></b>
 
 <p> Curtin Institute for Computation, Curtin University | Jamiu Ekundayo, Kathryn Barker, Kathryn Napier <br>
 Curtin University | Shih Ching Fu, Tania Lerch <br>
-Edith Cowan University |  <br>
+Mindaroo | Philipp Bayer <br>
 Murdoch University | Andrew Walsh <br>
 Pawsey Supercomputing Centre | Ann Backhaus, Luke Edwards <br>
 University of Western Australia | Dave Edwards, James Ward <br>
