@@ -12,7 +12,7 @@
   group: "Sponsors"
   elements:
     - {name: "Curtin University", description: "Curtin University", link: "https://curtin.edu.au"} 
-    - {name: "Dell Technologies", description: "Dell Technologies", link: "http://www.delltechnologies.com"}
+    #- {name: "Dell Technologies", description: "Dell Technologies", link: "http://www.delltechnologies.com"}
     - {name: "Murdoch University", description: "Murdoch University", link: "https://murdoch.edu.au"}
     - {name: "University of Western Australia", description: "University of Western Australia", link: "https://www.uwa.edu.au/home"}
     - {name: "University of Notre Dame Australia", description: "University of Notre Dame Australia", link: "https://notredame.edu.au/"}

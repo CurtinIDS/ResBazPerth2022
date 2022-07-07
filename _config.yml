@@ -210,7 +210,7 @@ footerBlocks:
   title: "Sponsors"
   links:
    - {link: "https://www.curtin.edu.au", text: "Curtin University"}
-   - {link: "http://www.delltechnologies.com", text: "Dell Technologies"}
+   #- {link: "http://www.delltechnologies.com", text: "Dell Technologies"}
    - {link: "https://murdoch.edu.au/", text: "Murdoch University"}
    - {link: "https://www.uwa.edu.au", text: "The University of Western Australia"}
    - {link: "https://www.notredame.edu.au/", text: "The University of Notre Dame Australia"}

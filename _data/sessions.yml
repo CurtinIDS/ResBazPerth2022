@@ -54,9 +54,9 @@
   hidden: false
 -
   id: 103
-  title: "TBA" #- Data ethics/Governance Ramon (Minderoo)
+  title: "Research Data Privacy, Security, Ethics" #- Data ethics/Governance Ramon (Minderoo)
   subtitle: "Room: 407.208"
-  description: "<p>More details later</p>"
+  description: "<p>Privacy, security, and ethics are fundamental considerations when using data in research and practice. Indeed, ever more data enables dramatic leaps in our ability to extract a person from signals at the expense of privacy: people’s ability to control their own conception and its expression. This dilemma is further fuelled by ever growing concerns on cyber security, and the variance in moral principles that govern the generation, access, use, and sharing of data. This workshop explains and organises key concepts for responsible data management and provides a range of recommendations and resources that help you navigate challenging data territory.</p>"
 
   subtype: ""
   speakers: [] #[3, 4]
@@ -74,9 +74,9 @@
   hidden: false       
 -
   id: 104
-  title: "COMMUNITY EVENT SPONSORED BY DELL - POSTER SESSION"
+  title: "TBA" #"COMMUNITY EVENT SPONSORED BY DELL - POSTER SESSION"
   subtitle: "Room: 410.101"
-  description: "<p> Showcase your analytics research through a poster presentation. This is a community event sponsored by Dell Technologies.</p>"
+  description: "<p> Showcase your analytics research through a poster presentation.</p>" #This is a community event sponsored by Dell Technologies.
   
   subtype: event
   speakers: #[3, 4]
@@ -158,7 +158,7 @@
   id: 107
   title: "Bioinformatics"
   subtitle: "Room: 407.208"
-  description: "<p>This is a Data Carpentry Workshop offering a hands on Bioinformatics. The course is aimed at postgraduate students and researchers who want to learn more about using Bioinformatics.</p>
+  description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
 
@@ -170,7 +170,7 @@
   id: 107b
   title: "Bioinformatics continued"
   subtitle: "Room: 407.208"
-  description: "<p>This is a Data Carpentry Workshop offering a hands on Bioinformatics. The course is aimed at postgraduate students and researchers who want to learn more about using Bioinformatics.</p>
+  description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
   
@@ -182,7 +182,7 @@
   id: 107c
   title: "Bioinformatics continued"
   subtitle: "Room: 410.209"
-  description: "<p>This is a Data Carpentry Workshop offering a hands on Bioinformatics. The course is aimed at postgraduate students and researchers who want to learn more about using Bioinformatics.</p>
+  description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
   
