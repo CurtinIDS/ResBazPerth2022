@@ -30,11 +30,11 @@
   hidden: false
 -
   id: 102
-  title: "Intro to bash and git - group 1"
+  title: "Intro to bash and git"
   subtitle: "Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and git. The course is aimed at postgraduate students and researchers who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
-  <p>NB: Session runs parallel with Intro to bash and git - group 2.</p>"
+  <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics.</p>"
 
   subtype: training
   speakers: [] #[3, 4]
@@ -74,7 +74,7 @@
   hidden: false       
 -
   id: 104
-  title: "TBA" #"COMMUNITY EVENT SPONSORED BY DELL - POSTER SESSION"
+  title: "Sundowner and Poster Session"
   subtitle: "Room: 410.101"
   description: "<p> Showcase your analytics research through a poster presentation.</p>" #This is a community event sponsored by Dell Technologies.
   
@@ -124,7 +124,7 @@
   subtitle: "Room: 410.209"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
   
-  <p>NB: Session runs parallel with Introduction to Python & Bioinformatics.</p>"
+  <p>NB: Session runs parallel with Introduction to Python.</p>"
 
   subtype: training
   speakers: [] #[2, 24]
@@ -136,7 +136,7 @@
   subtitle: "Room: 410.209"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
   
-  <p>NB: Session runs parallel with Introduction to Python & Bioinformatics.</p>"
+  <p>NB: Session runs parallel with Introduction to Python.</p>"
   
   subtype: training
   speakers: [] #[2, 24]
@@ -148,7 +148,7 @@
   subtitle: "Room: 407.208"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at postgraduate students and researchers who want to learn more about using R for their research.</p>
   
-  <p>NB: Session runs parallel with Introduction to Python & Bioinformatics.</p>"
+  <p>NB: Session runs parallel with Introduction to Python.</p>"
   
   subtype: training
   speakers: [] #[2, 24]
@@ -251,7 +251,7 @@
   complexity: "Beginner"
 -
   id: 112
-  title: "TBA" #TBC: Meet Pawsey & Pawsey-Curtin Researchers?
+  title: "Meet Pawsey & Pawsey-Curtin Researchers"
   subtitle: "Room: 407.209" 
   description: "<p>More details later</p>"
 
@@ -321,8 +321,8 @@
   hidden: false
 -
   id: 119
-  title: "PANEL EVENT - career focus" 
-  description: "<p>More details later</p>"
+  title: "Careers Panel Q&A" 
+  description: "<p>Leveraging research, computational and digital skills for future careers, over afternoon tea</p>"
 
   subtype: elective
   speakers: [] #[3, 4]
