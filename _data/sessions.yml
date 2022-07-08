@@ -30,7 +30,7 @@
   hidden: false
 -
   id: 102
-  title: "Intro to bash and git"
+  title: "Introduction to bash and git"
   subtitle: "Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and git. The course is aimed at postgraduate students and researchers who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
@@ -42,11 +42,9 @@
   hidden: false
 -
   id: 102b
-  title: "Intro to bash and git - group 2"
+  title: "Introduction to bash and git continued"
   subtitle: "Room: 410.201"
-  description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and git. The course is aimed at postgraduate students and researchers who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
-
-  <p>NB: Session runs parallel with Intro to bash and git - group 1.</p>"
+  description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and git. The course is aimed at postgraduate students and researchers who want to learn more about automation, version control, and improve the reproducibility of their research.</p>"
 
   subtype: training
   speakers: [] #[3, 4]
