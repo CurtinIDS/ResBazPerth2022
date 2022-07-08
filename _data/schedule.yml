@@ -33,11 +33,6 @@
       }
     - {
       startTime: "15:00",
-      endTime: "15:30",
-      sessionIds: [101]
-     }
-    - {
-      startTime: "15:00",
       endTime: "16:30",
       sessionIds: [104]
       }   

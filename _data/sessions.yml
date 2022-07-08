@@ -88,7 +88,7 @@
   subtitle: "Room: 410.101"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at postgraduate students and researchers who want to learn more about using Python for their research.</p>
   
-  <p>NB: Session runs parallel with Introduction to R & Bioinformatics.</p>"
+  <p>NB: Session runs parallel with Introduction to R.</p>"
 
   subtype: training
   speakers: [] #[2, 24]
@@ -100,7 +100,7 @@
   subtitle: "Room: 410.101"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at postgraduate students and researchers who want to learn more about using Python for their research.</p>
   
-  <p>NB: Session runs parallel with Introduction to R & Bioinformatics.</p>"
+  <p>NB: Session runs parallel with Introduction to R.</p>"
   
   subtype: training
   speakers: [] #[2, 24]
@@ -112,7 +112,7 @@
   subtitle: "Room: 407.305 CT"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at postgraduate students and researchers who want to learn more about using Python for their research.</p>
   
-  <p>NB: Session runs parallel with Introduction to R & Bioinformatics.</p>"
+  <p>NB: Session runs parallel with Introduction to R.</p>"
   
   subtype: training
   speakers: [] #[2, 24]
