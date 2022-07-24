@@ -65,17 +65,17 @@
 #   ribbon:
 #     - {abbr: "MW", title: "MathWorks ", url: "https://www.mathworks.com/"}
 # - 
-#   id: 7
-#   name: "Claire"
-#   surname: "Hulcup"
-#   company: "Curtin University"
-#   title: "Academic Skills Advisor (Numeracy) | Learning Success | University Library"
-#   bio: 
-#   thumbnailUrl: "chulcup.jpeg" 
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
-# - 
+  id: 7
+  name: "Claire"
+  surname: "Hulcup"
+  company: "Curtin University"
+  title: "Academic Skills Advisor (Numeracy) | Learning Success | University Library"
+  bio: 
+  thumbnailUrl: "chulcup.jpeg" 
+  rockstar: false
+  ribbon:
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+- 
 #   id: 8
 #   name: "Ann"
 #   surname: "Backhaus"
@@ -218,7 +218,7 @@
   rockstar: false
   ribbon:
     - {abbr: "AARNET", title: "AARNET", url: "https://www.aarnet.edu.au/"}
-# - 
+- 
 #   id: 21
 #   name: "Jenna"
 #   surname: "Wraith"
@@ -229,7 +229,7 @@
 #   rockstar: false
 #   ribbon:
 #     - {abbr: "EC", title: "EcoCommons", url: "https://ecocommons.org.au/"}
-- 
+# - 
   id: 22
   name: "Felix"
   surname: "Chan"
@@ -240,7 +240,7 @@
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
-# - 
+- 
 #   id: 23
 #   name: "Drew"
 #   surname: "Whitehouse"
@@ -284,7 +284,7 @@
 #   rockstar: false
 #   ribbon:
 #     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
-- 
+# - 
   id: 27
   name: "Kathleen"
   surname: "Franklyn"
