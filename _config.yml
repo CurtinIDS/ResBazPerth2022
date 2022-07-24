@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
@@ -79,10 +79,10 @@ aboutText: "<p>The Research Bazaar (ResBaz) is a worldwide festival promoting th
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "10", specialCharacter: "+", info: "electives", detail: ""}
+ - {count: "15", specialCharacter: "+", info: "electives and workshops", detail: ""}
  #- {count: "40", specialCharacter: "+", info: "hours", detail: ""}
  #- {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
+ - {count: "4", specialCharacter: "", info: "parallel streams", detail: ""}
  - {count: "3", specialCharacter: "", info: "networking events", detail: ""}
 
 # Latest News Block
@@ -134,8 +134,8 @@ organizersTitle: "Organisers"
 
 # Team Block
 teamBlockTitle: "Volunteers"
-teamSubtitle: "We'd like to thank the dedicated volunteers behind ResBaz Perth 2022!"
-teamText: "<p><b>ResBaz Perth 2022 Program Organising Committee</p></b>
+teamSubtitle: "We'd like to thank the dedicated volunteers behind Perth ResBaz 2022!"
+teamText: "<p><b>Perth ResBaz 2022 Program Organising Committee</p></b>
 
 <p> Curtin Institute for Computation, Curtin University | Jamiu Ekundayo, Kathryn Barker, Kathryn Napier <br>
 Curtin University | Shih Ching Fu, Tania Lerch <br>

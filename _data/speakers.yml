@@ -14,7 +14,7 @@
   name: "Shih Ching"
   surname: "Fu"
   company: "Curtin University"
-  title: "Research Data Analyst"
+  title: "Research Associate"
   bio: 
   thumbnailUrl: "scfu.jpeg"   
   rockstar: false
@@ -24,179 +24,179 @@
   id: 3
   name: "Philipp"
   surname: "Bayer"
-  company: "University of Western Australia"
-  title: "DECRA Fellow, School of Biological Sciences"
+  company: "Mindaroo Foundation"
+  title: "Research Officer Computational Biology & AI OceanOmics"
   bio: 
   thumbnailUrl: "pbayer.jpeg"   
   rockstar: false
   ribbon:
-    - {abbr: "UWA", title: "University of Western Australia", url: "https://www.uwa.edu.au/home"}
+    - {abbr: "Mindaroo", title: "Mindaroo Foundation", url: "https://www.minderoo.org/"}
 - 
-  id: 4
-  name: "Valerie"
-  surname: "Maxville"
-  company: "Curtin University"
-  title: "Senior Lecturer, School of Electrical Engineering, Computing and Mathematical Sciences"
-  bio: 
-  thumbnailUrl:    
-  rockstar: false
-  ribbon:
-    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
-- 
-  id: 5
-  name: "Shinsuke"
-  surname: " Matsubara"
-  company: "MathWorks"
-  title: "Senior Customer Success Engineer"
-  bio: 
-  thumbnailUrl: "smatsubara.jpeg"
-  rockstar: false
-  ribbon:
-    - {abbr: "MW", title: "MathWorks ", url: "https://www.mathworks.com/"}
-- 
-  id: 6
-  name: "Peter"
-  surname: "Brady"
-  company: "MathWorks"
-  title: "Senior Application Engineer"
-  bio: 
-  thumbnailUrl: "pbrady.jpeg" 
-  rockstar: false
-  ribbon:
-    - {abbr: "MW", title: "MathWorks ", url: "https://www.mathworks.com/"}
-- 
-  id: 7
-  name: "Claire"
-  surname: "Hulcup"
-  company: "Curtin University"
-  title: "Academic Skills Advisor (Numeracy) | Learning Success | University Library"
-  bio: 
-  thumbnailUrl: "chulcup.jpeg" 
-  rockstar: false
-  ribbon:
-    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
-- 
-  id: 8
-  name: "Ann"
-  surname: "Backhaus"
-  company: "Pawsey Supercomputing Centre"
-  title: "Education and Training Manager"
-  bio: 
-  thumbnailUrl: "abackhaus.png" 
-  rockstar: false
-  ribbon:
-    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-- 
-  id: 9
-  name: "Pascal"
-  surname: "Elahi"
-  company: "Pawsey Supercomputing Centre"
-  title: "Supercomputing Applications Specialist"
-  bio: 
-  thumbnailUrl: "pelahi.png" 
-  rockstar: false
-  ribbon:
-    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-- 
-  id: 10
-  name: "Chris"
-  surname: "Harris"
-  company: "Pawsey Supercomputing Centre"
-  title: "Team Lead - Senior Supercomputing Application Specialist"
-  bio: 
-  thumbnailUrl: "charris.jpeg" 
-  rockstar: false
-  ribbon:
-    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-- 
-  id: 11
-  name: "Mehaboob"
-  surname: "Basha"
-  company: "Pawsey Supercomputing Centre"
-  title: "Supercomputing Applications Specialist"
-  bio: 
-  thumbnailUrl: "mbasha.png" 
-  rockstar: false
-  ribbon:
-    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-- 
-  id: 12
-  name: "Lachlan"
-  surname: "Campbell"
-  company: "Pawsey Supercomputing Centre"
-  title: "Research Data Specialist"
-  bio: 
-  thumbnailUrl: "lcampbell.jpeg" 
-  rockstar: false
-  ribbon:
-    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-- 
-  id: 13
-  name: "Luke"
-  surname: "Edwards"
-  company: "Pawsey Supercomputing Centre"
-  title: "Data Specialist"
-  bio: 
-  thumbnailUrl: "ledwards.jpeg" 
-  rockstar: false
-  ribbon:
-    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-- 
-  id: 14
-  name: "Audrey"
-  surname: "Xie Stott"
-  company: "Pawsey Supercomputing Centre"
-  title: "Bioinformatics Platforms Specialist"
-  bio: 
-  thumbnailUrl: "axstott.png" 
-  rockstar: false
-  ribbon:
-    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-- 
-  id: 15
-  name: "Vishav"
-  surname: "Sharma"
-  company: "Clarivate"
-  title: "Regional Solutions Consultant/e-Resource & Digital Content Specialist, Customer Education"
-  bio: 
-  thumbnailUrl:  
-  rockstar: false
-  ribbon:
-    - {abbr: "Clarivate", title: "Clarivate", url: "https://www.clarivate.com/"}
-- 
-  id: 16
-  name: "Roger"
-  surname: "Edberg"
-  company: "National Computational Infrastructure"
-  title: "User Services Manager"
-  bio: 
-  thumbnailUrl:  
-  rockstar: false
-  ribbon:
-    - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
-- 
-  id: 17
-  name: "Rui"
-  surname: "Yang"
-  company: "National Computational Infrastructure"
-  title: "Senior HPC Specialist"
-  bio: 
-  thumbnailUrl: "ryang.jpeg"
-  rockstar: false
-  ribbon:
-    - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
-- 
-  id: 18
-  name: "Yiling"
-  surname: "Liu"
-  company: "National Computational Infrastructure"
-  title: "Research Data Management Specialist"
-  bio: 
-  thumbnailUrl: "yliu.jpeg"
-  rockstar: false
-  ribbon:
-    - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
-- 
+  # id: 4
+  # name: "Valerie"
+  # surname: "Maxville"
+  # company: "Curtin University"
+  # title: "Senior Lecturer, School of Electrical Engineering, Computing and Mathematical Sciences"
+  # bio: 
+  # thumbnailUrl:    
+  # rockstar: false
+  # ribbon:
+  #   - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+# - 
+#   id: 5
+#   name: "Shinsuke"
+#   surname: " Matsubara"
+#   company: "MathWorks"
+#   title: "Senior Customer Success Engineer"
+#   bio: 
+#   thumbnailUrl: "smatsubara.jpeg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "MW", title: "MathWorks ", url: "https://www.mathworks.com/"}
+# - 
+#   id: 6
+#   name: "Peter"
+#   surname: "Brady"
+#   company: "MathWorks"
+#   title: "Senior Application Engineer"
+#   bio: 
+#   thumbnailUrl: "pbrady.jpeg" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "MW", title: "MathWorks ", url: "https://www.mathworks.com/"}
+# - 
+#   id: 7
+#   name: "Claire"
+#   surname: "Hulcup"
+#   company: "Curtin University"
+#   title: "Academic Skills Advisor (Numeracy) | Learning Success | University Library"
+#   bio: 
+#   thumbnailUrl: "chulcup.jpeg" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+# - 
+#   id: 8
+#   name: "Ann"
+#   surname: "Backhaus"
+#   company: "Pawsey Supercomputing Centre"
+#   title: "Education and Training Manager"
+#   bio: 
+#   thumbnailUrl: "abackhaus.png" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# - 
+#   id: 9
+#   name: "Pascal"
+#   surname: "Elahi"
+#   company: "Pawsey Supercomputing Centre"
+#   title: "Supercomputing Applications Specialist"
+#   bio: 
+#   thumbnailUrl: "pelahi.png" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# - 
+#   id: 10
+#   name: "Chris"
+#   surname: "Harris"
+#   company: "Pawsey Supercomputing Centre"
+#   title: "Team Lead - Senior Supercomputing Application Specialist"
+#   bio: 
+#   thumbnailUrl: "charris.jpeg" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# - 
+#   id: 11
+#   name: "Mehaboob"
+#   surname: "Basha"
+#   company: "Pawsey Supercomputing Centre"
+#   title: "Supercomputing Applications Specialist"
+#   bio: 
+#   thumbnailUrl: "mbasha.png" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# - 
+#   id: 12
+#   name: "Lachlan"
+#   surname: "Campbell"
+#   company: "Pawsey Supercomputing Centre"
+#   title: "Research Data Specialist"
+#   bio: 
+#   thumbnailUrl: "lcampbell.jpeg" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# - 
+#   id: 13
+#   name: "Luke"
+#   surname: "Edwards"
+#   company: "Pawsey Supercomputing Centre"
+#   title: "Data Specialist"
+#   bio: 
+#   thumbnailUrl: "ledwards.jpeg" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# - 
+#   id: 14
+#   name: "Audrey"
+#   surname: "Xie Stott"
+#   company: "Pawsey Supercomputing Centre"
+#   title: "Bioinformatics Platforms Specialist"
+#   bio: 
+#   thumbnailUrl: "axstott.png" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# - 
+#   id: 15
+#   name: "Vishav"
+#   surname: "Sharma"
+#   company: "Clarivate"
+#   title: "Regional Solutions Consultant/e-Resource & Digital Content Specialist, Customer Education"
+#   bio: 
+#   thumbnailUrl:  
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "Clarivate", title: "Clarivate", url: "https://www.clarivate.com/"}
+# - 
+#   id: 16
+#   name: "Roger"
+#   surname: "Edberg"
+#   company: "National Computational Infrastructure"
+#   title: "User Services Manager"
+#   bio: 
+#   thumbnailUrl:  
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
+# - 
+#   id: 17
+#   name: "Rui"
+#   surname: "Yang"
+#   company: "National Computational Infrastructure"
+#   title: "Senior HPC Specialist"
+#   bio: 
+#   thumbnailUrl: "ryang.jpeg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
+# - 
+#   id: 18
+#   name: "Yiling"
+#   surname: "Liu"
+#   company: "National Computational Infrastructure"
+#   title: "Research Data Management Specialist"
+#   bio: 
+#   thumbnailUrl: "yliu.jpeg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
+# - 
   id: 19
   name: "Tiffany"
   surname: "Carpenter"
@@ -218,17 +218,17 @@
   rockstar: false
   ribbon:
     - {abbr: "AARNET", title: "AARNET", url: "https://www.aarnet.edu.au/"}
-- 
-  id: 21
-  name: "Jenna"
-  surname: "Wraith"
-  company: "EcoCommons Australia"
-  title: "Training and Engagement Officer and Scientific/Business Analyst"
-  bio: 
-  thumbnailUrl: "jwraith.jpeg"
-  rockstar: false
-  ribbon:
-    - {abbr: "EC", title: "EcoCommons", url: "https://ecocommons.org.au/"}
+# - 
+#   id: 21
+#   name: "Jenna"
+#   surname: "Wraith"
+#   company: "EcoCommons Australia"
+#   title: "Training and Engagement Officer and Scientific/Business Analyst"
+#   bio: 
+#   thumbnailUrl: "jwraith.jpeg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "EC", title: "EcoCommons", url: "https://ecocommons.org.au/"}
 - 
   id: 22
   name: "Felix"
@@ -240,61 +240,61 @@
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
-- 
-  id: 23
-  name: "Drew"
-  surname: "Whitehouse"
-  company: "National Computational Infrastructure"
-  title: "Scientific Visualization Programmer"
-  bio: 
-  thumbnailUrl: "dwhitehouse.jpeg"
-  rockstar: false
-  ribbon:
-    - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
-- 
-  id: 24
-  name: "Rebecca"
-  surname: "Lange"
-  company: "Curtin University"
-  title: "Research Fellow, Curtin Institute for Computation"
-  bio: 
-  thumbnailUrl: "rlange.jpg"
-  rockstar: false
-  ribbon:
-    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
-- 
-  id: 25
-  name: "Emilia"
-  surname: "Decker"
-  company: "EcoCommons Australia"
-  title: "Support and Training Officer"
-  bio: 
-  thumbnailUrl: "edecker.jpg"
-  rockstar: false
-  ribbon:
-    - {abbr: "EC", title: "EcoCommons", url: "https://ecocommons.org.au/"}
-- 
-  id: 26
-  name: "Jayanthi"
-  surname: "Joseph"
-  company: "Curtin University"
-  title: "Librarian, Library Learning, Research, Engagement and Global"
-  bio: 
-  thumbnailUrl:  
-  rockstar: false
-  ribbon:
-    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+# - 
+#   id: 23
+#   name: "Drew"
+#   surname: "Whitehouse"
+#   company: "National Computational Infrastructure"
+#   title: "Scientific Visualization Programmer"
+#   bio: 
+#   thumbnailUrl: "dwhitehouse.jpeg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "NCI", title: "National Computational Infrastructure", url: "http://nci.org.au/"}
+# - 
+#   id: 24
+#   name: "Rebecca"
+#   surname: "Lange"
+#   company: "Curtin University"
+#   title: "Research Fellow, Curtin Institute for Computation"
+#   bio: 
+#   thumbnailUrl: "rlange.jpg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+# - 
+#   id: 25
+#   name: "Emilia"
+#   surname: "Decker"
+#   company: "EcoCommons Australia"
+#   title: "Support and Training Officer"
+#   bio: 
+#   thumbnailUrl: "edecker.jpg"
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "EC", title: "EcoCommons", url: "https://ecocommons.org.au/"}
+# - 
+#   id: 26
+#   name: "Jayanthi"
+#   surname: "Joseph"
+#   company: "Curtin University"
+#   title: "Librarian, Library Learning, Research, Engagement and Global"
+#   bio: 
+#   thumbnailUrl:  
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 - 
   id: 27
   name: "Kathleen"
   surname: "Franklyn"
-  company: "Curtin University"
-  title: "Career Development Consultant, Student Success"
+  company: "Katalyst 4 Success"
+  title: "Principal Consultant (and Founder)"
   bio: 
   thumbnailUrl: "kfranklyn.jpg"
   rockstar: false
   ribbon:
-    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+    - {abbr: "Katalyst", title: "Katalyst 4 Succes", url: "http://www.kathleen-franklyn.com/"}
 
 
 
