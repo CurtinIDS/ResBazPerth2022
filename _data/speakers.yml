@@ -24,13 +24,13 @@
   id: 3
   name: "Philipp"
   surname: "Bayer"
-  company: "Mindaroo Foundation"
+  company: "Minderoo Foundation"
   title: "Research Officer Computational Biology & AI OceanOmics"
   bio: 
   thumbnailUrl: "pbayer.jpeg"   
   rockstar: false
   ribbon:
-    - {abbr: "Mindaroo", title: "Mindaroo Foundation", url: "https://www.minderoo.org/"}
+    - {abbr: "Minderoo", title: "Minderoo Foundation", url: "https://www.minderoo.org/"}
 - 
   # id: 4
   # name: "Valerie"
