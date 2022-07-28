@@ -44,18 +44,18 @@ c4pUrl: "mailto:perthresbaz@gmail.com"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "mailto:perthresbaz@gmail.com", text: "Contact us"}
 rightNavigationButtons:
- - {link: "mailto:perthresbaz@gmail.com", text: "Contact us"}
+ - {link: "https://tinyurl.com/yt3zs9jv", text: "KEEP UPDATED"}
 
 # Hero Block
-heroImage: "WADSHI_background.jpg"
+heroImage: "WADSIH_hero.png"
 # heroTitle: "ResBaz : <typeout> "
 heroTitle: "ResBaz : Perth "
 # eventDate: ""
@@ -73,9 +73,50 @@ aboutText: "<p>The Research Bazaar (ResBaz) is a worldwide festival promoting th
 <p>Perth ResBaz 2022 is a combination of computational training workshops (such as introduction to version control, introduction to R, introduction to python), electives (shorter 45 to 90 minute tutorials), and community events. Networking and social sessions form an important component of ResBaz, bringing together all participants to meet and network and to hear from keynote speakers and panelists.</p>
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD and research Masters students are especially encouraged to attend. Research technologists who support researchers to do their job should also come along! Sessions at ResBaz this year are intended to offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>
 
-<p>Registrations will open in July 2022 and are limited to 100 people.<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSco97dodkcNEHcpITX4U6-uY0vKj_ygUCh67h0-AwTJy47VtQ/viewform?fbzx=3552297580201525183\">Sign up here and stay updated</a>. Please check the <a href=\"https://curtinic.github.io/ResBazPerth2022/schedule/\">SCHEDULE</a> and <a href=\"https://curtinic.github.io/ResBazPerth2022/sessions/\">SESSIONS</a> pages  for the latest information on computational training, electives, and community events.</p>"
+<h2>Registrations</h2>
+<br>
+<h4>Ticket Price</h4>
 
+<p>$100 (incl. GST) + BF. Tickets are limited to 100 participants.</p>
 
+<br>
+<h4>Ticket Inclusions</h4>
+
+<p>Your ticket includes:</p>
+
+<p>* 3 days of professional learning</p>
+<p>* access to all sessions to keynotes, panels and training workshops</p>
+<p>* a multitude of networking opportunities</p>
+<p>* full-day catering, including morning/afternoon tea, and lunch</p>
+<p>* plus sundowner drinks & canapés</p>
+
+<p>NOTE: An email to register for the individual training sessions/streams will be sent towards the end of August 2022. </p>
+
+<br>
+<h4>First Release Tickets (19 July 2022)</h4>
+
+<p>Reserved for participating sponsoring WA universities from 19 July.</p>
+
+<p>Please request the relevant Access Code from your respective university graduate/higher degree research school or office.</p>
+
+<br>
+<h4>General Admission Release Tickets (early August 2022)</h4>
+
+<p>Remaining tickets will go on sale to the general public early August, unless allocation previously exhausted. To be notified when General Admission tickets go on sale, please register your interest to <b><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSco97dodkcNEHcpITX4U6-uY0vKj_ygUCh67h0-AwTJy47VtQ/viewform?fbzx=3552297580201525183\">KEEP UPDATED HERE</a></b></p>"
+
+# Tickets Block
+# ticketsTitle: "Register Now"
+# ticketsInfo: "Tickets grant access to all sessions, keynotes, panels and training workshops."
+# ticketsOffers:
+#  -
+#   name: "ResBaz Perth 2022 Tickets"
+#   price: "100"
+#   priceCurrency: "AUD"
+#   ticketsNumber: "100"
+#   buyButtonLink: "EVENTBRITE LINK HERE"
+#   buyButtonText: "Register Now"
+
+ 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
@@ -96,8 +137,8 @@ latestNewsTitle: "Latest News"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "In-person event, hosted by WA Data Science Innovation Hub"
-#eventLocationLink: "https://www.auckland.ac.nz/en/on-campus/our-campuses/landmarks-facilities/the-clocktower.html"
+eventLocationName: "In-person event, hosted by the WA Data Science Innovation Hub at Curtin University, Building 410 (Curtin Medical School)"
+eventLocationLink: "https://use.mazemap.com/#v=1&config=curtinuniversity&zlevel=1&center=115.893444,-32.001906&zoom=16.9&campusid=296&sharepoitype=poi&sharepoi=1000462438"
 eventStreetAddress: "Kent St"
 eventAddressLocality: "Bentley"
 eventAddressLocalityRegion: "Perth"
@@ -128,6 +169,7 @@ twitterFeed: "https://twitter.com/ResBaz"
 
 # Partners Block
 organizersTitle: "Organisers"
+organizersImage: "pertheq.jpg"
 # partnersTitle: "Partners"
 # partnersC4sponsorsButton: "Become a supporter"
 # partnersLink: ""
@@ -146,53 +188,13 @@ University of Western Australia | Dave Edwards, James Ward <br>
 WA Data Science Innovation Hub | Shannon Hansen <br>
 </p>"
 
+
+
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
 # subscribeTitle: "Subscribe for updates"
 # subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-# Tickets Block
-# ticketsTitle: "Pricetable"
-# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
-#   price: "350"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "150"
-#   ribbon: "-5%"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-25T10:00"
-#   validThrough: "2014-09-30T23:59"
-#  -
-#   name: "Last Chance"
-#   price: "450"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "100"
-#   ribbon: "-20%"
-#   featured: true
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-10-01T00:00"
-#   validThrough: "2014-10-23T23:59"
-#   disabled: true
-#  -
-#   name: "Student"
-#   price: "200"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "50"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-20T10:00"
-#   validThrough: "2014-10-23T23:59"
-#   soldOut: true
-#   soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
