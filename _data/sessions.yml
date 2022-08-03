@@ -1,17 +1,17 @@
 -
   id: 100
   title: "Welcome to Country and Official Opening"
-  subtitle: "Room: 410.201"
+  subtitle: #"Room: 410.201"
   description: "<p>Join us at the official opening of Perth ResBaz 2022 with a Welcome to Country and ice breaker activities!</p>"
 
   subtype: ""
-  speakers: []
+  speakers: [1]
   complexity: #"Beginner"
   hidden: false
 -
   id: 101
   title: "Tea Break / Software Install Help Desk"
-  subtitle: "Room: 410 undercover"
+  subtitle: #"Room: 410 undercover"
   description: "<p> Come down for morning/afternoon tea and/or to get help with software installations</p>"
 
   subtype: ""
@@ -21,7 +21,7 @@
 -
   id: 101b
   title: "Lunch"
-  subtitle: "Room: 410 undercover"
+  subtitle: #"Room: 410 undercover"
   description: "<p> </p>"
 
   subtype: ""
@@ -31,7 +31,7 @@
 -
   id: 102
   title: "Introduction to Bash and Git (version control)"
-  subtitle: "Room: 410.201"
+  subtitle: #"Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
   <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics</p>"
@@ -43,7 +43,7 @@
 -
   id: 102b
   title: "Introduction to Bash and Git (version control) Continued"
-  subtitle: "Room: 410.201"
+  subtitle: #"Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
   <p>NB: Session runs parallel with Workshop Facilitated by AARNET Continued</p>"
@@ -55,7 +55,7 @@
 -
   id: 103
   title: "Research Data Privacy, Security, Ethics" #- Data ethics/Governance Ramon (Minderoo)
-  subtitle: "Room: 407.208"
+  subtitle: #"Room: 407.208"
   description: "<p>Privacy, security, and ethics are fundamental considerations when using data in research and practice. Indeed, ever more data enables dramatic leaps in our ability to extract a person from signals at the expense of privacy: people’s ability to control their own conception and its expression. This dilemma is further fuelled by ever growing concerns on cyber security, and the variance in moral principles that govern the generation, access, use, and sharing of data. This workshop explains and organises key concepts for responsible data management and provides a range of recommendations and resources that help you navigate challenging data territory.</p>
   
   <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Workshop Facilitated by AARNET</p>"
@@ -67,7 +67,7 @@
 -
   id: 103b
   title: "Workshop Facilitated by AARNET"
-  subtitle: "Room: 410.101"
+  subtitle: #"Room: 410.101"
   description: "<p>Details to be confirmed</p>
   
    <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Research Data Privacy, Security, Ethics"
@@ -79,7 +79,7 @@
 -
   id: 104
   title: "Sundowner and Poster Session"
-  subtitle: "Room: 410.101"
+  subtitle: #"Room: 410.101"
   description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Drinks and canapes provided.</p>" #This is a community event sponsored by Dell Technologies.
   
   subtype: event
@@ -89,7 +89,7 @@
 -
   id: 105
   title: "Introduction to Data Analysis and Visualisation in Python"
-  subtitle: "Room: 410.101"
+  subtitle: #"Room: 410.101"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
   
   <p>NB: Session runs parallel with Introduction to R</p>"
@@ -101,7 +101,7 @@
 -
   id: 105b
   title: "Introduction to Data Analysis and Visualisation in Python Continued"
-  subtitle: "Room: 410.101"
+  subtitle: #"Room: 410.101"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
   
   <p>NB: Session runs parallel with Introduction to R Continued</p>"
@@ -113,7 +113,7 @@
 -
   id: 105c
   title: "Introduction to Data Analysis and Visualisation in Python Continued"
-  subtitle: "Room: 407.305 CT"
+  subtitle: #"Room: 407.305 CT"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
   
   <p>NB: Session runs parallel with Introduction to R Continued</p>"
@@ -125,55 +125,55 @@
 -
   id: 106
   title: "Introduction to Data Analysis and Visualisation in R"
-  subtitle: "Room: 410.209"
+  subtitle: #"Room: 410.209"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
   
   <p>NB: Session runs parallel with Introduction to Python</p>"
 
   subtype: training
-  speakers: [2] #[2, 24]
+  speakers: [5] #[2, 24]
   complexity: "Beginner"
   hidden: false
 -
   id: 106b
   title: "Introduction to Data Analysis and Visualisation in R Continued"
-  subtitle: "Room: 410.209"
+  subtitle: #"Room: 410.209"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
   
   <p>NB: Session runs parallel with Introduction to Python Continued</p>"
   
   subtype: training
-  speakers: [2] #[2, 24]
+  speakers: [5] #[2, 24]
   complexity: "Intermediate"  
   hidden: true 
 -
   id: 106c
   title: "Introduction to Data Analysis and Visualisation in R Continued"
-  subtitle: "Room: 407.208"
+  subtitle: #"Room: 407.208"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
   
   <p>NB: Session runs parallel with Introduction to Python Continued</p>"
   
   subtype: training
-  speakers: [2] #[2, 24]
+  speakers: [5] #[2, 24]
   complexity: "Intermediate"  
   hidden: true
 -
   id: 107
   title: "Bioinformatics"
-  subtitle: "Room: 407.208"
+  subtitle: #"Room: 407.208"
   description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
   <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, NVIVO Part 1, and Make Your Data FAIR</p>"
 
   subtype: training
-  speakers: [3] #[2, 24]
+  speakers: [6] #[2, 24]
   complexity: "Intermediate"
   hidden: false 
 -
   id: 107b
   title: "Bioinformatics Continued"
-  subtitle: "Room: 407.208"
+  subtitle: #"Room: 407.208"
   description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
@@ -185,7 +185,7 @@
 -
   id: 107c
   title: "Bioinformatics Continued"
-  subtitle: "Room: 410.209"
+  subtitle: #"Room: 410.209"
   description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
@@ -197,7 +197,7 @@
 -
   id: 108
   title: "Help! My laptop is Burning! Deciding When to Move Off of Your Laptop"
-  subtitle: "Room: 410.209"
+  subtitle: #"Room: 410.209"
   description: "<p>How do you know when your dataset becomes “too big”? How do you know when your laptop can no longer do what you need it to do for your research? When is it best to use cloud resources? When is it best to use supercomputing resources? When do I need both (or neither)?</p>
   
   <p>The answers to these questions are project-dependent, and each project is different… but there are guidelines and best practices to help you decide.</p>
@@ -214,7 +214,7 @@
 -
   id: 109
   title: "Workshop Facilitated by AARNET Continued"
-  subtitle: "Room: 407.208" #hold for Sara King
+  subtitle: #"Room: 407.208" #hold for Sara King
   description: "<p>Details to be confirmed</p>
   
   <p>NB: Session runs parallel with Introduction to Bash and Git (version control) Continued"
@@ -227,7 +227,7 @@
 -
   id: 110
   title: "Nvivo - Part 1"
-  subtitle: "Room: 407.305"
+  subtitle: #"Room: 407.305"
   description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications</p>
   
   <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, Make Your Data Fair and Bioinformatics</p>"
@@ -239,7 +239,7 @@
 -
   id: 110b
   title: "Nvivo - Part 2"
-  subtitle: "Room: 407.305"
+  subtitle: #"Room: 407.305"
   description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications</p>
 
   <p>NB: Session runs parallel with Introduction to Qualtrics, Meet Pawsey & Pawsey-Curtin Researchers, and Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
@@ -252,7 +252,7 @@
 -
   id: 111
   title: "Make your Data FAIR"
-  subtitle: "Room: 407:205"
+  subtitle: #"Room: 407:205"
   
   description: "<p>What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR.</p>
 
@@ -260,25 +260,25 @@
 
   
   subtype: elective
-  speakers: [1]
+  speakers: [4]
   complexity: "Beginner"
 -
   id: 112
   title: "Meet Pawsey & Pawsey-Curtin Researchers"
-  subtitle: "Room: 407.209" 
+  subtitle: #"Room: 407.209" 
   description: "<p>Details to be confirmed</p>
 
   <p>NB: Session runs parallel with Introduction to Qualtrics, NVIVO Part 2, and Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
 
 
   subtype: elective
-  speakers: [] #[3, 4]
+  speakers: [8] #[3, 4]
   complexity: #"Beginner"
   hidden: false
 -
   id: 113
   title: "Introduction to Qualtrics"
-  subtitle: "Room: 407.208"
+  subtitle: #"Room: 407.208"
   description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>
   
   <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Using Video or Field Observations in Your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
@@ -292,7 +292,7 @@
 -
   id: 114
   title: "Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool"
-  subtitle: "Room: 407.205"
+  subtitle: #"Room: 407.205"
   description: "<p>Details to be confirmed</p>
   
   <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Introduction to Qualtrics</p>"
@@ -304,7 +304,7 @@
 -
   id: 115
   title: "Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)"
-  subtitle: "Room: 407.305 CT"
+  subtitle: #"Room: 407.305 CT"
   description: "<p>Details to be confirmed</p>
 
   <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand, and Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project</p>" 
@@ -316,7 +316,7 @@
 -
   id: 116
   title: "Introduction to Julia"
-  subtitle: "Room: 407.208"
+  subtitle: #"Room: 407.208"
   description: "<p>Details to be confirmed</p>
 
   <p>NB: Session runs parallel with Build your Brand, Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project and Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)</p>" 
@@ -329,7 +329,7 @@
 -
   id: 117
   title: "Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project"
-  subtitle: "Room: 410.209"
+  subtitle: #"Room: 410.209"
   description: "<p>Details to be confirmed</p>
 
   <p>NB: Session runs parallel with Introduction to Julia, Build your Brand and Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)</p>" 
@@ -342,7 +342,7 @@
 -
   id: 118
   title: "Build your brand" #build your brand (or CV)
-  subtitle: "Room: 410.201"
+  subtitle: #"Room: 410.201"
   description: "<p>More details later</p>
 
   <p>NB: Session runs parallel with Introduction to Julia, Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project and Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)</p>" 
@@ -358,6 +358,6 @@
   description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea</p>"
 
   subtype: elective
-  speakers: [] #[3, 4]
+  speakers: [2,1] #[3, 4]
   complexity: "Beginner"
   hidden: false

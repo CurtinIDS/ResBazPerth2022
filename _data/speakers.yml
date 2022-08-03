@@ -1,5 +1,38 @@
 - 
-  id: 1
+  id: 1 
+  name: "Alex"
+  surname: "Jenkins"
+  company: "WA Data Science Innovation Hub"
+  title: "Director, WA Data Science Innovation Hub"
+  bio: "Alex is the Director of WADSIH and has over 15 years’ experience working in the technology space implementing and advocating for data science and analytics solutions."
+  thumbnailUrl: "AlexJenkins.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "WADSIH", title: "WA Data Science Innovation Hub", url: "https://wadsih.org.au"}
+- 
+  id: 2
+  name: "Melanie"
+  surname: "Johnson-Hollitt"
+  company: "Curtin University"
+  title: "Director of the Curtin Institute For Computation (CIC) and Australian Space Data Analysis Facility (ASDAF)"
+  bio: "Professor Melanie Johnston-Hollitt is an internationally prominent radio astronomer working in the space between astrophysics, computer science and big data."
+  thumbnailUrl: "Melanie Johnston-Hollitt.jpg"   
+  rockstar: false
+  ribbon:
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+- 
+  id: 3
+  name: 
+  surname: 
+  company: 
+  title: 
+  bio: 
+  thumbnailUrl: 
+  rockstar: false
+  ribbon:
+    - {abbr: "", title: "", url: ""}
+- 
+  id: 4
   name: "Janice"
   surname: "Chan"
   company: "Curtin University"
@@ -10,18 +43,18 @@
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 - 
-  id: 2
+  id: 5
   name: "Shih Ching"
   surname: "Fu"
   company: "Curtin University"
   title: "Research Associate"
-  bio: 
+  bio: "Shih Ching is a consultant biostatistician working in clinical trials and healthcare analytics. Statistics aside, Shih Ching longs to spend more time on the greens and fairways, and under the stars."
   thumbnailUrl: "scfu.jpeg"   
   rockstar: false
   ribbon:
-    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}    
 - 
-  id: 3
+  id: 6
   name: "Philipp"
   surname: "Bayer"
   company: "Minderoo Foundation"
@@ -31,17 +64,17 @@
   rockstar: false
   ribbon:
     - {abbr: "Minderoo", title: "Minderoo Foundation", url: "https://www.minderoo.org/"}
-- 
-  # id: 4
-  # name: "Valerie"
-  # surname: "Maxville"
-  # company: "Curtin University"
-  # title: "Senior Lecturer, School of Electrical Engineering, Computing and Mathematical Sciences"
-  # bio: 
-  # thumbnailUrl:    
-  # rockstar: false
-  # ribbon:
-  #   - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+#- 
+# id: 4
+# name: "Valerie"
+# surname: "Maxville"
+# company: "Curtin University"
+# title: "Senior Lecturer, School of Electrical Engineering, Computing and Mathematical Sciences"
+# bio: 
+# thumbnailUrl:    
+# rockstar: false
+# ribbon:
+#   - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 # - 
 #   id: 5
 #   name: "Shinsuke"
@@ -64,7 +97,7 @@
 #   rockstar: false
 #   ribbon:
 #     - {abbr: "MW", title: "MathWorks ", url: "https://www.mathworks.com/"}
-# - 
+- 
   id: 7
   name: "Claire"
   surname: "Hulcup"
@@ -76,17 +109,17 @@
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 - 
-#   id: 8
-#   name: "Ann"
-#   surname: "Backhaus"
-#   company: "Pawsey Supercomputing Centre"
-#   title: "Education and Training Manager"
-#   bio: 
-#   thumbnailUrl: "abackhaus.png" 
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-# - 
+  id: 8
+  name: "Ann"
+  surname: "Backhaus"
+  company: "Pawsey Supercomputing Centre"
+  title: "Education and Training Manager"
+  bio: "Ann works at Pawsey on Staff & User training and Education Outreach. She enjoys all things Teaching & Learning, and has worked in and experimented with a variety of modalities and approaches for training in technical and technology areas, including most recently HPC."
+  thumbnailUrl: "abackhaus.jpeg" 
+  rockstar: false
+  ribbon:
+    - {abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
+# -
 #   id: 9
 #   name: "Pascal"
 #   surname: "Elahi"
@@ -213,7 +246,7 @@
   surname: "King"
   company: "Australia's Academic and Research Network (AARNET)"
   title: "Training and Engagement Lead"
-  bio: 
+  bio: "Dr Sara King is the Training and Engagement Lead at Australia's academic and research network provider, AARNet. She has extensive experience in engagement and training, with expertise in research data and technologies in the Humanities and Social Science (HASS) research areas. Prior to eResearch she worked for almost a decade at the National Archives of Australia and a few years in a public library. She has a PhD in Migration Studies and is a little bit obsessed with the idea of knitting as a form of coding."
   thumbnailUrl: "sking.jpeg"
   rockstar: false
   ribbon:
