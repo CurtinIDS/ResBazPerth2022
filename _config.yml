@@ -107,16 +107,16 @@ aboutText: "<p>The Research Bazaar (ResBaz) is a worldwide festival promoting th
 <p>Remaining tickets will go on sale to the general public early August, unless allocation previously exhausted. To be notified when General Admission tickets go on sale, please register your interest to <b><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSco97dodkcNEHcpITX4U6-uY0vKj_ygUCh67h0-AwTJy47VtQ/viewform?fbzx=3552297580201525183\">KEEP UPDATED HERE</a></b></p>"
 
 # Tickets Block
-# ticketsTitle: "Register Now"
-# ticketsInfo: "Tickets grant access to all sessions, keynotes, panels and training workshops."
-# ticketsOffers:
-#  -
-#   name: "ResBaz Perth 2022 Tickets"
-#   price: "100"
-#   priceCurrency: "AUD"
-#   ticketsNumber: "100"
-#   buyButtonLink: "EVENTBRITE LINK HERE"
-#   buyButtonText: "Register Now"
+ticketsTitle: "Register Now"
+ticketsInfo: "Tickets grant access to all sessions, keynotes, panels and training workshops."
+ticketsOffers:
+ -
+  name: "ResBaz Perth 2022 Tickets"
+  price: "100"
+  priceCurrency: "AUD"
+  ticketsNumber: "100"
+  buyButtonLink: https://www.eventbrite.com.au/e/2022-perth-research-bazaar-resbaz-tickets-387265340057
+  buyButtonText: "Register Now"
 
  
 # Statistic Block
