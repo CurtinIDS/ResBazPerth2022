@@ -52,7 +52,8 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "mailto:perthresbaz@gmail.com", text: "Contact us"}
 rightNavigationButtons:
- - {link: "https://tinyurl.com/yt3zs9jv", text: "KEEP UPDATED"}
+# - {link: "https://tinyurl.com/yt3zs9jv", text: "KEEP UPDATED"}
+ - {link: "https://www.eventbrite.com.au/e/2022-perth-research-bazaar-resbaz-tickets-387265340057", text: "REGISTER NOW"}
 
 # Hero Block
 heroImage: "WADSIH_hero_1.png"
