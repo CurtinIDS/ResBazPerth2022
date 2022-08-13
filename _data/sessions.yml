@@ -5,7 +5,7 @@
   description: "<p>Join us at the official opening of Perth ResBaz 2022 with a Welcome to Country and ice breaker activities!</p>"
 
   subtype: ""
-  speakers: [1]
+  speakers: [1,2]
   complexity: #"Beginner"
   hidden: false
 -
@@ -37,7 +37,7 @@
   <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics</p>"
 
   subtype: training
-  speakers: [] #[3, 4]
+  speakers: [11] #[3, 4]
   complexity: "Beginner"
   hidden: false
 -
@@ -49,7 +49,7 @@
   <p>NB: Session runs parallel with Workshop Facilitated by AARNET Continued</p>"
 
   subtype: training
-  speakers: [] #[3, 4]
+  speakers: [12] #[3, 4]
   complexity: "Beginner"
   hidden: false
 -
@@ -61,7 +61,7 @@
   <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Workshop Facilitated by AARNET</p>"
 
   subtype: ""
-  speakers: [] #[3, 4]
+  speakers: [17] #[3, 4]
   complexity: #"Beginner"
   hidden: false
 -
@@ -95,7 +95,7 @@
   <p>NB: Session runs parallel with Introduction to R</p>"
 
   subtype: training
-  speakers: [] #[2, 24]
+  speakers: [14] #[2, 24]
   complexity: "Beginner"
   hidden: false 
 -
@@ -107,7 +107,7 @@
   <p>NB: Session runs parallel with Introduction to R Continued</p>"
   
   subtype: training
-  speakers: [] #[2, 24]
+  speakers: [14] #[2, 24]
   complexity: "Intermediate"  
   hidden: true
 -
@@ -119,7 +119,7 @@
   <p>NB: Session runs parallel with Introduction to R Continued</p>"
   
   subtype: training
-  speakers: [] #[2, 24]
+  speakers: [15] #[2, 24]
   complexity: "Intermediate"  
   hidden: true
 -
@@ -155,7 +155,7 @@
   <p>NB: Session runs parallel with Introduction to Python Continued</p>"
   
   subtype: training
-  speakers: [5] #[2, 24]
+  speakers: [16] #[2, 24]
   complexity: "Intermediate"  
   hidden: true
 -
@@ -167,7 +167,7 @@
   <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, NVIVO Part 1, and Make Your Data FAIR</p>"
 
   subtype: training
-  speakers: [6] #[2, 24]
+  speakers: [6,9] #[2, 24]
   complexity: "Intermediate"
   hidden: false 
 -
@@ -179,7 +179,7 @@
   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
   
   subtype: training
-  speakers: [] #[2, 24]
+  speakers: [6,9] #[2, 24]
   complexity: "Intermediate"  
   hidden: true
 -
@@ -191,7 +191,7 @@
   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
   
   subtype: training
-  speakers: [] #[2, 24]
+  speakers: [6,9] #[2, 24]
   complexity: "Intermediate"  
   hidden: true
 -
@@ -277,7 +277,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
 
   subtype: elective
-  speakers: [8] #[3, 4]
+  speakers: [8,13,18,21,23,24,25,26] #[3, 4]
   complexity: #"Beginner"
   hidden: false
 -
@@ -303,7 +303,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Introduction to Qualtrics</p>"
 
   subtype: elective
-  speakers: [] #[3, 4]
+  speakers: [10] #[3, 4]
   complexity: "Beginner"
   hidden: false
 -
@@ -315,7 +315,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand, and Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project</p>" 
 
   subtype: elective
-  speakers: [] #[3, 4]
+  speakers: [8,13] #[3, 4]
   complexity: "Beginner"
   hidden: false
 -
@@ -363,6 +363,6 @@ The presenters will also talk about their journeys toward supercomputing, and th
   description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea</p>"
 
   subtype: elective
-  speakers: [2,1] #[3, 4]
+  speakers: [2,1,3] #[3, 4]
   complexity: "Beginner"
   hidden: false
