@@ -160,15 +160,17 @@
   hidden: true
 -
   id: 107
-  title: "Bioinformatics"
+  title: "Bioinformatics - a walkthrough"
   subtitle: #"Room: 407.208"
-  description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
+  description: "<p>Bioinformatics is one of the main tools of biology, but the required skills are hard to learn. Often it's even hard to know where to start learning!
+In this small workshop we'll show you how to analyse a small genomics dataset from start to finish on the command line. We'll touch on the various small tools experienced bioinformaticians employ, hopefully giving you a starting point for your learning journey.
+This workshop will not be interactive, but we welcome chances for digressions. We don't expect any prerequisite knowledge.</p>
   
   <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, NVIVO Part 1, and Make Your Data FAIR</p>"
 
   subtype: training
   speakers: [6,9] #[2, 24]
-  complexity: "Intermediate"
+  complexity: "Beginner"
   hidden: false 
 -
   id: 107b
