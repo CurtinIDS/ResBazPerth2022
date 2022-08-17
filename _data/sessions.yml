@@ -208,7 +208,7 @@
 
 
   subtype: elective
-  speakers: [] #[3, 4]
+  speakers: [23] #[3, 4]
   complexity: #"Beginner"
   hidden: false
 -
