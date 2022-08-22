@@ -179,9 +179,9 @@
   name: "Ramon"
   surname: "Wenzel"
   company: "Minderoo Foundation"
-  title: ""
-  bio: 
-  thumbnailUrl: ""
+  title: "Research Specialist"
+  bio: "Ramon Wenzel operates as Research Specialist across Minderoo Foundation. With a background in work psychology, data science and social impact, he supports the many experts and programs in the foundation. Realising the research we need for the world we want means to co-design solutions that are anchored in robust and actionable evidence, to govern data with integrity and transparency, and to perpetually earn the trust by communicating the process and output of science. Outside of work, Ramon follows basketball, practices DIY carpentry, cooks up a storm but makes a mess, and embraces life with a young family."
+  thumbnailUrl: "Ramon_Wenzel.jpg"
   rockstar: false
   ribbon:
     - {abbr: "Minderoo", title: "Minderoo Foundation", url: "https://www.minderoo.org/"}
