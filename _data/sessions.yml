@@ -422,7 +422,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
   <p><a href='https://support.pawsey.org.au/documentation/display/US/Cloud+Documentation '>Nimbus documentation</a>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand, and Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, and Curtin HIVE Tour</p>" 
 
   subtype: elective
   speakers: [8,13,18] #[3, 4]
@@ -434,7 +434,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: #"Room: 407.208"
   description: "<p>Details to be confirmed</p>
 
-  <p>NB: Session runs parallel with Build your Brand, Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project and Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)</p>" 
+  <p>NB: Session runs parallel with Build your Brand, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
 
 
   subtype: elective
@@ -443,15 +443,15 @@ The presenters will also talk about their journeys toward supercomputing, and th
   hidden: false
 -
   id: 117
-  title: "Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project"
+  title: "Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project"
   subtitle: #"Room: 410.209"
-  description: "<p>Details to be confirmed</p>
+  description: "<p>The goal for Perth Machine Learning Group is to develop AI capabilities in Perth through training and knowledge sharing.  We have over 2,800 members from industry, government and academia.  Our panel has hands on experience to implement machine learning/AI in the real world.  Come and ask us any questions so we can give you different perspective.</p>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Build your Brand and Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Build your Brand, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
 
 
   subtype: elective
-  speakers: [] #[3, 4]
+  speakers: [29, 30, 6, 31, 32] #[3, 4]
   complexity: "Beginner"
   hidden: false
 -
@@ -460,7 +460,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: #"Room: 410.201"
   description: "<p>More details later</p>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project and Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
 
 
   subtype: elective
@@ -485,3 +485,17 @@ The presenters will also talk about their journeys toward supercomputing, and th
   speakers: [] #[
   complexity: "Beginner"
   hidden: false
+-
+  id: 121
+  title: "Curtin HIVE Tour" 
+  description: "<p> The Curtin HIVE (Hub for Immersive Visualisation and eResearch) is an advanced facility established by Curtin University to serve the growing demands of researchers and industry for visualisation, virtualisation and simulation capabilities in Western Australia.</p>
+  
+  <p>On this tour, you'll be able to experience the HIVE's advanced visualisation facilities and capabilities in person. <a href='https://hive.curtin.edu.au/'>Visit the HIVE website here</a></p>
+  
+   <p>NB: Session runs parallel with Introduction to Julia, Build your Brand, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop), and Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project"
+
+  subtype: elective
+  speakers: [] #[
+  complexity: "Beginner"
+  hidden: false
+

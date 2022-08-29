@@ -301,12 +301,56 @@
   surname: "Subramanya"
   company: "Pawsey Supercomputing Research Centre"
   title: "Marketing and Events Officer"
-  bio: 
-  thumbnailUrl: ""
+  bio: "Aditi is the digital marketing lead at the Pawsey Supercomputing Research Centre. As a content creator and tech enthusiast, Aditi has been instrumental in providing Australian and global visibility to showcase Pawsey’s capabilities and services. Aditi has a passion for diversity and inclusivity, especially to give those with few opportunities a platform to stand on. Aditi loves to work with researchers to showcase their work and profiles through the power of communication."
+  thumbnailUrl: "aditi.png"
   rockstar: false
   ribbon:
     - { abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
-#- 
+- 
+  id: 29
+  name: "Mike"
+  surname: "Clark"
+  company: "Three Springs Technology"
+  title: "Director"
+  bio: 
+  thumbnailUrl: "m_clark.png"
+  rockstar: false
+  ribbon:
+    - { abbr: "TST", title: "Three Springs Technology", url: "https://threespringstechnology.com/"}
+- 
+  id: 30
+  name: "Nick"
+  surname: "Thomson"
+  company: "Three Springs Technology"
+  title: "Data Scientist"
+  bio: 
+  thumbnailUrl: "n_thomson.png"
+  rockstar: false
+  ribbon:
+    - { abbr: "TST", title: "Three Springs Technology", url: "https://threespringstechnology.com/"}
+- 
+  id: 31
+  name: "Sarada"
+  surname: "Lee"
+  company: "Perth Machine Learning Group"
+  title: "Cofounder"
+  bio: 
+  thumbnailUrl: "s_lee.png"
+  rockstar: false
+  ribbon:
+    - { abbr: "PMLG", title: "Perth Machine Learning Group,", url: "https://www.pmlg.org/"}
+- 
+  id: 32
+  name: "Sean"
+  surname: "Driver"
+  company: "Perth Machine Learning Group"
+  title: "Director"
+  bio: 
+  thumbnailUrl: "s_driver.png"
+  rockstar: false
+  ribbon:
+    - { abbr: "PMLG", title: "Perth Machine Learning Group,", url: "https://www.pmlg.org/"}
+# - 
 
 # id: 28
 # name: "Valerie"
