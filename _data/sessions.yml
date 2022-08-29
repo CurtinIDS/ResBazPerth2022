@@ -262,30 +262,30 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   speakers: [6,9] #[2, 24]
   complexity: "Beginner"
   hidden: false 
--
-  id: 107b
-  title: "Bioinformatics Continued"
-  subtitle: #"Room: 407.208"
-  description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
+# -
+  # id: 107b
+  # title: "Bioinformatics Continued"
+  # subtitle: #"Room: 407.208"
+  # description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
-  <p>NB: Session runs parallel with Introduction to Python & R.</p>"
+  # <p>NB: Session runs parallel with Introduction to Python & R.</p>"
   
-  subtype: training
-  speakers: [6,9] #[2, 24]
-  complexity: "Beginner"  
-  hidden: true
--
-  id: 107c
-  title: "Bioinformatics Continued"
-  subtitle: #"Room: 410.209"
-  description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
+  # subtype: training
+  # speakers: [6,9] #[2, 24]
+  # complexity: "Beginner"  
+  # hidden: true
+# -
+#   id: 107c
+#   title: "Bioinformatics Continued"
+#   subtitle: #"Room: 410.209"
+#   description: "<p>Are you a biologist who needs to analyse genomics data, but you don't know where to start? Come to the bioinformatics elective! We'll walk you through basic genomics analyses (read alignment/SNP calling/genome assembly) and some of the pitfalls and problems that can arise. We don't expect any prior bioinformatics expertise, but we do expect some bash skills which you can pick up on day 1 of ResBaz. </p>
   
-  <p>NB: Session runs parallel with Introduction to Python & R.</p>"
+#   <p>NB: Session runs parallel with Introduction to Python & R.</p>"
   
-  subtype: training
-  speakers: [6,9] #[2, 24]
-  complexity: "Intermediate"  
-  hidden: true
+#   subtype: training
+#   speakers: [6,9] #[2, 24]
+#   complexity: "Intermediate"  
+#   hidden: true
 -
   id: 108
   title: "Help! My laptop is Burning! Deciding When to Move Off of Your Laptop"
