@@ -125,8 +125,8 @@
   surname: "Egan"
   company: "Murdoch University"
   title: "Postdoctoral Research Fellow"
-  bio: 
-  thumbnailUrl: "" 
+  bio: "I am a biologist-turned computational biologist, spending less time in the wet lab and more time working with large multi-omic datasets. Much of my current research is focused around understanding the effects that tiny microorganisms can have on us, but I have a soft spot for native Australian animals & their unusual parasites. https://siobhonlegan.com/"
+  thumbnailUrl: "segan.jpg" 
   rockstar: false
   ribbon:
     - {abbr: "MU", title: "Murdoch University", url: "https://www.murdoch.edu.au/"}
@@ -258,7 +258,7 @@
   company: "Curtin University"
   title: "Research Associate"
   bio: "Liam is a research associate in the Theoretical Physics Group at Curtin University, working alongside some of the world’s leading researchers in quantum collision theory. Liam completed his PhD on electron-molecule collisions in 2021 and is now working on expanding the capabilities of the molecular scattering codes and collaborating with Pawsey staff as part of the PaCER scheme to optimise the codes for the Setonix supercomputer. Liam is a regular user of supercomputers both in Australia and the USA and has been using Pawsey supercomputing services for the last eight years."
-  thumbnailUrl: 
+  thumbnailUrl: "LiamScarlet_Curtin.png"
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
@@ -280,7 +280,7 @@
   company: "Curtin University"
   title: 
   bio: "Irene is a materials scientist with +15 years of experience in research using Supercomputer to performed atomistic modelling of materials. An expert on carbon materials, she has worked with almost every carbon material known from diamond to graphite, from coal to nanostructures. Irene’s research focuses on both the chemistry and physics of carbon materials. The team works to investigate the reactivity, stability and mechanical properties of crystalline and amorphous forms of carbon.  Irene is a member of the Australian National Committee for Materials Science and Engineering and a strong supporter of diverse career pathways in STEM. Since Irene moved to Australia she has successfully secured funds through the Australian Research Council (ARC) including fellowship schemes (Postdoctoral Fellowship and Future Fellowship). "
-  thumbnailUrl:  
+  thumbnailUrl: "IreneSuarezMartinez.png" 
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
