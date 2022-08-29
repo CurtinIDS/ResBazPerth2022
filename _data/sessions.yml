@@ -2,7 +2,9 @@
   id: 100
   title: "Official Opening"
   subtitle: #"Room: 410.201"
-  description: "<p>Join us at the official opening of Perth ResBaz 2022, meet your fellow attendees with ice breaker activities and prepare your poster for the afternoon networking and poster session! </p>"
+  description: "<p>Join us at the official opening of Perth ResBaz 2022, meet your fellow attendees with ice breaker activities and prepare your poster for the afternoon networking and poster session! </p>
+  
+  <p> Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p>"
 
   subtype: ""
   speakers: [1,2]
@@ -44,6 +46,20 @@
   subtitle: #"Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to install bash/git prior to the workshop:</p>
+
+  <p><b>Windows:</b> bash+git together <a href='https://git-scm.com/download/win'>download from this link</a></p>
+  
+  <p><b>MacOS:</b> for bash you will use the terminal, for git <a href='https://git-scm.com/download/mac'>download from this link</a></p>
+  
+  <p><b>Linux:</b> for bash you will use the command line, for git <a href='https://git-scm.com/download/linux'>download from this link</a></p>
+  
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk. </p>
+
   <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics and Network Know-how and Data Handling </p>"
 
   subtype: training
@@ -55,6 +71,20 @@
   title: "Introduction to Bash and Git (version control) Continued"
   subtitle: #"Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
+
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to install bash/git prior to the workshop:</p>
+
+  <p><b>Windows:</b> bash+git together <a href='https://git-scm.com/download/win'>download from this link</a></p>
+  
+  <p><b>MacOS:</b> for bash you will use the terminal, for git <a href='https://git-scm.com/download/mac'>download from this link</a></p>
+  
+  <p><b>Linux:</b> for bash you will use the command line, for git <a href='https://git-scm.com/download/linux'>download from this link</a></p>
+  
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk. </p>
 
   <p>NB: Session runs parallel with Active Data Management in Cloudstor</p>"
 
@@ -90,7 +120,9 @@
   id: 104
   title: "Sundowner and Poster Session"
   subtitle: #"Room: 410.101"
-  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Submit your poster and attend the session to be in the draw for a door prize! Drinks and canapes provided.</p>" #This is a community event sponsored by Dell Technologies.
+  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Submit your poster and attend the session to be in the draw for a door prize! Drinks and canapes provided.</p>
+  
+  <p>Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p> and <a href='https://tinyurl.com/resbaz-poster-submit'>submit it here</a> </p>"
   
   subtype: event
   speakers: #[3, 4]
@@ -101,6 +133,14 @@
   title: "Introduction to Data Analysis and Visualisation in Python"
   subtitle: #"Room: 410.101"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
+
+   <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to complete the Python and Jupyter Notebooks installation steps prior to the workshop <a href='https://datacarpentry.org/ecology-workshop/setup-python-workshop.html#python-and-jupyter-notebooks'>from this link</a> </p>
+
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk. </p>
   
   <p>NB: Session runs parallel with Introduction to R</p>"
 
@@ -113,30 +153,54 @@
   title: "Introduction to Data Analysis and Visualisation in Python Continued"
   subtitle: #"Room: 410.101"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
+
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to complete the Python and Jupyter Notebooks installation steps prior to the workshop <a href='https://datacarpentry.org/ecology-workshop/setup-python-workshop.html#python-and-jupyter-notebooks'>from this link</a> </p>
+
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk </p>
   
   <p>NB: Session runs parallel with Introduction to R Continued</p>"
   
   subtype: training
   speakers: [14] #[2, 24]
-  complexity: "Intermediate"  
+  complexity: "Beginner"  
   hidden: true
 -
   id: 105c
   title: "Introduction to Data Analysis and Visualisation in Python Continued"
   subtitle: #"Room: 407.305 CT"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
+
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to complete the Python and Jupyter Notebooks installation steps prior to the workshop <a href='https://datacarpentry.org/ecology-workshop/setup-python-workshop.html#python-and-jupyter-notebooks'>from this link</a> </p>
+
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk. </p>
   
   <p>NB: Session runs parallel with Introduction to R Continued</p>"
   
   subtype: training
   speakers: [15] #[2, 24]
-  complexity: "Intermediate"  
+  complexity: "Beginner"  
   hidden: true
 -
   id: 106
   title: "Introduction to Data Analysis and Visualisation in R"
   subtitle: #"Room: 410.209"
-  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
+  description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.
+  
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to complete the R and RStudio installation steps prior to the workshop <a href='https://datacarpentry.org/R-ecology-lesson/#Install_R_and_RStudio'>from this link</a> </p>
+
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk. </p>
   
   <p>NB: Session runs parallel with Introduction to Python</p>"
 
@@ -150,11 +214,19 @@
   subtitle: #"Room: 410.209"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
   
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to complete the R and RStudio installation steps prior to the workshop <a href='https://datacarpentry.org/R-ecology-lesson/#Install_R_and_RStudio'>from this link</a> </p>
+
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk. </p>
+  
   <p>NB: Session runs parallel with Introduction to Python Continued</p>"
   
   subtype: training
   speakers: [5] #[2, 24]
-  complexity: "Intermediate"  
+  complexity: "Beginner"  
   hidden: true 
 -
   id: 106c
@@ -162,11 +234,19 @@
   subtitle: #"Room: 407.208"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
   
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p> Participants are asked to complete the R and RStudio installation steps prior to the workshop <a href='https://datacarpentry.org/R-ecology-lesson/#Install_R_and_RStudio'>from this link</a> </p>
+
+  <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software desk. </p>
+  
   <p>NB: Session runs parallel with Introduction to Python Continued</p>"
   
   subtype: training
   speakers: [16] #[2, 24]
-  complexity: "Intermediate"  
+  complexity: "Beginner"  
   hidden: true
 -
   id: 107
@@ -192,7 +272,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   
   subtype: training
   speakers: [6,9] #[2, 24]
-  complexity: "Intermediate"  
+  complexity: "Beginner"  
   hidden: true
 -
   id: 107c
@@ -322,7 +402,25 @@ The presenters will also talk about their journeys toward supercomputing, and th
   id: 115
   title: "Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)"
   subtitle: #"Room: 407.305 CT"
-  description: "<p>Details to be confirmed</p>
+  description: "This course will introduce you to the use of Nimbus, the research cloud at Pawsey Supercomputing Centre. Please note, there is a limit of 20 participants for this workshop.
+
+  <b><p>Requirements:</b></p>
+
+  <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
+
+  <p>For <b>Windows users</b> we highly recommend you use Windows Terminal as your command line interface. It can be downloaded for free from the Microsoft Store <a href='https://www.microsoft.com/en-au/p/windows-terminal/9n0dx20hk701?rtc=1&activetab=pivot:overviewtab'>at this link</a>. 
+  
+  If you are familiar with alternatives such as MobaXterm or Putty please feel free to use them, but you may also want to try Windows Terminal. </p>
+
+  <b><p>Linux and MacOS users</b>: No installation required.</p>
+
+  <b><p>Other links:</b></p>
+
+  <p><a href='https://nimbus.pawsey.org.au/'>Nimbus dashboard</a>
+
+  <p><a href='https://pawseysc.github.io/using-nimbus/'>Training material</a>
+
+  <p><a href='https://support.pawsey.org.au/documentation/display/US/Cloud+Documentation '>Nimbus documentation</a>
 
   <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand, and Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project</p>" 
 
