@@ -283,7 +283,7 @@
   thumbnailUrl:  
   rockstar: false
   ribbon:
-    - {abbr: "", title: "", url: ""}
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 - 
   id: 27
   name: "Kathleen"
