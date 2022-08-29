@@ -338,7 +338,7 @@
   thumbnailUrl: "s_lee.png"
   rockstar: false
   ribbon:
-    - { abbr: "PMLG", title: "Perth Machine Learning Group,", url: "https://www.pmlg.org/"}
+    - { abbr: "PMLG", title: "Perth Machine Learning Group", url: "https://www.pmlg.org/"}
 - 
   id: 32
   name: "Sean"
@@ -349,7 +349,7 @@
   thumbnailUrl: "s_driver.png"
   rockstar: false
   ribbon:
-    - { abbr: "PMLG", title: "Perth Machine Learning Group,", url: "https://www.pmlg.org/"}
+    - { abbr: "PMLG", title: "Perth Machine Learning Group", url: "https://www.pmlg.org/"}
 # - 
 
 # id: 28
