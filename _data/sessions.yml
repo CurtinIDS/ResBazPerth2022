@@ -210,7 +210,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
 
 
   subtype: elective
-  speakers: [23] #[3, 4]
+  speakers: [23, 25, 8] #[3, 4]
   complexity: #"Beginner"
   hidden: false
 -
@@ -279,7 +279,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
 
   subtype: elective
-  speakers: [8,13,18,21,23,24,25,26] #[3, 4]
+  speakers: [25,8,24,26,28] #[3, 4]
   complexity: #"Beginner"
   hidden: false
 -
@@ -317,7 +317,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand, and Perth Machine Learning Group - Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project</p>" 
 
   subtype: elective
-  speakers: [8,13] #[3, 4]
+  speakers: [8,13,18] #[3, 4]
   complexity: "Beginner"
   hidden: false
 -

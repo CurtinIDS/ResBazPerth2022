@@ -63,7 +63,7 @@ heroTitle: "ResBaz : Perth "
 #typeoutTextValues: '"Perth"'
 #typeoutFallback: "Perth"
 heroButtons:
- - {link: "", text: "6 - 8 September 2022"}
+ - {link: "", text: "6 - 8 September 2022, Curtin Medical School, Curtin University"}
 
 # About Block
 aboutTitle: "About ResBaz Perth 2022"
@@ -141,7 +141,7 @@ latestNewsTitle: "Latest News"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "In-person event, hosted by the WA Data Science Innovation Hub at Curtin University, Building 410 (Curtin Medical School)"
-eventLocationLink: "https://use.mazemap.com/#v=1&config=curtinuniversity&zlevel=1&center=115.893444,-32.001906&zoom=16.9&campusid=296&sharepoitype=poi&sharepoi=1000462438"
+# eventLocationLink: "https://use.mazemap.com/#v=1&config=curtinuniversity&zlevel=1&center=115.893444,-32.001906&zoom=16.9&campusid=296&sharepoitype=poi&sharepoi=1000462438"
 eventStreetAddress: "Kent St"
 eventAddressLocality: "Bentley"
 eventAddressLocalityRegion: "Perth"
@@ -150,9 +150,9 @@ eventAddressCountry: "Australia"
 eventStartTime: "2022-09-06T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2022-09-08T17:00"
-eventPlaceCoordinates: "-32.00167, 115.89334"
-mapCenterCoordinates: "-32.00167, 115.89334"
-mapMobileCenterCoordinates: "-32.00167, 115.89334"
+# eventPlaceCoordinates: "-32.00167, 115.89334"
+# mapCenterCoordinates: "-32.00167, 115.89334"
+# mapMobileCenterCoordinates: "-32.00167, 115.89334"
 
 # Venue Block
 venueBlockTitle: "Past Events"

@@ -269,7 +269,7 @@
   company: "Pawsey Supercomputing Research Centre"
   title: 
   bio: "Pascal obtained a PhD in Astrophysics from Queen's University, Canada. His background is in numerical astrophysics, where he explored the physics governing the Universe through complex virtual universes. In addition, he has an extensive track record of developing astronomical software for HPC systems. At Pawsey, he is responsible for assisting researchers to efficiently parallelise their codes and port them onto Pawsey’s infrastructure. Pascal undertakes technical assessments of parallelised applications for performance on supercomputers and assists research groups in scaling their research applications and simulations from hundreds to thousands of processors."
-  thumbnailUrl: 
+  thumbnailUrl: "pelahi.png"
   rockstar: false
   ribbon:
     - { abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
@@ -277,7 +277,7 @@
   id: 26
   name: "Irene"
   surname: "Suarez Martinez"
-  company: 
+  company: "Curtin University"
   title: 
   bio: "Irene is a materials scientist with +15 years of experience in research using Supercomputer to performed atomistic modelling of materials. An expert on carbon materials, she has worked with almost every carbon material known from diamond to graphite, from coal to nanostructures. Irene’s research focuses on both the chemistry and physics of carbon materials. The team works to investigate the reactivity, stability and mechanical properties of crystalline and amorphous forms of carbon.  Irene is a member of the Australian National Committee for Materials Science and Engineering and a strong supporter of diverse career pathways in STEM. Since Irene moved to Australia she has successfully secured funds through the Australian Research Council (ARC) including fellowship schemes (Postdoctoral Fellowship and Future Fellowship). "
   thumbnailUrl:  
@@ -295,7 +295,19 @@
   rockstar: false
   ribbon:
     - {abbr: "Katalyst", title: "Katalyst 4 Succes", url: "http://www.kathleen-franklyn.com/"}
+- 
+  id: 28
+  name: "Aditi"
+  surname: "Subramanya"
+  company: "Pawsey Supercomputing Research Centre"
+  title: "Marketing and Events Officer"
+  bio: 
+  thumbnailUrl: ""
+  rockstar: false
+  ribbon:
+    - { abbr: "PSC", title: "Pawsey Supercomputing Centre", url: "https://pawsey.org.au/"}
 #- 
+
 # id: 28
 # name: "Valerie"
 # surname: "Maxville"
