@@ -1,8 +1,8 @@
 -
   id: 100
-  title: "Welcome to Country and Official Opening"
+  title: "Official Opening"
   subtitle: #"Room: 410.201"
-  description: "<p>Join us at the official opening of Perth ResBaz 2022 with a Welcome to Country and ice breaker activities!</p>"
+  description: "<p>Join us at the official opening of Perth ResBaz 2022, meet your fellow attendees with ice breaker activities and prepare your poster for the afternoon networking and poster session! </p>"
 
   subtype: ""
   speakers: [1,2]
@@ -13,6 +13,16 @@
   title: "Tea Break / Software Install Help Desk"
   subtitle: #"Room: 410 undercover"
   description: "<p> Come down for morning/afternoon tea and/or to get help with software installations</p>"
+
+  subtype: ""
+  speakers: []
+  complexity: #"Beginner"
+  hidden: false
+-
+  id: 101c
+  title: "Tea Break"
+  subtitle: #"Room: 410 undercover"
+  description: "<p> Come down for morning/afternoon tea</p>"
 
   subtype: ""
   speakers: []
@@ -34,7 +44,7 @@
   subtitle: #"Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
-  <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics</p>"
+  <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics and Network Know-how and Data Handling </p>"
 
   subtype: training
   speakers: [11] #[3, 4]
@@ -46,7 +56,7 @@
   subtitle: #"Room: 410.201"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
-  <p>NB: Session runs parallel with Workshop Facilitated by AARNET Continued</p>"
+  <p>NB: Session runs parallel with Active Data Management in Cloudstor</p>"
 
   subtype: training
   speakers: [12] #[3, 4]
@@ -58,7 +68,7 @@
   subtitle: #"Room: 407.208"
   description: "<p>Privacy, security, and ethics are fundamental considerations when using data in research and practice. Indeed, ever more data enables dramatic leaps in our ability to extract a person from signals at the expense of privacy: people’s ability to control their own conception and its expression. This dilemma is further fuelled by ever growing concerns on cyber security, and the variance in moral principles that govern the generation, access, use, and sharing of data. This workshop explains and organises key concepts for responsible data management and provides a range of recommendations and resources that help you navigate challenging data territory.</p>
   
-  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Workshop Facilitated by AARNET</p>"
+  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Network Know-how and Data Handling</p>"
 
   subtype: ""
   speakers: [17] #[3, 4]
@@ -66,7 +76,7 @@
   hidden: false
 -
   id: 103b
-  title: "Workshop Facilitated by AARNET"
+  title: "Network Know-how and Data Handling"
   subtitle: #"Room: 410.101"
   description: "<p>Details to be confirmed</p>
   
@@ -80,7 +90,7 @@
   id: 104
   title: "Sundowner and Poster Session"
   subtitle: #"Room: 410.101"
-  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Drinks and canapes provided.</p>" #This is a community event sponsored by Dell Technologies.
+  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Submit your poster and attend the session to be in the draw for a door prize! Drinks and canapes provided.</p>" #This is a community event sponsored by Dell Technologies.
   
   subtype: event
   speakers: #[3, 4]
@@ -215,7 +225,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   hidden: false
 -
   id: 109
-  title: "Workshop Facilitated by AARNET Continued"
+  title: "Active Data Management in Cloudstor"
   subtitle: #"Room: 407.208" #hold for Sara King
   description: "<p>Details to be confirmed</p>
   
@@ -362,9 +372,18 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 119
   title: "Careers Panel Q&A and Networking Session" 
-  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea</p>"
+  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea. Join us for your chance to win a door prize!</p>"
 
   subtype: elective
   speakers: [2,1,3] #[3, 4]
+  complexity: "Beginner"
+  hidden: false
+-
+  id: 120
+  title: "Registration and Help Desk" 
+  description: "<p>Registration and Help Desk</p>"
+
+  subtype: elective
+  speakers: [] #[
   complexity: "Beginner"
   hidden: false

@@ -7,6 +7,11 @@
     - {title: "3", color: "#90be4e"}
   timeslots:
     - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [120]
+      }
+    - {
         startTime: "09:00",
         endTime: "10:30",
         sessionIds: [100]
@@ -29,7 +34,7 @@
     - {
       startTime: "13:30",
       endTime: "15:00",
-      sessionIds: [102b, 103b]
+      sessionIds: [102b, 109]
       }
     - {
       startTime: "15:00",
@@ -45,6 +50,11 @@
     - {title: "3", color: "#90be4e"}
     - {title: "4", color: "#e91e63"}
   timeslots:
+    - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [120]
+      }
     - {
         startTime: "09:00",
         endTime: "10:30",
@@ -73,7 +83,7 @@
     - {
       startTime: "15:00",
       endTime: "15:30",
-      sessionIds: [101]
+      sessionIds: [101c]
       }
     - {
       startTime: "15:30",
@@ -90,6 +100,11 @@
     - {title: "4", color: "#e91e63"}
   timeslots:
     - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [120]
+      }
+    - {
         startTime: "09:00",
         endTime: "10:30",
         sessionIds: [105c, 106c]
@@ -97,7 +112,7 @@
     - {
         startTime: "10:30",
         endTime: "11:00",
-        sessionIds: [101]
+        sessionIds: [c]
       }  
     - {
       startTime: "11:00",
