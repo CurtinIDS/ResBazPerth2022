@@ -123,13 +123,13 @@
   id: 12
   name: "Siobhan"
   surname: "Egan"
-  company: 
-  title: 
+  company: "Murdoch University"
+  title: "Postdoctoral Research Fellow"
   bio: 
-  thumbnailUrl:  
+  thumbnailUrl: "" 
   rockstar: false
   ribbon:
-    - {abbr: "", title: "", url: ""}
+    - {abbr: "MU", title: "Murdoch University", url: "https://www.murdoch.edu.au/"}
 - 
   id: 13
   name: "Luke"
