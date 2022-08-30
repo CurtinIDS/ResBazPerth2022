@@ -86,7 +86,7 @@
   
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
 
-  <p>NB: Session runs parallel with Active Data Management in Cloudstor</p>"
+  <p>NB: Session runs parallel with Active Data Management in Cloudstor and The Human Side of Data Science Innovation Management</p>"
 
   subtype: training
   speakers: [12] #[3, 4]
@@ -309,7 +309,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   subtitle: #"Room: 407.208" #hold for Sara King
   description: "<p>Details to be confirmed</p>
   
-  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) Continued"
+  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) Continued and The Human Side of Data Science Innovation Management"
 
 
   subtype: elective
@@ -498,4 +498,14 @@ The presenters will also talk about their journeys toward supercomputing, and th
   speakers: [] #[
   complexity: "Beginner"
   hidden: false
+-
+  id: 122
+  title: "The Human Side of Data Science Innovation Management" 
+  description: "<p>Although data science applications are initiated to deliver value from data, many fail because they are deployed as time-bound technical projects rather than as part of an integrated business process. It is important to focus on not only organisational routines and standardised workflows, but also collaborative team process achieved by people with appropriate skills. This session will cover people skills, communications, and new ways of working in data science innovations, with a case study of machine learning model application in a mining operation context.</p>
 
+  <p>NB: Session runs parallel with Active Data Management in Cloudstor and Session runs parallel with Introduction to Bash and Git (version control) Continued </p>"
+   
+  subtype: elective
+  speakers: [33] #[
+  complexity: "Beginner"
+  hidden: false

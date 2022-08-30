@@ -350,18 +350,17 @@
   rockstar: false
   ribbon:
     - { abbr: "PMLG", title: "Perth Machine Learning Group", url: "https://www.pmlg.org/"}
-# - 
-
-# id: 28
-# name: "Valerie"
-# surname: "Maxville"
-# company: "Curtin University"
-# title: "Senior Lecturer, School of Electrical Engineering, Computing and Mathematical Sciences"
-# bio: 
-# thumbnailUrl:    
-# rockstar: false
-# ribbon:
-#   - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+- 
+  id: 33
+  name: "Eden (Keyao)"
+  surname: "Li"
+  company: "Curtin University"
+  title: "Postdoctoral Research Fellow, Future of Work Institute"
+  bio: "Dr. Eden (Keyao) Li is a postdoc research fellow at the Future of Work Institute, Curtin University. Her research examines technology innovation, performance, safety and well-being in the workplace. Eden is also a research fellow at the ARC Training Centre for Transforming Maintenance Through Data Science. Her research at the centre aims to translate advances in data science arising from the research projects into workplace improvement for the future mining industry but also applicable to other industries."
+  thumbnailUrl: "e_li.jpg"    
+  rockstar: false
+  ribbon:
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 # - 
 #   id: 29
 #   name: "Shinsuke"
