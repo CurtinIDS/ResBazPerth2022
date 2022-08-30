@@ -288,13 +288,13 @@
   id: 27
   name: "Kathleen"
   surname: "Franklyn"
-  company: "Katalyst 4 Success"
-  title: "Principal Consultant (and Founder)"
-  bio: 
-  thumbnailUrl: "kfranklyn.jpg"
+  company: "Career Consultant – Education/ Public/Private sectors"
+  title: "BSc(hons), GradDipEd(Science, Career Development), PhD"
+  bio: "Kathleen is a career consultant who has extensive skills and expertise in career development and management in the Tertiary and Private sector. She has been involved in several research and scholarship projects in the Higher Education sector which sought to understand, map and influence the embedding of employability in curriculum. Kathleen has successfully transitioned through 3 major careers: Research Scientist, Pharmaceutical Industry Professional, and Career/Talent Management and so has a unique understanding of the challenges and rewards to pursuing your career goals. Kathleen is passionate about making a difference, and has recently moved into the vocational educational sector. With current knowledge and understanding of career challenges, employability and market trends, Kathleen is curious about how we can make navigating the different educational options easier for people. She is interested in understanding the intricacies of how we can create an educational ecosystem which allows people to create their career path, navigate opportunities and challenges and succeed in the world of work."
+  thumbnailUrl: "k_franklyn.png"
   rockstar: false
   ribbon:
-    - {abbr: "Katalyst", title: "Katalyst 4 Succes", url: "http://www.kathleen-franklyn.com/"}
+    # - {abbr: "Katalyst", title: "Katalyst 4 Succes", url: "http://www.kathleen-franklyn.com/"}
 - 
   id: 28
   name: "Aditi"
