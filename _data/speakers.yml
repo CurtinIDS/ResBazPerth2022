@@ -147,8 +147,8 @@
   surname: "Pang"
   company: "Curtin University"
   title: "Data Scientist"
-  bio: 
-  thumbnailUrl: 
+  bio: "Calvin is a data scientist at the Curtin Institute for Computation, working on projects involving computer vision and natural language processing. In a previous life, he was working in chemical engineering and materials science for additive manufacturing in healthcare. In his free time, he enjoys delving into various interests including cooking, cycling, gaming, gardening, home automation and music."
+  thumbnailUrl: "c_pang.jpeg"
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au/"}
