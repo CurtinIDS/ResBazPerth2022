@@ -7,7 +7,7 @@
   <p> Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p>"
 
   subtype: ""
-  speakers: [1,2]
+  speakers: [1,2,34]
   complexity: #"Beginner"
   hidden: false
 -
@@ -422,7 +422,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
   <p><a href='https://support.pawsey.org.au/documentation/display/US/Cloud+Documentation '>Nimbus documentation</a>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, and Curtin HIVE Tour</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand and CV/resume, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, and Curtin HIVE Tour</p>" 
 
   subtype: elective
   speakers: [8,13,18] #[3, 4]
@@ -432,9 +432,9 @@ The presenters will also talk about their journeys toward supercomputing, and th
   id: 116
   title: "Introduction to Julia"
   subtitle: #"Room: 407.208"
-  description: "<p>Details to be confirmed</p>
+  description: "<p>Learning a new programming language can be a substantial time investment. Given the emergence of different programming languages, it is often difficult to decide if learning a new language is worth the time investment. The aim of this talk is to share my experience in learning and using Julia for research from a practical perspective. The talk will cover some of the useful features and annoyances of Julia as well as their relations to other languages such as Python and R.</p>
 
-  <p>NB: Session runs parallel with Build your Brand, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
+  <p>NB: Session runs parallel with Build your Brand and CV/resume, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
 
 
   subtype: elective
@@ -447,7 +447,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: #"Room: 410.209"
   description: "<p>The goal for Perth Machine Learning Group is to develop AI capabilities in Perth through training and knowledge sharing.  We have over 2,800 members from industry, government and academia.  Our panel has hands on experience to implement machine learning/AI in the real world.  Come and ask us any questions so we can give you different perspective.</p>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Build your Brand, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Build your Brand and CV/resume, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
 
 
   subtype: elective
@@ -456,7 +456,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   hidden: false
 -
   id: 118
-  title: "Build your brand" #build your brand (or CV)
+  title: "Build your brand and CV/resume" #build your brand (or CV)
   subtitle: #"Room: 410.201"
   description: "<p>The Future of Young Australians reports suggest that Australian youth will have 5 different careers and 17 different jobs in their lifetime – and yep (although now not that young) -  I’m already there!  So how does a Research Scientist become a Career Consultant ? Come and find out in my Personal Branding session and learn how you can build your own brand to manage your own career path.  </p>
 
@@ -492,7 +492,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   
   <p>On this tour, you'll be able to experience the HIVE's advanced visualisation facilities and capabilities in person. <a href='https://hive.curtin.edu.au/'>Visit the HIVE website here</a></p>
   
-   <p>NB: Session runs parallel with Introduction to Julia, Build your Brand, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop), and Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project"
+   <p>NB: Session runs parallel with Introduction to Julia, Build your Brand and CV/resume, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop), and Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project"
 
   subtype: elective
   speakers: [] #[

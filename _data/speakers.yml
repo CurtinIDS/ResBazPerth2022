@@ -361,6 +361,17 @@
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
+- 
+  id: 34
+  name: "Kathryn"
+  surname: "Napier"
+  company: "Curtin University"
+  title: "Lead Data Scientist, Curtin Open Knowledge Initiative | Curtin Institute for Computation"
+  bio: "Kathryn Napier is a Data Scientist with a background in health informatics, bioinformatics, and ecological physiology. Kathryn leads the technical team for the Curtin Open Knowledge Initiative, a vibrant research team of critical humanities scholars, data scientists and developers."
+  thumbnailUrl: "k_napier.jpg"    
+  rockstar: false
+  ribbon:
+    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au"}
 # - 
 #   id: 29
 #   name: "Shinsuke"
