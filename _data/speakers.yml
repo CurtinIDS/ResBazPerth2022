@@ -157,9 +157,9 @@
   name: "Leigh"
   surname: "Tyers"
   company: "Curtin University"
-  title: ""
-  bio: 
-  thumbnailUrl:  
+  title: "HPC Specialist"
+  bio: "Leigh is a HPC Specialist and Data Scientist at the Curtin Institute for Computation, working on projects involving remote sensing and computer vision. Previously, he has worked in exploration geophysics where a significant amount of his time was spent working on induced polarisation inversion techniques. He has research interests in many scientific fields, including mathematical inversion techniques, machine learning, health, climate science, and remote sensing."
+  thumbnailUrl: "l_tyers.jpg"
   rockstar: false
   ribbon:
     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au/"}
