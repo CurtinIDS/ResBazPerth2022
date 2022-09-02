@@ -123,10 +123,10 @@ ticketsOffers:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "15", specialCharacter: "+", info: "electives and workshops", detail: ""}
+ - {count: "20", specialCharacter: "+", info: "electives and workshops", detail: ""}
  #- {count: "40", specialCharacter: "+", info: "hours", detail: ""}
- #- {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "4", specialCharacter: "", info: "parallel streams", detail: ""}
+ - {count: "30", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "4", specialCharacter: "+", info: "parallel streams", detail: ""}
  - {count: "3", specialCharacter: "", info: "networking events", detail: ""}
 
 # Latest News Block
@@ -189,6 +189,14 @@ Murdoch University | Andrew Walsh <br>
 Pawsey Supercomputing Centre | Ann Backhaus, Luke Edwards <br>
 University of Western Australia | Dave Edwards, James Ward <br>
 WA Data Science Innovation Hub | Shannon Hansen <br>
+</p>
+
+<p><b>Perth ResBaz Helpers and Volunteers</b></b></p>
+<p>Curtin Institute for Computation, Curtin University | Joel Dunstan, Paul Hancock, Carlo Martinotti, Calvin Pang, Christian Proud, Nick Swainston, Trish Radotic <br>
+Curtin University | Drew Fordham, Victor Olet, Ranjodh Singh, Molly Tebo <br>
+Murdoch University | Siobhan Egan, Reika Masuda <br>
+University of Western Australia | Chris Bording, Brady Johnston, Rose-anna Inglis <br>
+WA Data Science Innovation Hub | Ivana Deng <br>
 </p>"
 
 
