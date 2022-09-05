@@ -98,17 +98,17 @@
   ribbon:
     - {abbr: "UWA", title: "University of Western Australia", url: "https://www.uwa.edu.au/"}
 - 
-  id: 10
-  name: "Florian"
-  surname: "Klonek"
-  company: "Curtin University"
-  title: "Research Fellow, FOWI"
-  bio: "Florian is a postdoc at Curtin University, Future of Work Institute, Centre for Transformative Work Design. His research interests are in work design, team functioning, and leadership effectiveness. He also loves practicing yoga and meeting people from all walks of life."
-  thumbnailUrl: "FlorianKlonek.jpg" 
-  rockstar: false
-  ribbon:
-    - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au/"}
-- 
+#   id: 10
+#   name: "Florian"
+#   surname: "Klonek"
+#   company: "Curtin University"
+#   title: "Research Fellow, FOWI"
+#   bio: "Florian is a postdoc at Curtin University, Future of Work Institute, Centre for Transformative Work Design. His research interests are in work design, team functioning, and leadership effectiveness. He also loves practicing yoga and meeting people from all walks of life."
+#   thumbnailUrl: "FlorianKlonek.jpg" 
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "CU", title: "Curtin University", url: "https://curtin.edu.au/"}
+# - 
   id: 11
   name: "Paul"
   surname: "Hancock"

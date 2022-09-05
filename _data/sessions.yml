@@ -120,7 +120,7 @@
   id: 104
   title: "Sundowner and Poster Session"
   subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
-  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Submit your poster and attend the session to be in the draw for a door prize! Drinks and canapes provided. Proudly sponsored by the WA Data Science Innovation Hub</p>
+  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Submit your poster and attend the session to be in the draw for a door prize! Drinks and canapes provided. Proudly sponsored by the WA Data Science Innovation Hub.</p>
   
   <p>Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p> and <a href='https://tinyurl.com/resbaz-poster-submit'>submit it here</a> </p>"
   
@@ -334,7 +334,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/986TXC3d' target='_blank'>Building 407, Room 305</a>"
   description: "<p>This workshop provides an introduction to organising and analysing qualitative data using NVivo. In particular, it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and how to conduct searches and create graphs, including by making use of attributes of case and file classifications.</p>
 
-  <p>NB: Session runs parallel with Introduction to Qualtrics, Meet Pawsey & Pawsey-Curtin Researchers, and Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
+  <p>NB: Session runs parallel with Introduction to Qualtrics and Meet Pawsey & Pawsey-Curtin Researchers</p>"
 
 
   subtype: elective
@@ -366,7 +366,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 <b>When you attend, don't forget to enter our prize draw!</b>
 </p>
 
-  <p>NB: Session runs parallel with Introduction to Qualtrics, NVIVO Part 2, and Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
+  <p>NB: Session runs parallel with Introduction to Qualtrics and NVIVO Part 2 </p>"
 
 
   subtype: elective
@@ -380,7 +380,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
   description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>
   
-  <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Using Video or Field Observations in Your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
+  <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, and NVIVO Part 2 </p>"
 
 
 
@@ -389,18 +389,18 @@ The presenters will also talk about their journeys toward supercomputing, and th
   complexity: "Beginner"
   hidden: false
 -
-  id: 114
-  title: "Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool"
-  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/T6yTFqXf' target='_blank'>Building 407, Room 205</a>"
-  description: "<p>Details to be confirmed</p>
+#   id: 114
+#   title: "Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool"
+#   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/T6yTFqXf' target='_blank'>Building 407, Room 205</a>"
+#   description: "<p>Details to be confirmed</p>
   
-  <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Introduction to Qualtrics</p>"
+#   <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Introduction to Qualtrics</p>"
 
-  subtype: elective
-  speakers: [10] #[3, 4]
-  complexity: "Beginner"
-  hidden: false
--
+#   subtype: elective
+#   speakers: [10] #[3, 4]
+#   complexity: "Beginner"
+#   hidden: false
+# -
   id: 115
   title: "Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)"
   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/986TXC3d' target='_blank'>Building 407, Room 305</a>"
@@ -476,7 +476,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/JANVgLc0'target='_blank'> Building 410, Room 201</a>"
 
 
-  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea. Join us for your chance to win a door prize! Proudly sponsored by the Curtin Institute for Computation</p>"
+  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea. Join us for your chance to win a door prize! Proudly sponsored by the Curtin Institute for Computation.</p>"
 
   subtype: elective
   speakers: [2,1,3,27, 31] #[3, 4]
