@@ -1,7 +1,7 @@
 -
   id: 100
   title: "Official Opening"
-  subtitle: #"Room: 410.201"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/JANVgLc0'target='_blank'> Building 410, Room 201</a>"
   description: "<p>Join us at the official opening of Perth ResBaz 2022, meet your fellow attendees with ice breaker activities and prepare your poster for the afternoon networking and poster session! </p>
   
   <p> Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p>"
@@ -13,7 +13,7 @@
 -
   id: 101
   title: "Tea Break / Software Install Help Desk"
-  subtitle: #"Room: 410 undercover"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/P1c71Kfs 'target='_blank'>Building 410, Level 1</a>"
   description: "<p> Come down for morning/afternoon tea and/or to get help with software installations</p>"
 
   subtype: ""
@@ -23,7 +23,7 @@
 -
   id: 101c
   title: "Tea Break"
-  subtitle: #"Room: 410 undercover"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/P1c71Kfs 'target='_blank'>Building 410, Level 1</a>"
   description: "<p> Come down for morning/afternoon tea</p>"
 
   subtype: ""
@@ -33,7 +33,7 @@
 -
   id: 101b
   title: "Lunch"
-  subtitle: #"Room: 410 undercover"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/P1c71Kfs 'target='_blank'>Building 410, Level 1</a>"
   description: "<p> </p>"
 
   subtype: ""
@@ -43,7 +43,7 @@
 -
   id: 102
   title: "Introduction to Bash and Git (version control)"
-  subtitle: #"Room: 410.201"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/JANVgLc0 'target='_blank'> Building 410, Room 201</a>"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
   <b><p>Requirements:</b></p>
@@ -69,7 +69,7 @@
 -
   id: 102b
   title: "Introduction to Bash and Git (version control) Continued"
-  subtitle: #"Room: 410.201"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/JANVgLc0'target='_blank'> Building 410, Room 201</a>"
   description: "<p>This is a Data Carpentry Workshop offering a hands-on introduction to bash and version control with git. This workshop is aimed at those who want to learn more about automation, version control, and improve the reproducibility of their research.</p>
 
   <b><p>Requirements:</b></p>
@@ -95,7 +95,7 @@
 -
   id: 103
   title: "Research Data Privacy, Security, Ethics" #- Data ethics/Governance Ramon (Minderoo)
-  subtitle: #"Room: 407.208"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/yoJylOYv'target='_blank'> Building 410, Room 209</a>"
   description: "<p>Privacy, security, and ethics are fundamental considerations when using data in research and practice. Indeed, ever more data enables dramatic leaps in our ability to extract a person from signals at the expense of privacy: people’s ability to control their own conception and its expression. This dilemma is further fuelled by ever growing concerns on cyber security, and the variance in moral principles that govern the generation, access, use, and sharing of data. This workshop explains and organises key concepts for responsible data management and provides a range of recommendations and resources that help you navigate challenging data territory.</p>
   
   <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Network Know-how and Data Handling</p>"
@@ -107,7 +107,7 @@
 -
   id: 103b
   title: "Network Know-how and Data Handling"
-  subtitle: #"Room: 410.101"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>Details to be confirmed</p>
   
    <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Research Data Privacy, Security, Ethics"
@@ -119,8 +119,8 @@
 -
   id: 104
   title: "Sundowner and Poster Session"
-  subtitle: #"Room: 410.101"
-  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Submit your poster and attend the session to be in the draw for a door prize! Drinks and canapes provided.</p>
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
+  description: "<p> Showcase your analytics research through a poster presentation while networking with fellow ResBaz attendees! Submit your poster and attend the session to be in the draw for a door prize! Drinks and canapes provided. Proudly sponsored by the WA Data Science Innovation Hub</p>
   
   <p>Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p> and <a href='https://tinyurl.com/resbaz-poster-submit'>submit it here</a> </p>"
   
@@ -131,10 +131,10 @@
 -
   id: 105
   title: "Introduction to Data Analysis and Visualisation in Python"
-  subtitle: #"Room: 410.101"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
 
-   <b><p>Requirements:</b></p>
+  <b><p>Requirements:</b></p>
 
   <p> Participants must bring their own laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.</p>
 
@@ -151,7 +151,7 @@
 -
   id: 105b
   title: "Introduction to Data Analysis and Visualisation in Python Continued"
-  subtitle: #"Room: 410.101"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to python programming language. The course is aimed at those who want to learn more about using Python for their research.</p>
 
   <b><p>Requirements:</b></p>
@@ -191,7 +191,7 @@
 -
   id: 106
   title: "Introduction to Data Analysis and Visualisation in R"
-  subtitle: #"Room: 410.209"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.
   
   <b><p>Requirements:</b></p>
@@ -211,7 +211,7 @@
 -
   id: 106b
   title: "Introduction to Data Analysis and Visualisation in R Continued"
-  subtitle: #"Room: 410.209"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
   
   <b><p>Requirements:</b></p>
@@ -231,7 +231,7 @@
 -
   id: 106c
   title: "Introduction to Data Analysis and Visualisation in R Continued"
-  subtitle: #"Room: 407.208"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>This is a Data Carpentry Workshop offering a hands on introduction to the statistical programming language R. The course is aimed at those who want to learn more about using R for their research.</p>
   
   <b><p>Requirements:</b></p>
@@ -251,7 +251,7 @@
 -
   id: 107
   title: "Bioinformatics - a walkthrough"
-  subtitle: #"Room: 407.208"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>Bioinformatics is one of the main tools of biology, but the required skills are hard to learn. Often it's even hard to know where to start learning!
 In this small workshop we'll show you how to analyse a small genomics dataset from start to finish on the command line. We'll touch on the various small tools experienced bioinformaticians employ, hopefully giving you a starting point for your learning journey.
 This workshop will not be interactive, but we welcome chances for digressions. We don't expect any prerequisite knowledge.</p>
@@ -306,7 +306,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
 -
   id: 109
   title: "Active Data Management in Cloudstor"
-  subtitle: #"Room: 407.208" #hold for Sara King
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>Details to be confirmed</p>
   
   <p>NB: Session runs parallel with Introduction to Bash and Git (version control) Continued and The Human Side of Data Science Innovation Management"
@@ -319,7 +319,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
 -
   id: 110
   title: "Nvivo - Part 1"
-  subtitle: #"Room: 407.305"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/986TXC3d' target='_blank'>Building 407, Room 305</a>"
   description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications</p>
   
   <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, Make Your Data Fair and Bioinformatics</p>"
@@ -331,7 +331,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
 -
   id: 110b
   title: "Nvivo - Part 2"
-  subtitle: #"Room: 407.305"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/986TXC3d' target='_blank'>Building 407, Room 305</a>"
   description: "<p>This workshop provides an introduction to organising and analysing qualitative data using NVivo. In particular, it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and how to conduct searches and create graphs, including by making use of attributes of case and file classifications.</p>
 
   <p>NB: Session runs parallel with Introduction to Qualtrics, Meet Pawsey & Pawsey-Curtin Researchers, and Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
@@ -344,7 +344,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
 -
   id: 111
   title: "Make your Data FAIR"
-  subtitle: #"Room: 407:205"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/T6yTFqXf' target='_blank'>Building 407, Room 205</a>"
   
   description: "<p>What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR.</p>
 
@@ -357,7 +357,8 @@ This workshop will not be interactive, but we welcome chances for digressions. W
 -
   id: 112
   title: "My Journey toward Supercomputers - researchers tell all" #"Meet Pawsey & Pawsey-Curtin Researchers"
-  subtitle: #"Room: 407.209" 
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
+
   description: "<p>Did you know that Setonix - the only Quokka-inspired supercomputer on the planet - computes just down the road from where you study? 
 How, why, and when might you use the Pawsey resources, including Setonix? What types of research/science - right here at Curtin - is being done at Pawsey? 
 Join Curtin Researchers and Pawsey Supercomputing Specialists to answer these - and your - questions. 
@@ -375,7 +376,8 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 113
   title: "Introduction to Qualtrics"
-  subtitle: #"Room: 407.208"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/yoJylOYv'target='_blank'> Building 410, Room 209</a>"
+
   description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>
   
   <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Using Video or Field Observations in Your Project? An Introduction to Data Quantification Using the CAT© Tool</p>"
@@ -389,7 +391,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 114
   title: "Using Video or Field Observations in your Project? An Introduction to Data Quantification Using the CAT© Tool"
-  subtitle: #"Room: 407.205"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/T6yTFqXf' target='_blank'>Building 407, Room 205</a>"
   description: "<p>Details to be confirmed</p>
   
   <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, NVIVO Part 2, and Introduction to Qualtrics</p>"
@@ -401,7 +403,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 115
   title: "Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop)"
-  subtitle: #"Room: 407.305 CT"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/986TXC3d' target='_blank'>Building 407, Room 305</a>"
   description: "This course will introduce you to the use of Nimbus, the research cloud at Pawsey Supercomputing Centre. Please note, there is a limit of 20 participants for this workshop.
 
   <b><p>Requirements:</b></p>
@@ -431,7 +433,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 116
   title: "Introduction to Julia"
-  subtitle: #"Room: 407.208"
+  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>Learning a new programming language can be a substantial time investment. Given the emergence of different programming languages, it is often difficult to decide if learning a new language is worth the time investment. The aim of this talk is to share my experience in learning and using Julia for research from a practical perspective. The talk will cover some of the useful features and annoyances of Julia as well as their relations to other languages such as Python and R.</p>
 
   <p>NB: Session runs parallel with Build your Brand and CV/resume, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
@@ -444,7 +446,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 117
   title: "Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project"
-  subtitle: #"Room: 410.209"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
   description: "<p>The goal for Perth Machine Learning Group is to develop AI capabilities in Perth through training and knowledge sharing.  We have over 2,800 members from industry, government and academia.  Our panel has hands on experience to implement machine learning/AI in the real world.  Come and ask us any questions so we can give you different perspective.</p>
 
   <p>NB: Session runs parallel with Introduction to Julia, Build your Brand and CV/resume, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
@@ -457,7 +459,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 118
   title: "Build your brand and CV/resume" #build your brand (or CV)
-  subtitle: #"Room: 410.201"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/yoJylOYv'target='_blank'> Building 410, Room 209</a>"
   description: "<p>The Future of Young Australians reports suggest that Australian youth will have 5 different careers and 17 different jobs in their lifetime – and yep (although now not that young) -  I’m already there!  So how does a Research Scientist become a Career Consultant ? Come and find out in my Personal Branding session and learn how you can build your own brand to manage your own career path.  </p>
 
   <p>NB: Session runs parallel with Introduction to Julia, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
@@ -470,7 +472,9 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 119
   title: "Careers Panel Q&A and Networking Session With Afternoon Tea" 
-  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea. Join us for your chance to win a door prize!</p>"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
+
+  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea. Join us for your chance to win a door prize! Proudly sponsored by the Curtin Institute for Computation</p>"
 
   subtype: elective
   speakers: [2,1,3,27] #[3, 4]
@@ -479,6 +483,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 120
   title: "Registration and Help Desk" 
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/P1c71Kfs 'target='_blank'>Building 410, Level 1</a>"
   description: "<p>Registration and Help Desk</p>"
 
   subtype: elective
@@ -488,6 +493,7 @@ The presenters will also talk about their journeys toward supercomputing, and th
 -
   id: 121
   title: "Curtin HIVE Tour" 
+  subtitle: "Meet at the Registration Desk at 1:30 pm: Curtin Medical School, <a href='https://link.mazemap.com/P1c71Kfs 'target='_blank'>Building 410, Level 1</a>"
   description: "<p> The Curtin HIVE (Hub for Immersive Visualisation and eResearch) is an advanced facility established by Curtin University to serve the growing demands of researchers and industry for visualisation, virtualisation and simulation capabilities in Western Australia.</p>
   
   <p>On this tour, you'll be able to experience the HIVE's advanced visualisation facilities and capabilities in person. <a href='https://hive.curtin.edu.au/'>Visit the HIVE website here</a></p>
@@ -500,7 +506,8 @@ The presenters will also talk about their journeys toward supercomputing, and th
   hidden: false
 -
   id: 122
-  title: "The Human Side of Data Science Innovation Management" 
+  title: "The Human Side of Data Science Innovation Management"   
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/yoJylOYv'target='_blank'> Building 410, Room 209</a>"
   description: "<p>Although data science applications are initiated to deliver value from data, many fail because they are deployed as time-bound technical projects rather than as part of an integrated business process. It is important to focus on not only organisational routines and standardised workflows, but also collaborative team process achieved by people with appropriate skills. This session will cover people skills, communications, and new ways of working in data science innovations, with a case study of machine learning model application in a mining operation context.</p>
 
   <p>NB: Session runs parallel with Active Data Management in Cloudstor and Session runs parallel with Introduction to Bash and Git (version control) Continued </p>"
