@@ -251,7 +251,7 @@
 -
   id: 107
   title: "Bioinformatics - a walkthrough"
-  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
   description: "<p>Bioinformatics is one of the main tools of biology, but the required skills are hard to learn. Often it's even hard to know where to start learning!
 In this small workshop we'll show you how to analyse a small genomics dataset from start to finish on the command line. We'll touch on the various small tools experienced bioinformaticians employ, hopefully giving you a starting point for your learning journey.
 This workshop will not be interactive, but we welcome chances for digressions. We don't expect any prerequisite knowledge.</p>
@@ -357,7 +357,7 @@ This workshop will not be interactive, but we welcome chances for digressions. W
 -
   id: 112
   title: "My Journey toward Supercomputers - researchers tell all" #"Meet Pawsey & Pawsey-Curtin Researchers"
-  subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
+  subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/pPi9rzyc' target='_blank'> Building 410, Room 101</a>"
 
   description: "<p>Did you know that Setonix - the only Quokka-inspired supercomputer on the planet - computes just down the road from where you study? 
 How, why, and when might you use the Pawsey resources, including Setonix? What types of research/science - right here at Curtin - is being done at Pawsey? 
