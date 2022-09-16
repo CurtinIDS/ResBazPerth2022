@@ -4,7 +4,9 @@
   subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/JANVgLc0'target='_blank'> Building 410, Room 201</a>"
   description: "<p>Join us at the official opening of Perth ResBaz 2022, meet your fellow attendees with ice breaker activities and prepare your poster for the afternoon networking and poster session! </p>
   
-  <p> Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p>"
+  <p> Create your poster using <a href='https://tinyurl.com/resbaz-poster'>this template</a> </p>
+  
+  <p><b><a href='https://echo360.net.au/media/afb978f4-be8d-454e-b9c6-5b7078f5f6e9/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p> "
 
   subtype: ""
   speakers: [1,2,34]
@@ -60,7 +62,11 @@
   
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
 
-  <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics and Network Know-how and Data Handling </p>"
+  <p>NB: Session runs parallel with Research Data Privacy, Security, Ethics and Network Know-how and Data Handling </p>
+  
+  <p><b><a href='https://echo360.net.au/media/b90b3b8d-a43e-4b74-8b41-e795748cf7fb/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/f4a7670e-3835-4521-b967-fc13f08e6001/public'target='_blank'>SESSION RECORDING 2 AVAILABLE HERE</a></b></p>"
+
 
   subtype: training
   speakers: [11] #[3, 4]
@@ -86,7 +92,11 @@
   
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
 
-  <p>NB: Session runs parallel with Active Data Management in Cloudstor and The Human Side of Data Science Innovation Management</p>"
+  <p>NB: Session runs parallel with Active Data Management in Cloudstor and The Human Side of Data Science Innovation Management</p>
+
+  <p><b><a href='https://echo360.net.au/media/b90b3b8d-a43e-4b74-8b41-e795748cf7fb/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/f4a7670e-3835-4521-b967-fc13f08e6001/public'target='_blank'>SESSION RECORDING 2 AVAILABLE HERE</a></b></p>"
+
 
   subtype: training
   speakers: [12] #[3, 4]
@@ -98,7 +108,10 @@
   subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/yoJylOYv'target='_blank'> Building 410, Room 209</a>"
   description: "<p>Privacy, security, and ethics are fundamental considerations when using data in research and practice. Indeed, ever more data enables dramatic leaps in our ability to extract a person from signals at the expense of privacy: people’s ability to control their own conception and its expression. This dilemma is further fuelled by ever growing concerns on cyber security, and the variance in moral principles that govern the generation, access, use, and sharing of data. This workshop explains and organises key concepts for responsible data management and provides a range of recommendations and resources that help you navigate challenging data territory.</p>
   
-  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Network Know-how and Data Handling</p>"
+  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Network Know-how and Data Handling</p>
+
+  <p><b><a href='https://echo360.net.au/media/ec6137eb-bd24-40b5-8351-ad2c59091e61/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
   subtype: ""
   speakers: [17] #[3, 4]
@@ -110,7 +123,12 @@
   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>Details to be confirmed</p>
   
-   <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Research Data Privacy, Security, Ethics"
+   <p>NB: Session runs parallel with Introduction to Bash and Git (version control) and Research Data Privacy, Security, Ethics</p>
+
+  <p><b><a href='https://cloudstor.aarnet.edu.au/plus/s/gCVYo8anlOgsNJh'target='_blank'>SESSION MATERIALS AVAILABLE HERE</a></b></p>
+
+  <p><b><a href='https://echo360.net.au/media/3534f434-b675-4e3c-a13b-3413554f79df/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
   subtype: ""
   speakers: [20]
@@ -142,7 +160,12 @@
 
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
   
-  <p>NB: Session runs parallel with Introduction to R</p>"
+  <p>NB: Session runs parallel with Introduction to R</p>
+
+  <p><b><a href='https://echo360.net.au/media/3fe1fab2-e1e1-42c1-9612-35ae7698dead/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/8da9ef63-571b-4987-b141-e23ae7c995c4/public'target='_blank'>SESSION RECORDING 2 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/d62c4afb-8281-441f-b3f5-812daccbc503/public'target='_blank'>SESSION RECORDING 3 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/0620d07d-54d6-4e6c-82a5-3858911d20ff/public'target='_blank'>SESSION RECORDING 4 AVAILABLE HERE</a></b></p>"
 
   subtype: training
   speakers: [14] #[2, 24]
@@ -162,7 +185,12 @@
 
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk </p>
   
-  <p>NB: Session runs parallel with Introduction to R Continued</p>"
+  <p>NB: Session runs parallel with Introduction to R Continued</p>
+
+  <p><b><a href='https://echo360.net.au/media/3fe1fab2-e1e1-42c1-9612-35ae7698dead/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/8da9ef63-571b-4987-b141-e23ae7c995c4/public'target='_blank'>SESSION RECORDING 2 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/d62c4afb-8281-441f-b3f5-812daccbc503/public'target='_blank'>SESSION RECORDING 3 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/0620d07d-54d6-4e6c-82a5-3858911d20ff/public'target='_blank'>SESSION RECORDING 4 AVAILABLE HERE</a></b></p>"
   
   subtype: training
   speakers: [14] #[2, 24]
@@ -182,7 +210,14 @@
 
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
   
-  <p>NB: Session runs parallel with Introduction to R Continued</p>"
+  <p>NB: Session runs parallel with Introduction to R Continued</p>
+
+  <p><b><a href='https://echo360.net.au/media/3fe1fab2-e1e1-42c1-9612-35ae7698dead/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/8da9ef63-571b-4987-b141-e23ae7c995c4/public'target='_blank'>SESSION RECORDING 2 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/d62c4afb-8281-441f-b3f5-812daccbc503/public'target='_blank'>SESSION RECORDING 3 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/0620d07d-54d6-4e6c-82a5-3858911d20ff/public'target='_blank'>SESSION RECORDING 4 AVAILABLE HERE</a></b></p>"
+
+
   
   subtype: training
   speakers: [15] #[2, 24]
@@ -202,7 +237,12 @@
 
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
   
-  <p>NB: Session runs parallel with Introduction to Python</p>"
+  <p>NB: Session runs parallel with Introduction to Python</p>
+
+  <p><b><a href='https://echo360.net.au/media/9254e733-a598-4ecc-8bc5-babe0bb0ad17/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/c0ad1df3-72cf-45e8-a9c5-3a92e5354f59/public'target='_blank'>SESSION RECORDING 3 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/0c423e9c-c7dd-4bad-8915-3fa6e4057901/public'target='_blank'>SESSION RECORDING 4 AVAILABLE HERE</a></b></p>"
+
 
   subtype: training
   speakers: [5] #[2, 24]
@@ -222,7 +262,12 @@
 
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
   
-  <p>NB: Session runs parallel with Introduction to Python Continued</p>"
+  <p>NB: Session runs parallel with Introduction to Python Continued</p>
+
+  <p><b><a href='https://echo360.net.au/media/9254e733-a598-4ecc-8bc5-babe0bb0ad17/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/c0ad1df3-72cf-45e8-a9c5-3a92e5354f59/public'target='_blank'>SESSION RECORDING 3 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/0c423e9c-c7dd-4bad-8915-3fa6e4057901/public'target='_blank'>SESSION RECORDING 4 AVAILABLE HERE</a></b></p>"
+
   
   subtype: training
   speakers: [5] #[2, 24]
@@ -242,7 +287,12 @@
 
   <p> Support is available at ResBaz if you have any issues! Please ask a helper in your workshop or ask for some help at the Registration or software help desk. </p>
   
-  <p>NB: Session runs parallel with Introduction to Python Continued</p>"
+  <p>NB: Session runs parallel with Introduction to Python Continued</p>
+
+  <p><b><a href='https://echo360.net.au/media/9254e733-a598-4ecc-8bc5-babe0bb0ad17/public'target='_blank'>SESSION RECORDING 1 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/c0ad1df3-72cf-45e8-a9c5-3a92e5354f59/public'target='_blank'>SESSION RECORDING 3 AVAILABLE HERE</a></b></p>
+  <p><b><a href='https://echo360.net.au/media/0c423e9c-c7dd-4bad-8915-3fa6e4057901/public'target='_blank'>SESSION RECORDING 4 AVAILABLE HERE</a></b></p>"
+
   
   subtype: training
   speakers: [16] #[2, 24]
@@ -256,7 +306,10 @@
 In this small workshop we'll show you how to analyse a small genomics dataset from start to finish on the command line. We'll touch on the various small tools experienced bioinformaticians employ, hopefully giving you a starting point for your learning journey.
 This workshop will not be interactive, but we welcome chances for digressions. We don't expect any prerequisite knowledge.</p>
   
-  <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, NVIVO Part 1, and Make Your Data FAIR</p>"
+  <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, NVIVO Part 1, and Make Your Data FAIR</p>
+
+  <p><b><a href='https://echo360.net.au/media/5ba900d8-97da-4001-a148-32269b1369cf/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
   subtype: training
   speakers: [6,9] #[2, 24]
@@ -296,7 +349,10 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   
   <p>During this interactive session, we will seek to answer these and associated questions. We'll hear real stories from individuals who have had to navigate these same questions and who will be on hand to facilitate discussion, based on years of experience working with early, mid and late career researchers.</p>
   
-  <p>NB: Session runs parallel with Bioinformatics, NVIVO Part 1, and Make Your Data FAIR</p>"
+  <p>NB: Session runs parallel with Bioinformatics, NVIVO Part 1, and Make Your Data FAIR</p>
+
+  <p><b><a href='https://echo360.net.au/media/afac8682-862c-4293-9fb2-a1816a1d6589/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
 
   subtype: elective
@@ -309,7 +365,13 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>Details to be confirmed</p>
   
-  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) Continued and The Human Side of Data Science Innovation Management"
+  <p>NB: Session runs parallel with Introduction to Bash and Git (version control) Continued and The Human Side of Data Science Innovation Management </p>
+
+ 
+  <p><b><a href='https://cloudstor.aarnet.edu.au/plus/s/WRaDOSA8HhGS8wH'target='_blank'>SESSION MATERIALS AVAILABLE HERE</a></b></p>
+
+  <p><b><a href='https://echo360.net.au/media/11cbf827-4c38-415a-af7f-4fd0a4f26097/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
 
   subtype: elective
@@ -322,7 +384,10 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/986TXC3d' target='_blank'>Building 407, Room 305</a>"
   description: "<p>This workshop will take you through setting up a project in the qualitative software NVivo. In particular it covers how to import different types of materials into a project, including Word, PDF, audio, video and picture files saved on your computer; survey data; web content; emails; and references and PDFs from EndNote. It also covers how to store information about the cases and files in your project as case and file classifications</p>
   
-  <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, Make Your Data Fair and Bioinformatics</p>"
+  <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, Make Your Data Fair and Bioinformatics</p>
+
+  <p><b><a href='https://echo360.net.au/media/a4b86a7e-c231-4a72-838a-259c62f4cd73/public'target='_blank'>SESSION RECORDING 2 AVAILABLE HERE</a></b></p>"
+
 
   subtype: elective
   speakers: [7] #[3, 4]
@@ -334,7 +399,10 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/986TXC3d' target='_blank'>Building 407, Room 305</a>"
   description: "<p>This workshop provides an introduction to organising and analysing qualitative data using NVivo. In particular, it covers how to organise project materials together according to specific themes and topics through the process of coding; how to use mind maps to visualise the layout of codes; and how to conduct searches and create graphs, including by making use of attributes of case and file classifications.</p>
 
-  <p>NB: Session runs parallel with Introduction to Qualtrics and Meet Pawsey & Pawsey-Curtin Researchers</p>"
+  <p>NB: Session runs parallel with Introduction to Qualtrics and Meet Pawsey & Pawsey-Curtin Researchers</p>
+
+  <p><b><a href='https://echo360.net.au/media/a4b86a7e-c231-4a72-838a-259c62f4cd73/public'target='_blank'>SESSION RECORDING 2 AVAILABLE HERE</a></b></p>"
+
 
 
   subtype: elective
@@ -348,7 +416,10 @@ This workshop will not be interactive, but we welcome chances for digressions. W
   
   description: "<p>What does a good data management strategy look like? Have you heard of the FAIR principles? Applying the FAIR principles to your research data management practice has many benefits, including increase visibility and citation of your research, attract new partnerships and collaborations, and improve reproducibility and reliability of your research. Come along to this workshop to learn about the FAIR principles, assess how FAIR your data is and identify practical steps to make your data more FAIR.</p>
 
-  <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, NVIVO Part 1, and Bioinformatics</p>"
+  <p>NB: Session runs parallel with Help! My laptop is Burning! Deciding When to Move Off of Your Laptop, NVIVO Part 1, and Bioinformatics</p>
+
+  <p><b><a href='https://echo360.net.au/media/07a64414-fe10-46f5-af24-ed68f26c2e6a/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
   
   subtype: elective
@@ -366,7 +437,10 @@ The presenters will also talk about their journeys toward supercomputing, and th
 <b>When you attend, don't forget to enter our prize draw!</b>
 </p>
 
-  <p>NB: Session runs parallel with Introduction to Qualtrics and NVIVO Part 2 </p>"
+  <p>NB: Session runs parallel with Introduction to Qualtrics and NVIVO Part 2 </p>
+
+  <p><b><a href='https://echo360.net.au/media/c37874cb-7b69-4bea-83d2-23cc50207e70/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
 
   subtype: elective
@@ -380,8 +454,9 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
   description: "<p>Are you conducting research that requires participant recruitment? Conducting a survey or experimental research online? Then Qualtrics might be the platform for you. Qualtrics is an online survey software that can handle everything from simple questionnaires to detailed research projects. Design your survey with their intuitive drag-and-drop survey tool, powerful logic, and 100+ question types. This session is aimed at those who are new to using online survey platforms (or would like a refresher). Content covers creating a survey, selecting and setting up the most common question types, survey development (including survey flow and logic functions), and how to set up your data for export to excel and SPSS.</p>
   
-  <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, and NVIVO Part 2 </p>"
+  <p>NB: Session runs parallel with Meet Pawsey & Pawsey-Curtin Researchers, and NVIVO Part 2 </p>
 
+  <p><b><a href='https://echo360.net.au/media/e2a1f88e-5ccd-41cd-9dc7-3079121c26b8/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
 
 
   subtype: elective
@@ -424,7 +499,9 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
   <p><a href='https://support.pawsey.org.au/documentation/display/US/Cloud+Documentation '>Nimbus documentation</a>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand and CV/resume, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, and Curtin HIVE Tour</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Build Your Brand and CV/resume, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, and Curtin HIVE Tour</p>
+
+  <p><b><a href='https://echo360.net.au/media/e0151387-f6fa-4d6a-9d1f-871262808e3c/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>" 
 
   subtype: elective
   speakers: [8,13,18] #[3, 4]
@@ -436,7 +513,10 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: "Curtin Business School, <a href='https://link.mazemap.com/NrHhYJiT' target='_blank'> Building 407, Room 208</a>"
   description: "<p>Learning a new programming language can be a substantial time investment. Given the emergence of different programming languages, it is often difficult to decide if learning a new language is worth the time investment. The aim of this talk is to share my experience in learning and using Julia for research from a practical perspective. The talk will cover some of the useful features and annoyances of Julia as well as their relations to other languages such as Python and R.</p>
 
-  <p>NB: Session runs parallel with Build your Brand and CV/resume, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
+  <p>NB: Session runs parallel with Build your Brand and CV/resume, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>
+
+  <p><b><a href='https://echo360.net.au/media/7f37e721-8c59-4589-8440-ba9f1e7f9e18/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
 
   subtype: elective
@@ -450,7 +530,10 @@ The presenters will also talk about their journeys toward supercomputing, and th
 
   description: "<p>The goal for Perth Machine Learning Group is to develop AI capabilities in Perth through training and knowledge sharing.  We have over 2,800 members from industry, government and academia.  Our panel has hands on experience to implement machine learning/AI in the real world.  Come and ask us any questions so we can give you different perspective.</p>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Build your Brand and CV/resume, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Build your Brand and CV/resume, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>
+
+  <p><b><a href='https://echo360.net.au/media/72deb165-7540-4482-8cb6-10c31b347e45/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
 
   subtype: elective
@@ -463,7 +546,10 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/yoJylOYv'target='_blank'> Building 410, Room 209</a>"
   description: "<p>The Future of Young Australians reports suggest that Australian youth will have 5 different careers and 17 different jobs in their lifetime – and yep (although now not that young) -  I’m already there!  So how does a Research Scientist become a Career Consultant ? Come and find out in my Personal Branding session and learn how you can build your own brand to manage your own career path.  </p>
 
-  <p>NB: Session runs parallel with Introduction to Julia, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>" 
+  <p>NB: Session runs parallel with Introduction to Julia, Ask Us Anything! Advice on How to Use Machine Learning to Tackle Your Project, Introduction to Pawsey's Nimbus Research Cloud (& Hands-on Workshop) and Curtin HIVE Tour</p>
+
+  <p><b><a href='https://echo360.net.au/media/bc03014b-87e5-4780-a45c-c2b4ee515c37/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
 
   subtype: elective
@@ -476,7 +562,10 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/JANVgLc0'target='_blank'> Building 410, Room 201</a>"
 
 
-  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea. Join us for your chance to win a door prize! Proudly sponsored by the Curtin Institute for Computation.</p>"
+  description: "<p>Panel and networking event discussing how to leverage research, computational and digital skills for future careers, over afternoon tea. Join us for your chance to win a door prize! Proudly sponsored by the Curtin Institute for Computation.</p>
+
+  <p><b><a href='https://echo360.net.au/media/45425641-dc2e-4a59-946b-34fabcda5f97/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
 
   subtype: elective
   speakers: [2,1,3,27, 31] #[3, 4]
@@ -512,7 +601,10 @@ The presenters will also talk about their journeys toward supercomputing, and th
   subtitle: "Curtin Medical School, <a href='https://link.mazemap.com/yoJylOYv'target='_blank'> Building 410, Room 209</a>"
   description: "<p>Although data science applications are initiated to deliver value from data, many fail because they are deployed as time-bound technical projects rather than as part of an integrated business process. It is important to focus on not only organisational routines and standardised workflows, but also collaborative team process achieved by people with appropriate skills. This session will cover people skills, communications, and new ways of working in data science innovations, with a case study of machine learning model application in a mining operation context.</p>
 
-  <p>NB: Session runs parallel with Active Data Management in Cloudstor and Session runs parallel with Introduction to Bash and Git (version control) Continued </p>"
+  <p>NB: Session runs parallel with Active Data Management in Cloudstor and Session runs parallel with Introduction to Bash and Git (version control) Continued </p>
+
+  <p><b><a href='https://echo360.net.au/media/d74bbeb3-f899-4cf0-b1c9-46ff9575a810/public'target='_blank'>SESSION RECORDING AVAILABLE HERE</a></b></p>"
+
    
   subtype: elective
   speakers: [33] #[
