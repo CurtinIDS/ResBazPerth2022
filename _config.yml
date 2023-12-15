@@ -63,7 +63,7 @@ heroTitle: "ResBaz : Perth "
 #typeoutTextValues: '"Perth"'
 #typeoutFallback: "Perth"
 heroButtons:
- - {link: "https://wadsih.org.au/resbaz-2024/", text: "6 - 8 September 2022, Curtin Medical School, Curtin University. To register for Perth ResBaz 2024 visit wadsih.org.au/resbaz-2024"}
+ - {link: "https://wadsih.org.au/resbaz-2024/", text: "6 - 8 September 2022, Curtin Medical School, Curtin University. To register for ResBaz Perth 2024 visit wadsih.org.au/resbaz-2024"}
 
 # About Block
 aboutTitle: "About ResBaz Perth 2022"
